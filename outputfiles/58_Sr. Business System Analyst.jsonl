@@ -1,0 +1,185 @@
+{"text": "Name: elizabeth elizabeth"}
+{"text": "E-Mail: elizabeth.elizabeth@gmail.com"}
+{"text": "Address: Dongguan, China"}
+{"text": "Github: https://github.com/elizabeth"}
+{"text": "LinkedIn: https://linkedin.com/elizabeth"}
+{"text": "Phone No. 593838054637"}
+{"text": ""}
+{"text": ""}
+{"text": "Summary:"}
+{"text": "7+ years of diverse experience as a Business Systems Analyst in developing and implementing innovative business processes."}
+{"text": "Excellent knowledge of industry standard methodologies like Software Development Life Cycle (SDLC) such as Rational Unified Process (RUP),\u00a0Agile\u00a0methodologies such as\u00a0Agile\u00a0XP and\u00a0Agile\u00a0Scrum, and Waterfall. "}
+{"text": "Experience in HIPAA EDI transaction in support of HIPAA 834, 835, 837 270/271 transactions."}
+{"text": "Functional experience in health Care Industry with vast knowledge on Medicare and Medicaid."}
+{"text": "Excellent knowledge of HIPAA standards, EDI (Electronic data interchange) Transaction syntax like ANSI X12, Implementation and Knowledge of HIPAA code sets, ICD-9, ICD-10 coding, MMIS and HL7."}
+{"text": "Strong knowledge of FACETS and actively involved in end-to-end implementation of FACETS Billing, Enrollment, Claim Processing and Subscriber/Member module."}
+{"text": "Specialize in HIPAA 5010 implementation including GAP analysis"}
+{"text": "Experience in Medicaid Management Information System (MMIS). Expertise in various subsystems of MMIS- Claims, Provider, Recipient, Procedure Drug and Diagnosis (PDD), Explanation of Benefits (EOB)"}
+{"text": "Good knowledge of Data warehousing concepts like ETL using various methodologies and tools like Data Stage, Informatica Data Quality and Power Center."}
+{"text": "Expertise in impact analysis on the key application systems (claims processing, reporting, payments) and business process of health insurance companies."}
+{"text": "Clear understanding of ICD-9-CM and ICD-10-CM/PCS. Well versed with ANSI X12, HIPAA and HL7 standards."}
+{"text": "Worked in ETL environment involving DataStage and Business Intelligence tools like Cognos, Business Objects."}
+{"text": "Experience with Medicare and Medicaid: Claims processing, Membership, and Eligibility Verification and care management."}
+{"text": "Immense experience in various testing types like Functional, System, Regression, Performance, UAT testing and creating test plan and test cases. "}
+{"text": "Medical Claims experience in Process Documentation, Analysis and Implementation in 835/837/834/270/271/277/997(X12 Standards) processes of Medical Claims Industry from the Provider/Payer side"}
+{"text": "Exceptional ability to maintain and build client relationships with business owners to identify, prioritize and document business requirements."}
+{"text": "Extensive experience in Healthcare/Claims\u00a0adjudication with knowledge of industry compliance standards like HIPAA and EDI X12 transactions (834, 837, 835, 270/271, 276/277)"}
+{"text": ""}
+{"text": "Software/Hardware:"}
+{"text": "UML Tools\t\t: MS Visio, MS Project"}
+{"text": "Requirement Mgmt Tools: Requisite Pro, Clear Case/ Clear Quest, SharePoint, Tibco"}
+{"text": "Testing Tools\t\t: Quality Center, Test Director, Win Runner, QTP, Load Runner  "}
+{"text": "Databases\t\t: Oracle, Microsoft SQL Server, /PL/SQL, DB2, MS Access"}
+{"text": "Languages\t\t: JAVA, J2EE, SQL, PL/SQL, .NET, Java Script, VB Script, "}
+{"text": "Web Technologies\t: HTML, DHTML, CSS, XML"}
+{"text": "Operating Systems \t: Windows XP/2000/2007/2008, UNIX"}
+{"text": "Others / Reporting Tools: Microsoft Office Suite, Crystal Reports, Hyperion, Agile, RUP, Waterfall"}
+{"text": "Healthcare\t\t: HIPPA4010/5010, GEM, EDIFECS, FACETS, ICD9/10, ANSIX12, MMIS"}
+{"text": ""}
+{"text": "Experience:"}
+{"text": ""}
+{"text": "St. Joseph Hospital (Anaheim, California)\t\t\t\t\t\t\t\tJul 2012- Present"}
+{"text": "Sr. Business System Analyst"}
+{"text": "The St. Joseph Health (SJH) is an integrated healthcare delivery system sponsored by the St. Joseph Health Ministry and organized into three regions: "}
+{"text": "- Northern California "}
+{"text": "- Southern California"}
+{"text": "- West Texas/Eastern New Mexico "}
+{"text": "SJH range of care includes 14 acute care hospitals, home health agencies, hospice care, outpatient services, skilled nursing facilities, community clinics, and physician organizations. "}
+{"text": "This project is for Meditech Regionalization of all 9 instances of Meditech and upgrade to version 5.66 and Migration of integration engine from Sybase to Intersystem Ensemble. It involves coordinating with third party application vendor to implement the changes required in this exercise."}
+{"text": ""}
+{"text": "Gathered project detailed information from SMEs, directors and focus group."}
+{"text": "Scheduled and hosted high lever project meeting with application owner and third party vendor. "}
+{"text": "Impact analysis of radiology, cardiology, mammography applications like Fuji\u2019s Synapse PACS, Nuance eScription, PowerScribe speech recognition solution, MModal, GE Centricity (CPN), Iodine, As-OBGYN, Mammography Reporting System."}
+{"text": "Impact analysis of lab interfaces for Teleresults, Amalga, Medmined, physician portal Healthvision, point of care application like RALS Glucometer and Telcor, Quest diagnostic system."}
+{"text": "Analyze the MEDITECH data feed  and it involves generation of HL7 message for ADT, orders and lab results like CMP, CBC, Lipid, Ketones, PT, PTT."}
+{"text": "Coordinated for CAP validation of lab, micro, and pathology and blood bank results."}
+{"text": "Identified interfaces that need to be standardized and consolidated with timeline (immediate, future). "}
+{"text": "Gathered Business Requirements for datastage and cognos development and migration."}
+{"text": "Participated in weekly conference calls with corporate Business Intelligence team to improve reporting functions "}
+{"text": "Gathered all impacted HL7 field information of each applications in to Impact Analysis document."}
+{"text": "Tested the Business object reports, Brio Reports and BO Universes for various Facets applications."}
+{"text": "Prepared GAP analysis, impact analysis, migration documents of the assigned application."}
+{"text": "Collected purchase orders from applications to help remediate all project related activities and submitted it to the legal team for approval."}
+{"text": "Managed communications between application users and vendor and contacted application vendor as needed."}
+{"text": "Raised change request and participated in Change Management as required (To perform testing on the production)."}
+{"text": "Established questionnaires and resource levelling required for implementing HIPAA 4010/5010 and upgrading ICD9 to ICD-10 diagnosis codes."}
+{"text": "Co-ordinated connectivity testing between applications, Ensemble engine and Virtual Private Network (VPN) if the application is connected vie private network."}
+{"text": "Participated in standardization of interfaces and setup meeting with other teams as and when required."}
+{"text": "Developed User Stories, tracked tasks, and updated requirements in TFS (Team Foundation Server)."}
+{"text": "Worked with ETL group for understating for data loading for both dimensions and facts."}
+{"text": "Data mapping, logical data modeling, created class diagrams and ER diagrams and used SQL queries to filter data within the Oracle database."}
+{"text": "Performed Data Analysis and Data Validation by writing complex SQL queries using Teradata and SQL Assistant."}
+{"text": "Updated Teradata applications to reflect change in user requirements."}
+{"text": "Gathered user and business requirements through surveys, prototyping and observing from portfolio managers and UI (User Interface)."}
+{"text": "Lead Business Intelligence reports development efforts by working closely with Microstrategy, Teradata, and ETL teams."}
+{"text": "Involved in manual testing and UAT with the Meditech team, development team and QA team."}
+{"text": "Involved in intensive system level testing of analyzing the HL-7 messages coming out and in of Meditech."}
+{"text": "Worked in ETL environment involving DataStage and Business Intelligence tools like Cognos, Business Objects."}
+{"text": "Tuned DataStage transformations and jobs to enhance their performance."}
+{"text": "Responsible for scheduling and supported User Acceptance Testing (UAT) for each downstream application with application owner and vendor, obtain sign-off."}
+{"text": "Supported downstream applications during Meditech Standardization 5.66 Go-Live."}
+{"text": "Supported applications from the beginning (analyzed impact) to the end (migration, go-live and post go-live issue resolution) of the project and participated in the end to end testing."}
+{"text": "Environment: Meditech, Interface Explorer, DataStage, Cognos, Ensemble,SQL,Cherwell, MS Project, Business Intelligence, Teradata, Microsoft Office Suite, Facets."}
+{"text": ""}
+{"text": "State of New Mexico MMIS, Albuquerque, NM\t\t\t\t\t\t\tJun 2011 \u2013 May 2012"}
+{"text": "Business Systems Analyst"}
+{"text": "Medicaid Management Information System Omnicaid is the name of New Mexico's MMIS. ACS' a Xerox Company New Mexico Medicaid Project provides fiscal agent operations services for the state of New Mexico's Fee for Service Medicaid program. ACS contracts with the New Mexico Medical Assistance Division to process fee-for-service claims. Upon enrollment with NM Medicaid, providers are classified as billing providers or rendering/servicing providers. Some of ACS' responsibilities include the following operations enroll providers, process and pay claims, respond to provider inquiries and maintain the NM Medicaid Web Portal."}
+{"text": ""}
+{"text": "Participated and worked with a cross functional and diverse team of business users, EDI gateway team and developers to enable accurate communication of requirements and ensure consensus. "}
+{"text": "Worked in different phases of SDLC for project HIPAA 5010 remediation for all inbound and outbound claim transactions including 834, 820,277CA and 835. "}
+{"text": "Message translation, Message bus, Adapters, message transformation, parsing, Business rules and Transaction monitoring (BAM)"}
+{"text": "Prepared Business Context Diagram, Use Case diagrams and corresponding Activity Diagrams using Rational Rose to depict the workflows to be incorporated into the development of Business Process Management (BPM) tool."}
+{"text": "Created source table definitions in the DataStage Repository by studying the data sources."}
+{"text": "Apply UML notations and methodology in developing models that accurately represent the business process and workflows and clearly communicate them to the stakeholders. "}
+{"text": "Extensive experience working on Medicare parts A, B and D as well as Medicaid MMIS modernization projects.\u00a0\u00a0"}
+{"text": "Hands on experience on the MMIS Third Party Liability (TPL) Subsystem."}
+{"text": "Performed testing for Medicare, Medicaid and claims for Medicaid Management Information System (MMIS)"}
+{"text": "Manage and compile retrieved, collected and abstracted medical records to support reporting of HEDIS measures."}
+{"text": "development application architecture, and write specifications within Section 508 guidelines to ensure the software development life cycle.\u00a0"}
+{"text": "Experience with developing HIPAA Companion Guides for 834 Enrollments, 270/271 Eligibility Inquiry/ Response & 820 - Health Plan premium payments for MMIS"}
+{"text": "Designing & Implementation of a new Underwriting System for the new Individual Line of Business catering to MMIS"}
+{"text": "Planned and designed MMIS business processes; assisted in formulating recommendations to improve and support business activities Assisted in analyzing and documenting client's MMIS business requirements and processes."}
+{"text": "Reviewed and Analyzed Vision and Scope documents; Identified Key issues and Risks involved in developing the new BPM system."}
+{"text": "Designed and developed UNIX shell scripts as part of the ETL process, automate the process of loading, pulling the data."}
+{"text": "Used PERL scripting to extract text and re-generate texts based on xml documents received for content management."}
+{"text": "Developed functionality that provided customer's senior leadership with in-depth reporting and business intelligence capabilities"}
+{"text": "Managed Commission-wide internal and external subject matter expert interviews with current product users to support analysis and requirements gathering effort utilizing BPM systems product."}
+{"text": "Experience in Conversion of HIPAA X12 4010 codes to X12 5010 codes and ICD 9 codes to ICD 10 codes."}
+{"text": "Used Team Foundation Server (TFS) for source control, data collection, reporting, project tracking, and collaborative software development project"}
+{"text": "Established a Business Analysis methodology around the Agile methodology."}
+{"text": "Work with Compliance and Regulatory operations to follow and monitor different IT process bound by CMS Regulations."}
+{"text": "Mapped Medicaid Business Process Model to the MITA Business Process Model to establish the standard to be deployed for the MITA Assessment"}
+{"text": "Prepared graphical depictions of Use Cases, Use Case Diagrams, State Diagrams, Activity Diagrams, Sequence Diagrams, Component Based Diagrams, and Collateral Diagrams and creation of technical design (UI screen) using Microsoft Visio."}
+{"text": "Prepared business requirement documents, functional requirement documents (test cases/test plan), mapping documents and companion guide of transaction 834 and 820 for HIPAA 5010 remediation project."}
+{"text": "Involved in the deployment of various transactions including 835, 820 and 834 of the project for the end client."}
+{"text": "Writing PL/SQL procedures for processing business logic in the database. Tuning of SQL queries for better performance."}
+{"text": "Analyzed Facets enhancements, Change Controls and Service center tickets for claims"}
+{"text": "Performed batch interactive and paper claim testing for 835,278 837, 837P, 837D, encounter and I claims for Medicaid Management Information System (MMIS)."}
+{"text": "Performed Regression testing, End-to-End testing and User Acceptance testing of transaction 834 and 820 for HIPAA 5010 project deployment to the end client."}
+{"text": "Participated in peer review of business requirements test plans, mapping documents, and companion guide for other HIPAA 5010 transaction."}
+{"text": "Loading staging tables on Teradata and further loading target tables on SQL server via DTS transformation Package."}
+{"text": "Worked with claims, enrolment, eligibility verification for members and providers, benefits setup, and backend payment cycle."}
+{"text": "Installed and trained IT staff on Cognos and Hummingbird Business Intelligence tools."}
+{"text": "Performed parallel and regression testing of both ANSI X12 / EDI 4010 and 5010 transactions for (820, 278,278U, 835,277CA 834, 837P, 837I, and 837D)"}
+{"text": "Involved in preparation and update of system documentation for transaction 834, 820 278U, 278 and TCN for PAR."}
+{"text": "Performed batch interactive paper claim testing and regression testing for different codes including SISC code, Occurrence code, patient status code, value code, occurrence span\u00a0for claim transaction 837 institutional professional and dental"}
+{"text": "Environment: Requisite Pro, Rational Rose, BRD, Interfaces, PL/SQL, HTML, MS Office, MS Visio, EDI, BI, Rational Clear Quest, Rational Clear Case, DataStage , UML, Facet, MMIS, Business Objects, Business Intelligence, RUP, Scrum, Teradata, Microsoft Excel, Microsoft Word, Microsoft Power Point, MS Visio, Cognos."}
+{"text": ""}
+{"text": "Idaho Medicaid MMIS, Boise, ID\t\t\t\t\t\t\t\tApr 2009 \u2013 May 2011"}
+{"text": "Business Systems Analyst"}
+{"text": "Medicaid Management Information System (MMIS) is a composite of contracted systems at Idaho MMIS and Department of Health and Welfare. These systems are grouped into seven functional areas, recipients, providers, claims processing, reference files, surveillance and utilization review, management and administration reporting, third party liability. The project was integrate The recipient, provider, reference file, and claims processing subsystems function as an integrated unit with the overall objective to process and pay eligible providers for all valid Medicaid (Title XIX) claims on eligible recipients. The surveillance and utilization review and management and administrative reporting subsystems provided data consolidation, organization, and presentation which enable HHSC to manage its Title XIX program effectively."}
+{"text": ""}
+{"text": "Responsible for the requirement-gathering phase and project plan."}
+{"text": "Part of the team for migration of HIPAA \u2013 EDI X12 4010 series to 5010 series for EDI Transaction code sets."}
+{"text": "Responsible for the full HIPAA compliance lifecycle from gap analysis, mapping, implementation and testing for processing of Medicaid Claims. "}
+{"text": "Responsible for gap analysis in changing old MMIS and Involved in testing new MMIS."}
+{"text": "Worked as a liaison between Information Technology and Medicaid Stakeholders to ensure interests of both parties are represented.\u00a0"}
+{"text": "Responsible for GAP analysis of ICD9-ICD10."}
+{"text": "Worked on Report systems included in MMIS that were Pharmacy Claims, Medical Payment History Review and Reporting, State Data Exchange, Managed Care."}
+{"text": "Used HIPAA 4010 transactions to support the analysis\u00a0of current business processes and work with management to improve and implement enterprise solutions to ensure compliance and got involved in designing future state processes for\u00a0HIPAA 5010 transaction processing EDI\u2019s 837, 835, and 834 and ICD-10 Code sets."}
+{"text": "Extensive experience working on Medicare parts A, B and D as well as Medicaid MMIS modernization projects.\u00a0\u00a0"}
+{"text": "Hands on experience on the MMIS Third Party Liability (TPL) Subsystem."}
+{"text": "Analyzed HIPAA 5010 related to 837,835, 834 transactions and performed gap analysis between the 4010 and 5010. "}
+{"text": "Responsible for ensuring Section 508 incorporated in all aspects of full life-cycle development of applications."}
+{"text": "Automated the manual process to compare the data discrepancies between two major data warehouse systems and to keep them in sync using Perl scripting."}
+{"text": "Defined Functional Test Cases, documented, Executed test script in Facets system."}
+{"text": "Involved in various stages of SDLC for Colorado state projects (CSR) related with R_entity table POA indicator and delay payment"}
+{"text": "Performed GAP analysis of 4010 and 5010 EDI transaction using implementation guide to identify the changes in the segments and data elements."}
+{"text": "Matched the requirements for programs such as Medicare and Medicaid, which are part of the Social Security Act."}
+{"text": "Analyzed business processes, requirements, and data necessary to provide detailed logic for ETL development. Produced detailed source-to-target mappings for data warehouse/data mart objects"}
+{"text": "Develop & maintain reporting & gap-in-care model for HEDIS measures in accordance with NCQA technical specifications."}
+{"text": "Supported organizational initiatives associated with HEDIS Measures development and reporting for Medicare and Medicaid populations."}
+{"text": "Designed Application Process Flows, Source to target data mapping documents and Application Process flows for the new Data Warehouse and Business Intelligence initiatives. "}
+{"text": "Created Mapping Documents, Report Mockups and modified existing report mockups as to CMS requirements and finalized for development."}
+{"text": "Experience with developing HIPAA Companion Guides for 834 Enrollments, 270/271 Eligibility Inquiry/ Response & 820 - Health Plan premium payments for MMIS."}
+{"text": "Used\u00a0SQL queries\u00a0to extract, do counts and retrieve the data for Data Validation and Verification"}
+{"text": "Analyzed forms and successfully crosswalk details to corresponding ANSI X12 formats."}
+{"text": "Conducted System and Functional, User-Acceptance (UAT) and Sanity testing of applications."}
+{"text": "Developed the business anomalies workarounds and described them in documentation and presented the matter to the upper management for review."}
+{"text": "Set up definitions and process for test phases including Product test, integration test, system test and User Acceptance Test (UAT). Worked with end users to perform UAT Testing."}
+{"text": "Developed non-functional requirements and documented them as Business Rules, Quality attributes and constraint documents."}
+{"text": "Interacted with database developers for formulating the ER diagrams and data flow diagrams."}
+{"text": "Environments: UML, RUP, Rational Requisite Pro, .Net, MMIS, DataStage, Rational Rose, Business Intelligence, Facets, Rational ClearQuest, Excel, SQL, DB2, Cognos, Crystal Report, UAT, Test Plan, HP Quality Center"}
+{"text": ""}
+{"text": "Community Health Systems, Franklin, TN\t\t\t\t\t\t    Aug 2007 \u2013 Mar 2009"}
+{"text": "Business Systems Analyst   "}
+{"text": "Community Health Systems (CHS) is one of the nation\u2019s largest publicly traded healthcare companies. The organization's affiliates own, operate, or lease more than 206 hospitals in 29 states, with an aggregate of nearly 31,000 licensed beds. In more than 65 percent of the markets served, CHS-affiliated hospitals are the sole provider of healthcare services. The objective of the ACA (Affordable Care Act) 1104 project was to have a Business Analyst to elicit business requirements and to develop the business level design for the transformation from ICD9 to ICD10 and verify the EDI transactions."}
+{"text": ""}
+{"text": "Worked closely with the client for the creation of RSD (Requirement Specification Document) for Interactive Voice response (IVR) Claim inquiry and response. "}
+{"text": "Conducted JAD sessions to understand and document the various rules for ACA (Affordable Care Act) 1104 phase I, II and III."}
+{"text": "Wrote viable detailed user documentation and RSD (Requirement Specification Document) documents with the purpose that developers could formulate application with minimum guidance"}
+{"text": "Worked with users of the MMIS System and provides guidance for the users and assignment of categories, manufacturers, inventory locations and tables."}
+{"text": "Interacted with Clinical teams, HIIM, and business partners to understand the clinical content requirements in the EHR and address needs to modify and/or update content as necessary to comply with the CHS standards. "}
+{"text": "Worked with clinical liaisons to determine facility specific services, requirements, and communications related to MU build content."}
+{"text": "Created a RSD for the ACA 1104 project for implementing the operating rules for various HIPAA transactions such as HIPAA 5010 270/271 transaction, HIPAA 5010 276/277 transaction, and Health Care Electronic Funds Transfers (EFT) and Electronic Remittance Advice (ERA) transactions."}
+{"text": "Worked in Medicaid Management Information System (MMIS). Expertise in various subsystems of MMIS- Claims, Provider, Recipient, Procedure Drug and Diagnosis (PDD), Explanation of Benefits."}
+{"text": "SharePoint site Administration to make sure that all the updates were made to the DSD (Design Specification Document) as requested by the State Client. "}
+{"text": "Accountable for designing future state processes for\u00a0HIPAA 5010 transaction processing EDI\u2019s 837 and 835.In addition Reviewed HIPAA 5010 related to 837,835, 834 Transactions and conducted gap analysis between HIPAA 4010 AND HIPAA 5010."}
+{"text": "Proficient in creating and maintaining Workflow plans and artifacts."}
+{"text": "Implemented the HIPAA privacy and security regulations to enhance the capabilities of the systems to process new products."}
+{"text": "Employed JAD sessions for defining the project and decreasing the time frame needed to complete deliverables."}
+{"text": "Created an Excel spreadsheet for keeping track of all the Defects using Quality Center."}
+{"text": "Sound Knowledge of Agile methodologies such as SCRUM and adept at keeping track of all Milestones in the project."}
+{"text": "Environment: Agile, SCRUM, MITS (Medicaid Information Technology System), SQL ,SharePoint, MMIS, Quality Center, iTRACE, ALM (Application Lifecycle Management)."}
+{"text": ""}
+{"text": ""}

@@ -1,0 +1,211 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Chicago, United States"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 146669944783"}
+{"text": ""}
+{"text": "Summary:"}
+{"text": "9 years of experience in Software Quality Assurance in Manual/ Automation Testing. "}
+{"text": "Strong knowledge of Software Development Life Cycle (SDLC) & Software Testing Life Cycle (STLC)."}
+{"text": "Performed GUI, Functional, Integration, Regression, Data Driven Testing, User Acceptance, Smoke, Sanity and System testing."}
+{"text": "Experience in writing Test Cases, developing and maintaining test script based on business and functional requirements."}
+{"text": "Experience in Test Data creation based on requirements, Test Case execution, generation and documentation of Test results."}
+{"text": "Involved in testing of application both manually as well as using automated tools like Quick Test Pro, Quality Center."}
+{"text": "Strong experience in developing and maintaining test automation of GUI/Functionality/System testing using testing tools QTP, Selenium webdriver, Selenium grid, QC, LOAD RUNNER,\u00a0PEGA\u00a0PRPC,\u00a0BPM,\u00a0SILK, JTEST,\u00a0RATIONAL TEST, Rally, PVCS Tracker and SILK RADOR, Ruby."}
+{"text": "Strong hands-on experience with scripting languages like Java Script, Angular.js, VB Script, HTML, DHTML, and XML"}
+{"text": "Proficient in analyzing the BRS(Business Requirement spec), SRS(System Requirement spec) and FRS(Functional requirement spec) for preparing and documenting the Test plans, Test cases and executing the Test cases for both manual and automation testing."}
+{"text": "Experience in Defect tracking, Defect management and Bug Reporting Tools like Quality Center,Test Director, Rational Clear Quest and version control tools like Rational Clear Case."}
+{"text": "Expertise in testing mobile applications in iOS and Android platforms."}
+{"text": "Extensive experience in testing mobile applications using different devices."}
+{"text": "Experience in testing Electronic Data Interchange (EDI) according to HIPAA Compliance."}
+{"text": "Heavily used Quality Center for managing test cases, executing and storing results and raising defects."}
+{"text": "Vast knowledge and experience in Health Care industry, experienced in testing different healthcare ERP solutions such as FACETS, MedPlus, EPIC and other claim processing solutions."}
+{"text": "Experience in using test management tools like QC (Quality Center) and Test Director. Have hands-on on experience in other bug tracking tools JIRA."}
+{"text": "Extensive working experience in Agile (Scrum) and Waterfall methodologies."}
+{"text": "Experience in writing SQL queries and other database operation for various RDBMS like ORACLE, SQL Server and DB2."}
+{"text": "Extensive working experience in Web-based environment."}
+{"text": "Experience in creating Requirement Traceability Matrix (RTM) to ensure comprehensive test coverage."}
+{"text": "Experience in creating TEST Environment for VC++, VB6, .NET, JAVA on Windows based system."}
+{"text": "Proficient in Internet concepts, protocols, browsers (Mozilla Firefox, Opera, Netscape, IE), protocols like HTTP, HTTPS, FTP, SMTP."}
+{"text": "Performed front end testing to verify functionality, GUI and usability."}
+{"text": "Experienced in creating and enhancing automation script using several QTP scripting methods such as Descriptive programming, object repository method."}
+{"text": "Experience in testing Web, Web Services (SOAP and REST) and Client/Server software."}
+{"text": "Experience of UNIX Server with respect to Operating System and variety of commands."}
+{"text": "Ability to manage multiple projects simultaneously in a team environment."}
+{"text": "Expertise in JAVA, HTML, XML, Angular.js,  QTP and SOAPUI automation tools."}
+{"text": "Defined automation test flow profiles/objectives/plans/estimations; script recording/debugging and maintenance. "}
+{"text": "Identified the dynamic data content/parameterization; prepared the input data; data driven tests and result analysis."}
+{"text": "Ran the automation scripts in multiple environments (dev and qa); controlled the flow on role basis and scheduling. "}
+{"text": "Strong interpersonal skills and excellent communicator who works well independently and as a team, presentation skills, self-starter, quick learner and motivator."}
+{"text": "Highly skilled in project management and multi-tasking, works efficiently in fast-paced environment while prioritizing responsibilities to meet management deadlines."}
+{"text": "\u00a0"}
+{"text": "Technical Skills: "}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "WORK EXPERIENCE"}
+{"text": "Merck(Atlanta, GA)\tJan 2013 to Present"}
+{"text": "Lead  QA Analyst"}
+{"text": "Merck had 331,907 Texas Medicaid claims that pended due to authorizations between 3/2/06 and 2/28/07. Pended claims require additional work in several departments to be processed correctly. The estimated COPQ related to the additional work for all FACETS markets during this time period is approximately $400,000.\n\nThe project goal is to improve the Sigma Level to greater than 3.2. Reduce the number of pended claims due to authorizations to less than 4%. Reduce the COPQ by 50%"}
+{"text": "Responsibilities:"}
+{"text": "Performed Functional, System and Regression testing (using REST and SOAPUI) of a web based application working in an agile environment."}
+{"text": "Involved in developing detailed Test Strategy, test plan, test cases using Quality Center for Functional and Regression Testing"}
+{"text": "Involved in writing Test plans and Test Design"}
+{"text": "Interacted with end users to obtain specific system requirements"}
+{"text": "Prepared test cases for Boundary Value Analysis using Black Box testing techniques."}
+{"text": "Executed test cases manually and automated to check GUI and Functional features of the application, compared and analyzed actual with expected results and reported all deviations to the appropriate individual(s) for resolution using QC."}
+{"text": "Converted manual test scripts to automated test scripts in QTP."}
+{"text": "Used Pega PRPC,  BPM to account for rapid changes in either the requirements or the documentations and to test the application using the Testing Management Framework."}
+{"text": "Used various quality control analysis like Manual, GUI, Functionality Testing, Smoke testing, White Box testing, System testing, Database Testing, Integration, User Acceptance Test (UAT), Performance, and Regression Testing, Web Testing (Java & HTML pages) using Quick Test Professional(QTP) and Quality Center (QC). "}
+{"text": "Form the requirements and using technologies such as Java Script, Angular.js,  XML, LDAP, AML language (similar to XML), and TIBCO configure and provide custom enhancements to the client."}
+{"text": "Used HP QTP to develop and maintain reusable Test scripts and worked with Expert view Environment using Parameterization, Checkpoint, Regular Expression, Object Model, Virtual Objects, and Recovery Scenarios etc."}
+{"text": "Involved in preparing Test Data for various scenarios."}
+{"text": "Performed quick checks on the application UI using Selenium web driver and Selenium grid."}
+{"text": "Expertise in Selenium testing tool for functional, integration and system testing."}
+{"text": "Analyzed current Claim Authorization Process across all the FACETS Markets. Identified possible constrains that pends claims related to Claim Authorization Mismatch."}
+{"text": "Configured best suitable Facets CLUM Settings in order to auto-adjudicate maximum number of pended claims."}
+{"text": "Exported and Imported test data between Quality Center and MS Excel/Word."}
+{"text": "Checked the data flow through the front and backend and used SQL queries to extract the data from the database."}
+{"text": "Performed an end-to-end test in a production environment to validate new or updated business processes, customization and configuration, reports, and data migration."}
+{"text": "Testing the operational tasks involved in loan products covering account creation, approvals, and disbursals, making payments and closing of accounts using end- end testing."}
+{"text": "Performed end-end testing to carry out operational tasks in saving products, client management and fee payback."}
+{"text": "Prepared weekly productivity reports and submitted test metrics to the management."}
+{"text": "Logging and managing the defects in Quality Center."}
+{"text": "Environment:"}
+{"text": "QTP8.2, Quality Center 11.5 (ALM), JIRA, .Net (VB.Net, ASP.Net, C++, C#, .Net), REST, SOAP, PEGA PRPC, PEGA BPM, MS Office 2007, VB Scripting, Java Scripting, Angular.js, Windows, Selenium Web driver, Selenium grid, UNIX, C, PL/SQL, Oracle, SQL Server, FACETS, both Manual and Automation testing."}
+{"text": ""}
+{"text": "PA-Dept of Health (Harrisburg, PA)\tJuly 2011 to Jan 2013"}
+{"text": " Sr. QA Analyst"}
+{"text": "The National Electronic Disease Surveillance System (NEDSS) is a national initiative driven by the Centers for Disease Control (CDC). The \u201cNEDSS vision\u201d includes use of the Internet for data collection and transmission, collection of data as close to the source as possible, incorporation of electronic laboratory reporting, and use of uniform coding schemes and data transmission protocols."}
+{"text": "This innovative Web-based application establishes a near real-time, secure communication link between laboratories, hospitals, individual medical practices, and the DOH."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interacted with SME (Subject matter Expertise) for better understanding of the application functionality."}
+{"text": "Analyzed business requirements documents and system requirement specification to put together a Test plan."}
+{"text": "Performed Smoke testing on the Build."}
+{"text": "Performed manual testing for the GUI and Functionality of the application."}
+{"text": "Additionally, worked closely with the developers and business analysts to formulate the test cases."}
+{"text": "Tested web application interface, functionality, usability and performance, using SQL and Selenium web driver."}
+{"text": "Designed and Documented Test procedures and Test cases for User Acceptance, Functional and Integration testing using Quality center."}
+{"text": "Developing new functionality for requirement including both back-end and front-end parts(Java & JSP Java/J2EE,Web services, REST, SOAP, XML, Angular.js, Oracle )"}
+{"text": "Designed the Test Plans and Test Scenarios accordingly, which involved reviewing Business flow diagrams, and Dataflow diagrams that were created using Use Cases."}
+{"text": "Involved in end to end testing to test the complete application environment such as interacting the sanctions in payment and accounting systems."}
+{"text": "Perform HIPAA Validation of Clearing House application."}
+{"text": "Used Pega for business process management."}
+{"text": "Validate different Electronic Data Interchange (EDI) formats such as X-12, EMCDS, PCDS and 1500 formats."}
+{"text": "Validate different EDI formats and transactions under HIPAA compliance."}
+{"text": "Maintained bug lists for critical issues using Quality Center 10.0,\u00a0JIRA\u00a0for bug tracking"}
+{"text": "Assigned severity levels to different test cases and prioritizing them. Thereafter, performed testing in that manner."}
+{"text": "Mapped Requirements to test cases, providing Requirement Traceability Matrix to ensure project implementation within given timeline using Quality Center."}
+{"text": "Wrote SQL (Toad) queries to check whether correct information was retrieved from the database."}
+{"text": "Involved in automating the regression Test cases by scripting."}
+{"text": "Conducted data-driven tests, Synchronization point and verify checkpoints using QTP. Prepared different set of data for data driven testing using QTP."}
+{"text": "Managed Defect Tracking process, which included prioritizing bugs, assigning bugs and verifying bug fixes using quality center."}
+{"text": "Actively involved in daily scrum meeting for tracking testing progress."}
+{"text": "Collected and analyzed test metrics and subsequently submitting reports to track the status and progress of the testing effort. "}
+{"text": "Actively involved in meetings and reviews to discuss any changes and impacts of new functionalities that were added during the quality control life cycle."}
+{"text": "Communicated with developers to help resolve the defects investigated in the application during testing."}
+{"text": "Did User Acceptance Testing on before installation of the application to user environment."}
+{"text": "Environment:"}
+{"text": "QTP8.2, Quality Center 10.0, Test Director, SQL,  Java, Java Script, REST, Angular.js, Toad, C++, C#, .Net, ASP, PEGA, Selenium, Selenium web driver, MS Office, Oracle 10i, UNIX, Web logic"}
+{"text": ""}
+{"text": ""}
+{"text": "KPMG (Atlanta,\u00a0GA)                                                                                       Jan 2010 to July 2011"}
+{"text": "QA\u00a0Analyst"}
+{"text": "KPMG\u00a0provides audit, tax and advisory services and industry insight to help organizations negotiate risks and perform in the dynamic and challenging environments in which they do business.\u00a0eAudIT, an enterprise solution designed and developed to\u00a0build support and enable the audit and advisory methodology. It is robust and easy-to-use application that supports consistent implementation of the audit, advisory process and helps to drive quality with industry standards and compliances.\u00a0eAudITbalances prescriptive screen-driven data entry with the more familiar forms/document-driven data entry using InfoPath form to achieve its requirements and to support electronic workflows, Electronic reviews, real time connectivity/ Synchronization and team management."}
+{"text": "Responsibilities:"}
+{"text": "Analyzed business requirements to understand the needs and developed Automation test plans to achieve the objective of the testing process."}
+{"text": "Achieved objective of testing process Using Business requirements to create automation test plan"}
+{"text": "Used\u00a0TestComplete7\u00a0to test\u00a0Functionality,\u00a0Performance\u00a0and\u00a0Validation\u00a0Scripts and smoke"}
+{"text": "Designed the\u00a0Automation Script execution plan\u00a0for Version releases and interim builds."}
+{"text": "Performed\u00a0Workgroup\u00a0and\u00a0Workgroup plus performance testing\u00a0for 1Eng with 1, 5, 15, 10, 25, 30Clients."}
+{"text": "Developed test scripts for critical workflow using TestComplete7 to perform regression testing"}
+{"text": "Create test cases using Pega PRPC"}
+{"text": "Coordinated with the team in developing the Functional Test Scripts and Created\u00a0Design documents\u00a0for offshore team."}
+{"text": "Used checkpoints for checking functionality specifics to enhance automated test scripts"}
+{"text": "Created scripts handling app error in order to recover from a crash and continue execution."}
+{"text": "Execute test processes for new and existing web-based client server software applications using Selenium web driver and Selenium grid."}
+{"text": "Validated field levels in\u00a0different locals\u00a0for\u00a0Date, Text, Alphanumeric, Currency, Numeric, Percentage and Combo box fields with the use of test data.\u00a0"}
+{"text": "Used external excel sheet to enhance script with parameterization"}
+{"text": "Worked with\u00a0Regular expression\u00a0with testing window titles, Status Bar messages and dialogue box messages"}
+{"text": "Manually verified database changes\u00a0which acquired due to the new inputs in tables and new fields "}
+{"text": "Performance testing on different functionalities\u00a0with, US images , between different builds and global image"}
+{"text": "Extensively used\u00a0TFS\u00a0as a repository for scripts and Defect Tracking."}
+{"text": "Interacted with end-users in different countries and resolved the issue by helping them "}
+{"text": "Resolved end user issues in different countries by helping them understand how to use the functionalities"}
+{"text": "Actively participated in\u00a0QA walkthroughs\u00a0and\u00a0Defect review\u00a0meeting."}
+{"text": "Environment:"}
+{"text": "TestComplete7, VB Script, VB .Net, C++, C#, SQL Server 2005, Selenium grid, Selenium web driver, WPF, PEGA PRPC, UNIX,  XAML.VSTS2005, VSTS2005, and VSS (Visual Source Safe)"}
+{"text": ""}
+{"text": ""}
+{"text": "Suntrust Bank, GA        \t\t\t\t\t\t\tMar 2008 to Jan 2010"}
+{"text": "Title: QA Analyst"}
+{"text": "Project: Data warehousing & MIS"}
+{"text": ""}
+{"text": "Core objective of the project is to make one database which will serve all MIS requirement and to produce enhanced MIS reports for decision making. All the data required is taken from various systems such as Investment, Trading, Loan, etc. (which includes fixed income) and stored in one database to enhance the performance of MIS System."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Analysis of Business requirements & Design Specification Document to determine the functionality of the ETL Processes."}
+{"text": "Tested the ETL Informatica mappings and other ETL Processes (Data Warehouse Testing) for end to end testing.\u00a0"}
+{"text": "Involved in testing\u00a0the business reports by writing complex SQL queries and validating the downstream applications like DT4 and LabLink."}
+{"text": "Created flow charts to exhibit the flow of data from source datasets to the final reports using MS VISIO."}
+{"text": "Responsible for Test deliverables including Test specifications, Requirements Traceability Matrix"}
+{"text": "Design, developed and maintained SQL scripts."}
+{"text": "Created Test input requirements and prepared the test data for Data Driven testing using LabWare application and verify that the data migrates from LabWare data base to the warehouse.\u00a0"}
+{"text": "Generated reports using Informatica Power Analyzer."}
+{"text": "Prepared extensive set of validation test cases to verify the data following the CUSLC methodology."}
+{"text": "Tuned stored procedures/scripts, SQL queries to improve the system performance"}
+{"text": "Developed Test Plan and Test Cases using HP Quality Center to test the application for the new code."}
+{"text": "Prepared Test Cases for the mappings developed through the ETL Informatica tool and executed those Test Cases."}
+{"text": ""}
+{"text": "Environment: ETL, Informatica,\u00a0Cognos, BI Report Studio, Cognos 7.3 Series, Teradata, Oracle 10g, SQL Server 2005/2000, HP Quality Center 9.2, SQL/PLSQL,Sybase, QTP, TOAD, XML, XSLT, XML Spy 2008, Quality Stage 7.1, Korn Shell Scripts, UNIX, Windows XP"}
+{"text": ""}
+{"text": ""}
+{"text": "Charles Schwab, Austin, TX\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0June 2005 to Jan 2008"}
+{"text": "QA Analyst"}
+{"text": ""}
+{"text": "\u201cSchwab Mobile\u201d is a mobile application for the clients of the Charles Schwab. It is available in iPhone, iPad, Android and Tablets. The application provides the features for managing the brokerage, Schwab bank and 401 (k) accounts. The application also provides the real time quotes, charts, watch lists, news and more. Using the application one can view detailed position data, trade stocks, exchange traded funds, options, mutual funds and check the status of your orders. This application provides online transfers and remote deposit capture services also."}
+{"text": "Responsibilities:"}
+{"text": "Designed the efficient manual test cases (both positive and negative) based on the analysis of Business Requirement documents, SRS, Functional Specs, Technical Design documents and Use cases."}
+{"text": "Interacted with Specification requirements team and developers regularly."}
+{"text": "Responsible for performing the Regression tests for every new builds, interim builds, candidate builds and modifications in production, development and QA environments."}
+{"text": "Analyzed the business logic of trading and banking operations and designed test cases."}
+{"text": "Worked on different trading module stocks, Options and Mutual funds."}
+{"text": "Tested Charles Schwab banking modules for brokerage and bank accounts."}
+{"text": "Analyzed end to end functionality by testing the application manually."}
+{"text": "Involved in user authentication testing for both Android and Apple devices."}
+{"text": "Tested the application for navigation to different pages, buttons and other features on the page."}
+{"text": "Tested Charles Schwab application in iPad, iPhone, version 3 and 4."}
+{"text": "Tested different modules of application in Android."}
+{"text": "Used Quality Center to design the scripts, perform baseline testing, execute the scripts and organize all the scripts systematically and generate reports."}
+{"text": "Updating scripts in Quality Center and excel sheets."}
+{"text": "Interacted with business analyst to discuss better UI features that can be provided through the application to the clients."}
+{"text": ""}
+{"text": "Environment:"}
+{"text": "iOS, Android, Windows, SQL Server, Quality center."}
+{"text": ""}
+{"text": ""}
+{"text": "Education:"}
+{"text": "North Carolina A&T State University\tGreensboro, NC"}
+{"text": "B.S., Electronic Technology"}
+{"text": ""}
+{"text": "SCHOOL PROJECT"}
+{"text": "North Carolina Agricultural & Technical State University"}
+{"text": ""}
+{"text": "A Linux and Shell based project where mass amount of data in any given format would be able to be compressed and categorized and to meaningful and useful information. This compressed data would make the data easily readable and better understandable. "}
+{"text": "Responsibilities"}
+{"text": "Review the requirements and expectations of the project"}
+{"text": "Reviewed the background and standards of shell scripting"}
+{"text": "Ran test cases on sample amounts of data"}
+{"text": "Locate a large amount of usable data"}
+{"text": "Find a way to convert the format of the data found into a format acceptable by our shell script"}
+{"text": "Confirmed and tested that the data was being compressed and organized in the right categories"}
+{"text": "Confirmed the completion of the project"}
+{"text": ""}
+{"text": "Environment:"}
+{"text": "Linux based, Shell scripting, agile environment"}
+{"text": ""}
+{"text": "Education:"}
+{"text": "North Carolina A&T State University\tGreensboro, NC"}
+{"text": "B.S., Electronic Technology"}

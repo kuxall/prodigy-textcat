@@ -1,0 +1,126 @@
+{"text": "Name: agnes agnes"}
+{"text": "E-Mail: agnes.agnes@gmail.com"}
+{"text": "Address: Dhaka, Bangladesh"}
+{"text": "Github: https://github.com/agnes"}
+{"text": "LinkedIn: https://linkedin.com/agnes"}
+{"text": "Phone No. 169104889697"}
+{"text": "Professional Profile"}
+{"text": "Over 5+ years\u2019 experience in Quality Assurance"}
+{"text": "Extensive knowledge of SDLC and STLC"}
+{"text": "Excellent skills in writing Test Plans and Test Cases"}
+{"text": "Extensive experience in testing Client/Server and Web-based Applications"}
+{"text": "Expertise in Bug reporting tools such as ALM, Quality Center, JIRA and Polarion Library"}
+{"text": "Hands -on- experience in Back-End Testing using SQL Server to validate the consistency of data. "}
+{"text": "Excellent skills in Manual testing of warehouse management system"}
+{"text": "Good understanding of ETL testing for supporting data extraction, transformations and loading process using ETL tools like Informatica. Familiarity with fact tables, dimension tables, star schema and snow flake schema."}
+{"text": "Good Knowledge in Automation testing using QTP/UFT. Data Driven Testing using parameterization in Quick Test Professional (QTP) to test the application with different sets of data."}
+{"text": "Good Knowledge in Mobile Application Testing."}
+{"text": "Expertise in Data Warehouse/Data mart, ODS, OLTP and OLAP implementations teamed with project scope, Analysis, requirements gathering, data modeling, Effort Estimation, ETL Design, development, System testing, Implementation and production support."}
+{"text": "In-depth knowledge of all QA Phases that include Functional, System Testing, Regression Testing, End-to-End testing , UAT etc."}
+{"text": "Hands-On experience in Performance testing tools like HP Load Runner (VUGen, Controller, Analysis), Performance Center"}
+{"text": "Expertise in creating Scenarios and executed the VUGen scripts in Load Runner for Performance, Load and Stress Testing using Controller in Load Runner and generated reports using the Analysis tool in Load Runner   "}
+{"text": "Strong Knowledge on MS Office suite (Word, Excel, PowerPoint), and MS Access"}
+{"text": "Good Experience in Web Service testing using SOAP UI."}
+{"text": "Good Knowledge of Medicaid/Medicare Services and Claim Processing"}
+{"text": "Excellent Knowledge of HIPAA"}
+{"text": "Experience working in Healthcare industry with Patient Portal, Insurance, Claim Processing, etc. "}
+{"text": "Good understanding of insurance policies like HMO and PPO , EDI transaction codes such as 834 (Enrollment & Maintenance),  270/271 (inquire/response health care benefits), 276/277 (claim status), 834 (Benefit enrollment), 835 (Payment/remittance advice), 837 (Health care claim)"}
+{"text": " Expertise in technical and business user\u2019s teams for validation of ETL Test cases."}
+{"text": "Excellent communication and writing skills with the ability to adapt to new and dynamic environments."}
+{"text": "Ability to multi-task, prioritize and work with time constraints while paying attention to details."}
+{"text": "Good problem-solving, judgment, and decision-making skill"}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": "Education"}
+{"text": "Master of Business Administration (The University of Findlay),Ohio, USA"}
+{"text": "Bachelor of Science in Computer Engineering, Nepal"}
+{"text": "Certificate in Quality Assurance"}
+{"text": ""}
+{"text": "Experience"}
+{"text": ""}
+{"text": "Swisslog Logistics, Newport News , VA\t\t \t\t\t     \t          Apr'18-June'18"}
+{"text": "Project: Warehouse Management System (WMS 6)"}
+{"text": "Role: Software Quality Analyst\t"}
+{"text": "\tDescription: SwissLog is a leading provider of Warehouse and Distribution Solution in the Food and Beverage, Retail and Pharmaceutical Industries. WMS 6 application is developed for Michelin Project to manage their Warehouse Management System. I was involved in testing the Inbound & Outbound flow of System from Receiving to Shipping service of the Products (Tires) which is been offered by SwissLog to its client Michelin."}
+{"text": "      Responsibilities:"}
+{"text": "Reviewed Functional requirements documents, High level design requirement documents and finalize the testing in scoops and scenarios for Integration testing for each project."}
+{"text": "Participated in setting up testing environment."}
+{"text": "Provide estimations for ETL deliverables and oversee the progress for quality ETL Deliverables."}
+{"text": "Involved in writing Test cases and responsible for executing the Test Scripts using ALM Polarion."}
+{"text": "Involve in verifying  if it is a  SW issue on Swisslogs side or something failing on the Client side."}
+{"text": "Logged defect in Polarion and ensured defects are being assigned and worked upon."}
+{"text": "Performed Manual testing of the Application in different environment like Staging  and Production in House and on-Site . "}
+{"text": "Performed extensive UAT and documented the errors and reported them to the developers."}
+{"text": "Worked with team manager in supervising, guiding, and supporting their testing efforts for Integration."}
+{"text": "Performed overall operation of the WM6 software as well as the functionality of individual modules such as Warehouse Management, Operation/Workload , Logging & Statistics, Configuration and Maintenance, etc ."}
+{"text": "Tested end to end application process which includes the Inbound and Outbound of Trailer Spot Plan, Product Master, Receiving, Picking, Putaway, Cycle count, Cutback ,Order Master, Shipping of the Products  by using System Enterprise Portal and RF devices."}
+{"text": "Partially involve in testing the application for AutoStore for non -liquid goods."}
+{"text": "Written and Executed SQL queries and used Joins, Group by clause , Having clause etc. to validate the Reports and compared the data."}
+{"text": "Performed Testing on Request and Response for XML Messages using SOAP UI."}
+{"text": "Attended Daily standup meetings, Participated weekly meeting with Project Manager and Business partners to discuss on defects and next steps."}
+{"text": "Involved in Setting Up and Maintain documentation, helped new team members in setting up the projects and travel profile. "}
+{"text": "Performed Unit Testing, System Testing and Integration Testing to verify the accuracy and completeness of ETL Process."}
+{"text": "Provided after hours support to address the customers issues that are reported after normal business hours."}
+{"text": ""}
+{"text": ""}
+{"text": "North American Medical Technology Group (NAMTG) \t\t\t\t           Jan'17-Feb'18"}
+{"text": "Atlanta , GA\t "}
+{"text": "Project: Manage My Patient (MMP)"}
+{"text": "Role: Software Quality Analyst\t"}
+{"text": "\tDescription: MMP application is developed for Doctor\u2019s Office to manage the patient portal, insurance claim etc. My role as a QA Analyst includes testing the functionality of an application to ensure the system is working as per the business requirement. "}
+{"text": "\tResponsibilities:"}
+{"text": "Worked on Agile SDLC approach implementation for the whole testing life cycle."}
+{"text": "Attended Sprint plan meetings, Daily standup meetings, and Reviewed user stories in Agile Environment. "}
+{"text": "Developed and Executed Test Cases in Version One Tool."}
+{"text": "Logged the defect in JIRA"}
+{"text": "Involved in the documentation of Test Plan, Test cases, Test Data Document and RTM (Requirement Traceability Matrix)."}
+{"text": "Involved in complete Software QA Testing life cycle right from reviewing user stories, test plan, test cases, test data prep, smoke test, test case execution, defect tracking, Functional testing, regression testing, UAT etc."}
+{"text": "Tested the overall operation of the software as well as the functionality of individual modules such as Patient, Admin, Doctor and Insurance Provider."}
+{"text": "Written and Executed SQL queries and used Joins, Group by clause , Having clause etc. to validate the Reports and compared the data."}
+{"text": "Validated the connection and data between Admin web services and Insurance claims web services. Performed CRUD operation using RESTFUL  Web services . Added Assertion to validate the response xml with database."}
+{"text": "Tested end to end application process including Signup, Sign in,  Schedule Appointment Process,  Online payment , Check Reports, Submitting Claims etc."}
+{"text": "Prepared daily/ weekly status reports on Test case execution, defects, RTM etc."}
+{"text": "Involved in weekly defect review meetings to review the status of defect fixes and upcoming build releases."}
+{"text": "Documented the test execution summary results and reported the status of assigned test tasks and issues to project manager for approvals."}
+{"text": "\t"}
+{"text": "PNC Bank , Strongsville, OH \t\t\t\t                                           \t          Feb'15- Nov'16                               "}
+{"text": "Project: ATM Application"}
+{"text": "Role: QA Analyst/Performance Tester "}
+{"text": "\tDescription: Multi-Vendor Software Automated Teller Machine (MVS_ATM) for PNC Bank National Association. It's a  Web Based application . My role as a performance tester was to test the performance of the ATM application for different operations such as Account Overview, Transfer, Withdrawal, Deposit, Pin Change etc."}
+{"text": "\tResponsibilities: "}
+{"text": "Attended meetings to outline and present performance testing strategies and objectives to simulate realistic production scenarios for load and stress testing"}
+{"text": "Analyzing the requirements, preparation of Test Scenarios based on requirements and risks"}
+{"text": "Defining the test scenarios and making sure that the scripts are working according to planned scenario."}
+{"text": "Using Vugen in Load Runner to build the scripts for HTTP/HTML, Web Services and Web (Click and Script) protocols"}
+{"text": "Modifying the scripts using C language to correlate dynamic values , Parameterization and also to validate the transaction"}
+{"text": "Monitoring the metrics such as response times, throughput and server resources such as CPU Utilization, Available Bytes and Process Bytes by using Load Runner monitors"}
+{"text": "Designing the Load Runner scenarios with various user-mix incrementing in constant ratios, till the peak load is achieved"}
+{"text": "Performing Baseline testing, stress testing, average load testing, peak load testing and Breakpoint testing using Performance Center as required for a project"}
+{"text": "Conducting failover testing(Cluster Testing)."}
+{"text": "Analyzing the Web Service architecture completely and invoked web services with different test data"}
+{"text": "Performed Testing on Request and Response for XML Messages using SOAP UI."}
+{"text": "Analyzing Average CPU usage, Response times, No of Transactions, Throughput, HTTP Hits and Average Page times for probable scenarios and creating Performance  graphs to analyze the CPU and Memory utilization for different load tests using LR Analysis"}
+{"text": "Working closely with the development and database team to fix the performance related issues"}
+{"text": "Submitting a weekly status report about the tasks done and actions planned for next week"}
+{"text": "Reporting the defects using Quality Center (ALM 11.0) and smoke tested the application after the fix."}
+{"text": "Documented the test execution summary results and reported the status of assigned test tasks and issues to project manager for approvals"}
+{"text": ""}
+{"text": "Blue Care Network, Michigan, MI\t\t\t\t\t\t                    Aug'13 \u2013 Dec'14 "}
+{"text": "Role: Quality Analyst/Tester"}
+{"text": "Description: Blue Care Network of Michigan is a nonprofit health maintenance organization which manages the health plans for individuals, families and Michigan based employers. BCN uses FACETS, a fully integrated, data processing and management information system for managed healthcare. I was involved in testing the Claims Application Process and to validate the data in the back end. "}
+{"text": "Responsibilities:"}
+{"text": "Analysis of Business Requirement Specifications."}
+{"text": "Participated in Setting up the Testing environment and Project."}
+{"text": "Responsible for writing the Test Cases and Test Scenarios based on the Functional Specification and technical Specification and documented in Quality Center."}
+{"text": "Involved in Functional testing, System testing manually and with Automation tool."}
+{"text": "Performed Regression Testing to verify various sections of the system to ensure that changes or fixes in the system not only work, but also do not adversely affect the remainder of the system."}
+{"text": "Interacted with Business users and Technical team in providing clear solutions to requirements."}
+{"text": "Test execution-using Quality Center which is used as a Bug Tracking Tool."}
+{"text": "Detected Defects communicated to the developers using Bug Reporting Tool and Tracked the Defects using Quality Center/ALM. "}
+{"text": "Knowledge of HIPAA Implementation Guides for health Care Industry."}
+{"text": "Worked on the Claim Processing Scenario in FACETS."}
+{"text": "Extensively worked with EDI transactions such as 835, 837 following the HIPAA compliance EDI standard format of X12."}
+{"text": "Well known with frontend processing for the Claims, Subscriber/Family and with Providers."}
+{"text": "Performed Back-End testing using SQL Query."}
+{"text": "Extensively worked on different kinds of joins and operators to fetch data from multiple tables."}
+{"text": "Involved in weekly defect review meetings to review the status of defect fixes and upcoming build"}

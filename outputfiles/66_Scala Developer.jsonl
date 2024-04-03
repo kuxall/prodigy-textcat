@@ -1,0 +1,184 @@
+{"text": "Name: julia julia"}
+{"text": "E-Mail: julia.julia@gmail.com"}
+{"text": "Address: Changchun, China"}
+{"text": "Github: https://github.com/julia"}
+{"text": "LinkedIn: https://linkedin.com/julia"}
+{"text": "Phone No. 514321975907"}
+{"text": "Professional Summary:"}
+{"text": "Around 8+ years of professional experience in various Software Development positions in core and enterprise software development using Big Data, Java/J2EE and Open Source technologies. "}
+{"text": "Having 3+ years of hands-on Experience on Hadoop ecosystem components like Hadoop MapReduce, HDFS, HBase, Oozie, Hive, Sqoop, Pig, Zookeeper, Flume, NiFi and Kafka including their installation and configuration. "}
+{"text": "Experience in AWS, Hortonworks and Cloudera Hadoop distributions. "}
+{"text": "In depth knowledge of Hadoop architecture and various components such as HDFS, JobTracker, NameNode, DataNode, MapReduce and Yarn concepts. "}
+{"text": "Experience in writing Hive Queries for analyzing data in Hive warehouse using Hive Query Language (HQL). "}
+{"text": "Handling and further processing schema oriented and non-schema oriented data using Pig. "}
+{"text": "Designed and developed SQOOP scripts for datasets transfer between Hadoop and RDBMS. "}
+{"text": "Experience in extending Hive and Pig core functionality by writing custom UDFs. "}
+{"text": "Hands on experience in extending the core functionalities of HIVE using UDF, UDAF and UDTF. "}
+{"text": "Experience and good at Data modeling with Hive. "}
+{"text": "Experience in using NIFI processor groups, processors and concepts on process flow management. "}
+{"text": "Implemented Data Warehousing Methodologies for ETL using Informatica Designer, Repository Manager, Workflow Manager, Workflow Monitor, Repository Server Administration Console. "}
+{"text": "Knowledge of job workflow scheduling and monitoring tools like Oozie and Zookeeper. "}
+{"text": "Experience in using Flume to collect weblogs. "}
+{"text": "Actively involved in successfully migration project without affecting Ab Initio applications data and processing with through testing. "}
+{"text": "Developed MapReduce jobs to automate transfer the data from HBase. "}
+{"text": "Handling different file formats on Parquet, Proto Buffer, Avro, Sequence file, JSON, XML and Flat file. "}
+{"text": "Experience working on Kafka cluster. Also have experience in working on Spark and Spark streaming. "}
+{"text": "Good Knowledge in creating event processing data pipelines using Kafka and Spark Streaming. "}
+{"text": "Configured and maintained different topologies in Storm cluster and deployed them on regular basis. "}
+{"text": "Experienced in Apache Spark for implementing advanced procedures like text analytics and processing using the in-memory computing capabilities written in Scala. "}
+{"text": "Experience in using Hcatalog for Hive and Pig. "}
+{"text": "Involved in the ETL process using Ab Initio tool to setup a data extraction from several databases. "}
+{"text": "Loaded data in elastic search from datalake using SPARK/Hive. "}
+{"text": "Experienced in NoSql databases such as Hbase, MongoDb and Cassandra. "}
+{"text": "Experienced in developing Shell scripts and Python scripts for system management. "}
+{"text": "Involved in data modeling and sharing and replication strategies in MongoDB. "}
+{"text": "Experience in creating custom Lucene/Solr Query components. "}
+{"text": "Utilized Kafka for loading streaming data and performed initial processing, real time analysis using Storm. "}
+{"text": "Experience in developing distributed Web applications and Enterprise applications using Java/ J2EE technologies (Core Java (JDK 6+). "}
+{"text": "Got experience in working on Scala with Spark. "}
+{"text": "Excellent programming skills with experience in Java, C, SQL and Python Programming."}
+{"text": ""}
+{"text": "Technical Expertise:"}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Client: Citizens Bank- Providence, Rhode IslandMarch '2017 \u2013Apr '2018"}
+{"text": "Title: Scala Developer/Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed simple and complex MapReduce programs in Java for Data Analysis on different data formats.\u00a0"}
+{"text": "Developed MapReduce programs that filter bad and un-necessary records and find out unique records based on different criteria.\u00a0"}
+{"text": "Developed Secondary sorting implementation to get sorted values at reduce side to improve MapReduce performance.\u00a0"}
+{"text": "Implemented Customwritables, Input Format, Record Reader, Output Format, and Record Writer for MapReduce computations to handle custom business requirements.\u00a0\nImplemented MapReduce programs to classify data records into different classifications based on different type of records.\u00a0"}
+{"text": "Created FanIn and FanOut multiplexing flows with Flume."}
+{"text": "Experience with creating ETL jobs to load JSON data and server data into MongoDB and transformed MongoDB into the Data Warehouse.\u00a0"}
+{"text": "Experience in developing and designing POCs using Scala and deployed on the Yarn cluster, compared the performance of Spark, with Hive and SQL/Teradata.\u00a0"}
+{"text": "Created Ab Initio graphs that transfer data from various sources like Oracle, flat files and CSV files to the Teradata database and flat files."}
+{"text": "Worked on Sequence files, RC files, Map side joins, bucketing, partitioning for hive performance enhancement and storage improvement.\u00a0"}
+{"text": "Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs and Scala.\u00a0"}
+{"text": "Implemented Daily Oozie coordination jobs that automate parallel tasks of loading the data into HDFS and pre-processing with Pig using Oozie co-coordinator jobs.\u00a0"}
+{"text": "Performed advanced procedures like text analytics and processing, using the in-memory computing capabilities of Spark using Scala."}
+{"text": "Responsible for performing extensive data summarization using Hive."}
+{"text": "Importing the data into Spark from Kafka Consumer group using Spark Streaming APIs.\u00a0\nDeveloped Pig UDF's to pre-process the data for analysis using Java or Python.\u00a0"}
+{"text": "Worked with SQOOP import and export functionalities to handle large data set transfer between Oracle database and HDFS.\u00a0"}
+{"text": "Derived modeled the Facts, Dimensions, Aggregated facts in Ab Initio from data warehouse star schema for creating billing.\u00a0"}
+{"text": "Involved in migrating Hive queries into Spark transformations using Data frames, Spark SQL, SQL Context, and Scala.\u00a0"}
+{"text": "Developed a data pipeline using Kafka and Storm to store data into HDFS.\u00a0"}
+{"text": "Worked with JSON for data exchange between client and server.\u00a0"}
+{"text": "Extensively used Spring & Hibernate Frameworks and implemented MVC architecture.\u00a0\nWorked on Spring RESTful for dependency injection.\u00a0"}
+{"text": "Developed and retrieved No-SQL data using Mongo DB using DAO's."}
+{"text": "Implementation of Business logic layer for MangoDB services.\u00a0"}
+{"text": "Implemented test scripts to support test driven development and continuous integration."}
+{"text": "Involved in story-driven agile development methodology and actively participated in daily scrum meetings.\u00a0"}
+{"text": "Environment: Hadoop, CDH4, Map Reduce, HDFS, Pig, Hive, Impala, Oozie, Java, Kafka, Storm, Linux, Maven, Oracle 11g/10g, SVN, MongoDB, Informatica."}
+{"text": "Client: Sammons Financial Group, Sioux Falls, SDMarch '2016 - Feb \u20182017"}
+{"text": "Title: Java/Scala Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in creating Data Model (RDF) for the Existing PME Application in Semantic Web. "}
+{"text": "Created various Parser programs to extract data from Autosys, Tibco Business Objects, XML, Informatica, Java, and database views using Scala "}
+{"text": "Created Ingestor to publish extracting data using Data Model to Cesium environment. "}
+{"text": "Configured Jenkins build configuration for this application everyday automatically run."}
+{"text": "Worked in Agile Scrum Methodology."}
+{"text": "Deployed and Developed Java/J2EE based application"}
+{"text": "Developed application using Spring MVC and Hibernate as the ORM tool."}
+{"text": "Developed user interface with HTML, CSS, JavaScript, JQuery, Angular Js, AJAX, JSP and JSTL. "}
+{"text": "Created SOAP based web service to provide the service of Location Look up for the agents."}
+{"text": "Created a Subscriber-Publisher Messaging Topics using JMS to send and receive messages. "}
+{"text": "Used Oracle SQL and performed Tuning to improve its performance."}
+{"text": "Created Daemon threads for certain long running reporting process. "}
+{"text": "Performed improvements Garbage collection to cleaning up the idle objects."}
+{"text": "Scheduled a certain tasks using Java Timer Class by using Core Java Thread APIs."}
+{"text": "Implemented several Collection classes/Interfaces to manage the client data."}
+{"text": "Worked on Garbage Collection for memory issues to improve the performance."}
+{"text": "Scheduled a certain tasks using Java Timer Class."}
+{"text": "Interfaced with Oracle back-end Hibernate Framework.  "}
+{"text": "Implemented Test Driven Development using JUnit. "}
+{"text": "Used JAXB to unmarshal XML data into POJO Objects. "}
+{"text": "Used Spring AOP and Spring IOC Framework for logging and other functions."}
+{"text": "Used JMS to send and receive messages from the MQ and differentiated messages using Apache Camel."}
+{"text": "Created and consumed SOAP based web services using JAX-RPC and JAX-WS specifications with Apache CXF Implementations of SKELETON and WSDL file."}
+{"text": "Used Jersey Implementations to build REST web services."}
+{"text": "Used Git as Version Control. "}
+{"text": "Used MongoDB as data storage and utilized aspects like replica sets."}
+{"text": "Deployed applications on WebSphere during development "}
+{"text": "Wrote shell scripts to schedule standalone Java programs."}
+{"text": "Created various message transport mechanism with Apache Camel."}
+{"text": "The message transport mechanism supported various data formats like XML and JSON."}
+{"text": "Used MAVEN as build management tool."}
+{"text": ""}
+{"text": "Environment: Scala 1.7 Spring 2.5, Hibernate 3.x, JMS, Sybase, Toad 10.5, Linux, XML, Log4j, GitHub, Hudson, Scala 4.4.1, Ivy, Semantic Web (RDF) and SPARQL, Top Briad, Java, Spring, JSP, HTML, CSS, JavaScript, Angular JS, JQuery, AJAX, Multithreading, Collections, Garbage Collection, Oracle, Web Service \u2013 SOAP, JAX-B, JAX-RPC, JAX-WS, REST-JAX-RS, WebSphere, Apache Camel."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Care Innovations. Louisville, KentuckyOct '2014 - Feb\u20182016"}
+{"text": "Title: Hadoop Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participate in requirement gathering and analysis phase of the project in documenting the business requirements by conducting workshops/meetings with various business users"}
+{"text": "Responsible for building scalable distributed data solutions using Hadoop. "}
+{"text": "Used Datastage Tool for extraction, transformation and load (ETL) of data in the data warehouse."}
+{"text": "Involved in writing MapReduce programs using combiners and partitioner."}
+{"text": "Created and optimized Hive queries to analyze the customer frustration level which helped reduce the call traffic and ensured better customer satisfaction\u00a0"}
+{"text": "Involved in creating Hive tables, loading structured data and writing hive queries which will run internally in MapReduce way. "}
+{"text": "Used R Studio\u00a0to do Statistical data analysis"}
+{"text": "Developed Validation scripts for Data Ingestion.\u00a0"}
+{"text": "Created PIG scripts to load, transform and store the data from various sources into HIVE metastore."}
+{"text": "Monitored OOZIE workflows and managing the coordinator schedules and rerunning the failed jobs to ensure the data is processed accurately and in a timely manner."}
+{"text": "Worked on setting up the Kafka producer and consumer for transmitting and consuming messages"}
+{"text": "Developed and maintained ETL (Extract, Transformation and Loading) mappings to extract the data from multiple source systems like Oracle, SQL server and Flat files and loaded into Teradata.\u00a0"}
+{"text": "Importing and exporting data into HDFS and Hive using Sqoop. "}
+{"text": "Experienced in managing and reviewing Hadoop log files."}
+{"text": "Involved in loading data from UNIX file system to HDFS. "}
+{"text": "Experienced in running Hadoop streaming jobs to process terabytes of xml format data."}
+{"text": "Load and transform large sets of structured, semi structured and unstructured data. "}
+{"text": "Responsible to manage data coming from different sources. "}
+{"text": "Supported MapReduce Programs those are running on the cluster."}
+{"text": "Involved in creating new table structures and modifying existing tables and fit into the existing Data Model.\u00a0"}
+{"text": "Created Teradata SQL Queries, creating Tables, and Views by following Teradata best practices.\u00a0"}
+{"text": "Tested the different sources such as Flat files, Mainframe Legacy Flat Files, SQL server 2008 to load into the Teradata data Warehouse."}
+{"text": ""}
+{"text": "Environment:Apache Hadoop, Amazon AWS, Hive, R studio, Pig, Oozie, Sqoop , Kafka , Data stage , Teradata , Oracle 11g, Hbase, Toad,  MS-SQL Server, Unix Shell Scripting."}
+{"text": "Client: Gapvak, India \t\tJan '2012 - Sep\u20182014"}
+{"text": "Title: Java Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Design and Code Construction with OOPs Implementation.\u00a0"}
+{"text": "Involved in Maintenance / Enhancements of the application which includes developing the new reports."}
+{"text": "Developed JSP, Tiles, Validator, Action classes and EJBs for various user transactions. "}
+{"text": "Designed Java Servlets and Objects using J2EE standards. "}
+{"text": "Implemented the project by using MVC framework. "}
+{"text": "Used Struts Validator framework to validate user input. "}
+{"text": "Used Struts MVC framework along with JST for developing J2EE based web application. "}
+{"text": "Implemented Hibernate to map all the tables from different data sources to make database updating. "}
+{"text": "Designed Implementation of GUI using HTML, JSP and Java Script for front-end validations. "}
+{"text": "Implemented Singleton Design Pattern by sharing the single service locator object across different Business Delegates. "}
+{"text": "Developed the XML Schema for the data maintenance and structures. "}
+{"text": "Implemented EJB session beans, messaging technologies like Message Driven Bean, JMS. "}
+{"text": "Involved in designing Database Connections using JDBC. "}
+{"text": "Involved in design and Development of UI using HTML, JavaScript and CSS. "}
+{"text": "Used JSP for presentation layer, entity beans as the model to represent the persistent data and interacted with Oracle database as per MVC Architecture. "}
+{"text": "Used JDBC calls in the Enterprise  to access Oracle Database. "}
+{"text": "Involved in Integration testing and defect fixes."}
+{"text": "Developed Unit Test Scenarios and tested Test Scenarios in Web methods using N-Unit.\u00a0"}
+{"text": ""}
+{"text": "Environment:Java, J2EE, Junit, JDK 1.5, Spring core, Spring MVC, Hibernate, SOAP/Rest Web services, Ajax, XML, jQuery, HTML, CSS, TCServer, SVN, Maven, Jenkins, Splunk, SFX, MAX, SEED. Oracle"}
+{"text": ""}
+{"text": "Client: Wizden Solutions Pvt Ltd, India\tAug'2009 - Dec '2011"}
+{"text": "Title: Software Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathering requirements for data mapping rules from existing system to new system."}
+{"text": "Interacted with designers for preparing the detailed design and UML diagrams, delegated and communicated effectively with the team members and the QA team "}
+{"text": "Extracted data from various distributed databases and loaded into Oracle Database on a monthly basis using SQL*LOADER and external table."}
+{"text": "Created PL/SQL stored procedures and functions in order to validate various new orders, it included deploying the entire packages using exceptions, constraints, auditing tools."}
+{"text": "Created and scheduled numerous shell scripts useful for loading files into Oracle and also involved in automating the file transfer process, report generation process "}
+{"text": "Involved in the data extraction and data conversion of fixed format and CSV files using external tables "}
+{"text": "Developed processing logic for data validation procedures and functions for verifying and uploading into respective schemas "}
+{"text": "Involved with DBAs in creation of tablespaces, users, privileges, indexes, constraints, triggers, synonyms, roles, partitioning etc. "}
+{"text": "Wrote anonymous PL/SQL blocks to BULK COLLECT large data and assist in data migration between multiple databases."}
+{"text": "Wrote complex SQL queries using joins, subqueries and correlated subqueries"}
+{"text": "Documented test plans, test cases, test scripts, and validations based on design specifications for unit testing, system testing, functional testing, regression testing, prepared test data for testing, error handling and analysis."}
+{"text": "Performance tuning of Data Stage jobs and PL/SQL scripts to handle millions of data."}
+{"text": "Engaged in Unit testing and Peer reviews of codes."}
+{"text": "\nEnvironment: ORACLE 10g/9i, MySQL 5.0, Solaris 9, Toad, Oracle, UNIX."}
+{"text": ""}

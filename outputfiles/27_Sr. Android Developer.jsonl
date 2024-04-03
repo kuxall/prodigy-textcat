@@ -1,0 +1,206 @@
+{"text": "Name: marie marie"}
+{"text": "E-Mail: marie.marie@gmail.com"}
+{"text": "Address: Tehran, Iran"}
+{"text": "Github: https://github.com/marie"}
+{"text": "LinkedIn: https://linkedin.com/marie"}
+{"text": "Phone No. 389606410540"}
+{"text": ""}
+{"text": ""}
+{"text": "Total 7 years of experience in designing, developing and, deploying which includes 5 years\u2019 hands on experience in Android application development and design, requirement analysis, testing and deployment for high-end enterprise level and consumer level Android mobile applications and Java based applications."}
+{"text": "Expertise in developing android applications in IDE's like Eclipse, Android Studio, Titanium mobile, "}
+{"text": "Dreamweaver, Visual Studio, and Xamarin based on client specified implementations."}
+{"text": "Expertise in Web technologies using Core Java, J2EE, Servlets, JSP, JDBC, Java Beans, and Client/Server "}
+{"text": "Architecture."}
+{"text": "Profound understanding of networking and LINUX/UNIX."}
+{"text": "Proficient in building apps that use various network communication protocols such as SOAP, JSON, XML Pull Parsing and RESTful API's."}
+{"text": "Worked on VoIP application for Comcast, which has features like Mailing, Texting & Calling, supporting OS from 2.3 till date.\u00a0"}
+{"text": "Experience in porting applications to multiple Android OS versions and multiple form factor based devices like Phones and Tablets.\u00a0"}
+{"text": "Primarily responsible for the build and implementation of middleware components such as JBoss, WAS, Apache, WebSeal, F5 and IIS."}
+{"text": "Expertise to handle tasks in Red Hat Linux includes upgrading RPMS using YUM,kernel, HBAdriver, configure SAN Disks, Multi-pathing,LVM, HDFS file system.\u00a0"}
+{"text": "Installed, configured RHEL, Ubuntu, Debian Linux and Windows on various Devices."}
+{"text": "Extensive back-end experience in creating structure for databases using the SQLite Database API."}
+{"text": "Experience in software engineering and development, agile development methodologies and test/behavior driven development."}
+{"text": "Ability to lead teams and experience working in agile environment using SCRUM methodology.\u00a0"}
+{"text": "Experience developing and debugging Android applications with high use of threads and multi-threading environments."}
+{"text": "Performed all Linux operating system, disk management, patch management, package management on Linux instances "}
+{"text": "Experience in redesigning android application to support all Android OS versions.\u00a0"}
+{"text": "Experience with various version controls GIT, STASH, BitBucket and Vault."}
+{"text": "Proficient in Android applications development involving User Interface development, Notifications, Adapters, Content Provider, Services, XML Parsing and Telephony Manager.\u00a0"}
+{"text": "In-depth working knowledge of the Software Development Lifecycle (SDLC) methodology and how to apply them to a flexible, dynamic development environment."}
+{"text": "Experienced in using a web based application used for managing tests scenarios and defect tracking and management.\u00a0"}
+{"text": "Good knowledge on different layers in Android stack like Linux Kernel layer, Native layer, Application Framework Layer and Application Layer."}
+{"text": "Worked on Application development, Middle ware development, porting on hardware, bug fixing, customization and OS up gradation.\u00a0"}
+{"text": "Experience in Interaction Design, UI/UX components of android application such as Text View, List View, Menus, Buttons, Dialog boxes, and Action bars for various layouts."}
+{"text": "Integrated various third party open source APIs like Face book, Twitter, YouTube, Instagram and Google Maps API V2 for custom Android applications."}
+{"text": "Involved in preparing Documentation to meet the SLAs."}
+{"text": "A self-motivated professional possessing good technical, leadership and problem-solving skills and proven to be a good team player."}
+{"text": "Excellent conceptual and logical thinking & ability to grasp and master new technologies."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Bachelor of Technology in Computer Science and Engineering."}
+{"text": ""}
+{"text": ""}
+{"text": "References are furnished upon request."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "American Express Bluebird Application provides a way for the customers to access the account information, check balance, see transaction history, directions to nearby ATMs etc. The app also allows users to deposit check through mobile by taking picture of it."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Followed the Agile and Scrum methodologies in the project implementation."}
+{"text": "Implemented functionality based on the business requirements for major releases."}
+{"text": "Took part in planning sessions since my inclusion into project."}
+{"text": "Responsible for design of UI using various custom layouts, buttons, dialog boxes, alert boxes and different form of widgets."}
+{"text": "Developed the application with Gradle build which has unified cross platforms to build, integrates with everything, robust dependency management, faster build tool to enterpriser and build reporting."}
+{"text": "Responsible for deploying the app to the play store and supported the app."}
+{"text": "Responsible for developing code to handle the pictures and PDF documents on emulated storage of device until they are synced back to server and removing them after sync for optimization of memory used on devices."}
+{"text": "Responsible for including navigation into app by using Google maps."}
+{"text": "Responsible for including email service into the application to send out completed PDFs to customers through emails."}
+{"text": "Performed Production releases of application packages, server and application configuration changes and patches to the middleware components."}
+{"text": "Responsible for converting the pictures taken and the signatures from customers to byte code images for space optimization."}
+{"text": "Responsible for generating PDF documents for bills, invoices, estimates created by users."}
+{"text": "Responsible for creating checklists used by users during inspections by using XML."}
+{"text": "Upgraded middleware components by working with vendors to develop, test, evaluate, and install enhancements, fixes and updates."}
+{"text": "Used GIT for code repository and maintaining current and historical versions of the source code."}
+{"text": ""}
+{"text": "Environment: Android SDK 6.0, Android Studio, SQLite, GPS service, Log cat, REST, JSON, XML, DDMS Console, Ubuntu 16.04."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "RykoRss Application is being developed for field services department especially technicians and field managers to access customers information, dispatches allocated to them, make work orders for work they perform at customer sites, Time tracking , ordering new parts for customers, taking pictures of the work performed, navigation to customer sites, making calls to maintain customer support ."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Followed the Agile and Scrum methodologies in the project implementation."}
+{"text": "Interpreted the wireframes and created layouts and functionality according to it."}
+{"text": "Shared responsibility in the design and architecture of features."}
+{"text": "Ensured that the proper infrastructure is in place for features."}
+{"text": "Analyzed complexity and level of effort for features."}
+{"text": "Developed the Splash screen and Navigation Drawer with ImageView and List View."}
+{"text": "Implemented REST services, getting JSON response and parsing them to get the required information."}
+{"text": "Implemented Google Maps API V3 for displaying the registered users depending on their current location and the nearby relatives."}
+{"text": "Coordinate meetings with the UI and UX team to design the user interface by giving feedback about Android guidelines for developing user interfaces. "}
+{"text": "Helped another mobile app developer to develop the same application on IOS platform."}
+{"text": "Used fragments to build small re-usable pieces that are easier to manage and allow for a more fluid visual design and also can adapt to tablet and phone resolutions."}
+{"text": "Populated spinner data from SQLite database by using simple spinner, which allows selecting an item from a drop down menus and to store user and app data into SQLite database."}
+{"text": "Used RESTful network communication protocol to consume a web service, getting JSON response and parsing them to get the required information."}
+{"text": "Converted Image files to PDF using PDFJet library in order to support local printing."}
+{"text": "Handling XML data using efficient parsing techniques such as DOM parser."}
+{"text": "Effectively managed the code review using continuous integration with SVN."}
+{"text": "Implemented TDD, BDD testing mechanism and build Unit test cases using JUNIT."}
+{"text": "Worked on Password and Email validation."}
+{"text": "Implemented the payment system using NFC."}
+{"text": "Integrated APIs in Settings Menu for itemized display of the user's preference."}
+{"text": "Used GIT for code repository and maintaining current and historical versions of the source code."}
+{"text": ""}
+{"text": "Environment: Android SDK 4.4, Android Studio, SQLite, GPS service, Log cat, REST, JSON, XML, DDMS Console, Windows 7."}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "The Xerox Print Service plug-in for Android enables mobile printing to many Xerox printers and MFPs without the need for third party apps or additional print drivers. Easily print photos, web pages and documents when your mobile device is connected to a compatible Xerox printer through a wireless network."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in full life cycle of the application including prototyping, design, and development, and testing."}
+{"text": "Developed applications (Native and Dalvik) on Android phones."}
+{"text": "Designed application with an android framework, which includes Activity Manager, Content Providers, Resource Manager, Notification Manager, View System and Package Manager."}
+{"text": "Provided all images contained on website along with detailed descriptions of products contained on both website and mobile application."}
+{"text": "Designed system widgets that let to set their color palette, and default animations for touch feedback and activity transitions by material design specifications."}
+{"text": "Updated fragments and layouts to provide a more intuitive user interface."}
+{"text": "Using Bluetooth APIs, the application can scan other Bluetooth devices and query the local Bluetooth adapter for paired devices."}
+{"text": "Application establishes a RFCOMM channels and connect to other devices through service discovery."}
+{"text": "Developed the application with Gradle build which has unified cross platforms to build, integrates with everything, robust dependency management, faster build tool to enterpriser and build reporting."}
+{"text": "Application implemented as a single-page Backbone app with a custom data layer that used an in-memory message bus (postal.js) for data request and application events."}
+{"text": "Implemented Web Views to provide easy and seamless access to website."}
+{"text": "Designed and implemented code structures, which can be used to develop all Machine-to-Machine applications, the UI, design tactically separated from other M2M features."}
+{"text": "Wrapped the application using PhoneGap and deployed to the mobile platforms."}
+{"text": "Good understanding of Client-server, Cloud computing service architecture and Internet Technologies (e.g., HTML, CSS3, jQuery, XML, JSON, HTTP, TCP/IP) "}
+{"text": "Refactored the code base to optimize start-up time and memory usage."}
+{"text": "Integral in internationalizing of the app to support different languages."}
+{"text": "Key resource for layout and UI work utilizing xml, Views, List View, Menu Item, Activities, Fragments, Frame, Animations, Notifications, etc."}
+{"text": "Worked on more than 20 projects segments to make a final product."}
+{"text": "Writing Unit test cases using Robotium Framework."}
+{"text": "Used full Android Life Cycle front-end to back-end development and publishing."}
+{"text": "Worked on debugging the application using Log cat, DDMS."}
+{"text": "Tested the application on various Android devices."}
+{"text": ""}
+{"text": "Environment: Eclipse, Android Studio SDK, PhoneGap 2.8.1, Apache Cordova, Backbone, node.js, postal.js, Java, Jackson, JSON, Relative Layout, Fragments, Services, SOAP, Intents, AsyncTask, SQLite, ZXing, JIRA and Git."}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "This application helps to evaluate symptoms and explore the possible causes for a disease. The user can find the physician, hospital and emergency room in nearby area. The application also enables the user to check-in from phone and can save their Personal healthcare facilities, doctors, diseases, conditions, procedures, medications and insurance information."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Designed and coded application components in an agile environment utilizing a test driven development approach."}
+{"text": "Responsible for design of UI using various custom layouts, buttons, dialog boxes, alert boxes and different form of widgets."}
+{"text": "Implemented functionality based on the business requirements for major releases. "}
+{"text": "Responsible for inserting suitable code to capture the various button and text field events and implemented the desired action for each of the widgets."}
+{"text": "Worked on web views, list views & populated lists to display the lists from database using simple adapters."}
+{"text": "Used logcat, DDMS (Dalvik Debug Monitor Server) and trace view for debugging and detecting memory leaks."}
+{"text": "Worked with an offshore team and had to attend meetings on daily basis to keep track of different tasks and to receive updates on the project."}
+{"text": "Used Android content providers for implementing features like sending E-mails from the app."}
+{"text": "Implemented the required GUI by making modifications to the XML files."}
+{"text": "Used JavaMail API using Gmail authentication to send email without using the default/built-in app."}
+{"text": "Worked on Android content providers for implementing features like sending E-mails, SMS, etc., from the app."}
+{"text": "Worked on services, Async tasks and Alert Notification API to implement event reminder feature into the mobile app."}
+{"text": "Responsible for Embedding Google Maps, GPS Location Data into app with zooming controls."}
+{"text": "Responsible for saving data module such as personal healthcare facilities, doctors, diseases, medications, insurance information, and health plans in the SQLite database."}
+{"text": "Handled XML data using efficient parsing techniques such as DOM parser."}
+{"text": "Responsible for deploying the app to the Android Marketplace and supported the app for different releases of Android OS."}
+{"text": ""}
+{"text": "Environment: Android SDK 4.1, 4.3, SQLite,SOAP, Eclipse IDE 3.8, 4.2, JDK 7.0, XML 1.0, GPS, ADT Plug-in, Logcat, DDMS console."}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "The application helps you find restaurants of your favorite cuisine near your current location. The user can choose from a variety of cuisines available and based on the selected cuisine, the restaurants will be shown on the map. Once the restaurant is chosen, navigation is provided to the location. Other options such as viewing the menu and giving a rating for the restaurant are available."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in full life cycle of the application including wireframe design, server development and client development."}
+{"text": "Designed the features for the database interface relevant for the mobile application from the existing system."}
+{"text": "Responsible for design of user interface using various custom layouts, buttons, dialog boxes, alert boxes and different form of widgets."}
+{"text": "Inserted suitable code to capture the various button and text field events and implemented the desired action for each of the widgets."}
+{"text": "Used web views, list views & populated lists to display the lists from database using simple adapters."}
+{"text": "Used Timber as logger to extend the Android Log functionality."}
+{"text": "Implemented locations services and upgraded the implemented Google maps version to the latest."}
+{"text": "Used Android content providers for implementing features like sending notifications, etc., from the app and designed suitable GUI for these applications."}
+{"text": "Used services, Async tasks and Alert Notification API to implement reminder feature into the mobile app."}
+{"text": "Involved in implementing Async task for the background operations."}
+{"text": "Worked on debugging the application using Log cat, DDMS."}
+{"text": "Tracked issues using JIRA."}
+{"text": "Performed testing on various android devices and the android emulator."}
+{"text": "Used v4 and v13 support libraries for making Navigation drawer and hooking them with the fragments."}
+{"text": "Collaborated with UX team to develop the best User Experience and gave ideas for rich platform independent UI."}
+{"text": "Performed debugging on the various modules/functions to ensure that the output is as expected."}
+{"text": "Performed unit testing using JUnit test cases and automation testing using Rubidium Automation Framework."}
+{"text": "Identifying Critical/Crash/Hidden defects in applications using mobile apps and Ability to give suggestions for a quick fix by analyzing logs."}
+{"text": "Implemented wrapper classes for sever code and also designed the database tables for all the features in MySQL database."}
+{"text": "Developed the code in objected oriented manner for better code reuse."}
+{"text": "Created the client codes using JAVA in eclipse IDE 3.6."}
+{"text": ""}
+{"text": "Environment: Android SDK 2.2, Ubuntu, Eclipse IDE 3.6, XML 1.0, JSON, Java, JRules, Groovy, J2EE, Spring, Hibernate, JSP, Oracle WebLogic, SOAP,JQuery, XML, HTML, CSS, cTests, OSB."}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "Global Info Vision provides Software Development Services and IT/BPO solutions including Litigation Support, Medical Billing Services, Document Management & Form Processing Services, ePublishing services & XBRL services."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Contributed to the development of web interface for User module and Admin module using JSP, HTML, XML, CSS, Java Script, AJAX, and Action Servlets with Struts Framework."}
+{"text": "Extensively worked on CORE JAVA (Collections of Generics and Templates, Interfaces for passing the data from GUI Layer to Business Layer)."}
+{"text": "Struts2.0 is the MVC framework and backbone of the application. Fa\u00e7ade design patterns were   extensively used for entity bean and session bean interaction."}
+{"text": "Created User Interface in DOJO/AJAX and Struts2 tags for different customized screens for each type of user."}
+{"text": "Created Java Beans for Clients search engine based on address, and user specific interest."}
+{"text": "Created JSP/Servlets Pages for the search Engine related to product promotions and events."}
+{"text": "Worked on providing enhancements to the system that involved designing the solution, development and requirements analysis, implementation."}
+{"text": "Created JSP pages for each participant involved in the event."}
+{"text": "Deployed the Application using Apache Tomcat Application server."}
+{"text": "Presented the application module to team members."}
+{"text": ""}
+{"text": "Environment: J2EE (JAVA, JSP, Servlets, JDBC, EJB), JavaScript, Struts, Apache Tomcat, JBOSS, Swing,    HTML/DHTML, XML, CVS, SQL, Oracle, Eclipse IDE."}
+{"text": ""}

@@ -1,0 +1,193 @@
+{"text": "Name: emma emma"}
+{"text": "E-Mail: emma.emma@gmail.com"}
+{"text": "Address: Ahmedabad, India"}
+{"text": "Github: https://github.com/emma"}
+{"text": "LinkedIn: https://linkedin.com/emma"}
+{"text": "Phone No. 318602404310"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "Over 8+ years of IT industry experience with Microsoft SQL  Server 2005/2008/2008R2/2012, SSIS/SSRS/SSAS and OLAP as SQL Developer"}
+{"text": "Extensive experience with different phases of project life cycle (Analysis, Design, Implementation, Testing, and debugging new and existing client-server based applications)."}
+{"text": "Extensive experience in using Microsoft BI studio products like SSIS,SSAS,SSRS for implementation of ETL methodology in data extraction, transformation and loading."}
+{"text": "Experience in Data Modeling, Normalization and building Referential Integrity Constraints, Database Design, Programming, Development and Implementation of Client-Server Applications & Database systems using MS SQL 2005/2008/2008R2/2012 for both OLTP & Business Intelligence applications."}
+{"text": "Expertise in OLTP/OLAP system study, Analysis and developing Database Schemas like star schema and snowflake schema used in relational, dimensional and multidimensional modeling."}
+{"text": "Expertise in writing T-SQL Queries, Dynamic-queries, sub-queries and complex joins for generating Complex Stored Procedures, Triggers, User-defined Functions, Views and Cursors."}
+{"text": "Strong working experience in SQL Server and T-SQL in constructing triggers, tables(DDL), Joins, cursors, user functions, views, indexes, user profiles, relational database models, data dictionaries and data integrity."}
+{"text": "Experience in creating SSIS Packages for integrating data using OLE DB connection from heterogeneous sources (Excel, CSV, Oracle, flat file, Text Format Data) by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, merge and union all."}
+{"text": "Experience in providing Logging, Error handling by using Event Handler, and Custom Logging for SSIS Packages."}
+{"text": "Involved in Huge data migrations, transfers using utilities like Data Transformation Services (DTS) and SSIS, Bulk Copy Program (BCP) and Bulk Insert."}
+{"text": "Experience in Performance Tuning in SSIS packages by using Row Transformations, Block and Unblock Transformations."}
+{"text": "Experience in creating various type of reports such as Complex drill down & drill through reports, Matrix reports, Sub reports and Charts using SQL Server Reporting Services (SSRS) based on Relational and OLAP databases."}
+{"text": "Great Expertise in creating and managing Event Handlers, Package Configurations, Logging, System and User-defined Variables for SSIS Packages."}
+{"text": "Expert in configuring and creating SSIS solutions for high performance Data Integration, Data Migration and Business Intelligence Process that includes Merging Data from various Heterogeneous Data Stores, Populating Data Warehouses and Data Marts, Cleaning and Standardizing Data"}
+{"text": "Experience in implementing and managing Event Handlers, Package Configurations, Logging, System and User-defined Variables, Check Points and Expressions for SSIS Packages."}
+{"text": "Hands on experience on all phases of Software Development Life Cycle (SDLC) of Data warehousing, including requirement gathering from business users, analysis ,design, creation of mapping documents, specification writing, development, testing, and implementation."}
+{"text": "Involved in Develop, analyze and execute system test plans and worked closely with QA group."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": "Bachelor of Technology from RCC Institute Of Information Technology, INDIA"}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "Think Finance, Fort Worth, TX\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Oct 2013 \u2013 Till Date"}
+{"text": "Sr. SQL Server BI Developer"}
+{"text": ""}
+{"text": "Since 2001, Think Finance has been the leading innovator in small dollar credit. Think Finance develops online financial products that bridge the gap between payday loans and mainstream credit. Think Finance was recently named second on the Forbes \"100 Most Promising Companies in America\" list. Payday loan and cash advance services provides a consumer an opportunity to obtain cash funds in an emergency.\u00a0 "}
+{"text": "Responsibilities: "}
+{"text": "Involved in creating functional and technical specification documents after gathering requirements from business users."}
+{"text": "Created database objects like tables, views, stored procedures, functions, joins, indexes and triggers in T-SQL based upon the functional specifications."}
+{"text": "Reviewed the existing stored procedures and improved efficiency by critically evaluating the code and optimized."}
+{"text": "Developed T-SQL Queries for efficient data load based on complex Business rules."}
+{"text": "Designed complex ETL strategies to pull data from different sources, like SQL server, DB2, oracle, and flat files and load it to the destination database after using multiple transformations."}
+{"text": "Involved in Data Integration by identifying the information needs within and across functional areas worked various SSIS Tasks like Execute SQL Task, bulk insert task, data flow task, ftp task, send mail task, For each loop container, PGP keys."}
+{"text": "Involved in performance tuning of T-SQL Queries and focused on index tuning, query optimization and partitioning."}
+{"text": "Writing VB.NET and C# coding in Script task and script component."}
+{"text": "Managing and automating Control flow, Data flow, Events and Logging for SSIS packages."}
+{"text": "Deployed SSIS package on the server and scheduled the packages using SQL Server Agent Services."}
+{"text": "Involved in populating data, generating reports using Reporting Services (SSRS) and deploying them on the server."}
+{"text": "Designed and developed different reports like Matrix and Tabular reports, Cascaded, Parameterized, and pie chart reports using SSRS. "}
+{"text": "Expertise in developing Ad-Hoc, Drill down, Drill through and Dashboard reports using Local and Global Variables, Expressions and Filters in SQL Server Reporting Services (SSRS)."}
+{"text": "Involved in Designing, Building the Dimensions, cubes with star schema using SQL Server Analysis Services (SSAS) for analyzing purpose."}
+{"text": "Created shared dimension tables, measures, hierarchies, levels, cubes and aggregations on MS OLAP/ Analysis Server (SSAS)."}
+{"text": "Environment: MS SQL Server 2008/2008R2/2012, Business Intelligence Development Studio (BIDS), SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Reporting Services (SSRS), Windows 2010, MS Access,EXCEL, SQLServer Profiler, C#."}
+{"text": "Alabama Medicaid Agency, Montgomery, AL\t\t\t\t   Jan 2012 - Aug 2013 "}
+{"text": "SQL BI Developer"}
+{"text": ""}
+{"text": "Medicaid is a health insurance program for certain low-income and needy people paid with Federal, state, and county dollars. It is the largest program providing medical and health-related services to Alabama's poorest people--including children, the aged, blind, and/or disabled, and people who are eligible to receive Federally assisted income maintenance payments. The project focused on maintaining and optimizing the existing databases, monitoring database performance and growth, performance tuning, to create Reports according to the business requirement using SQL Server Reporting Service (SSRS) and populate data warehouse using SQL Server Integration Service (SSIS)."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Created SSIS packages to extract data from OLTP to OLAP systems and Scheduled Jobs to call the packages and Stored Procedures."}
+{"text": "Designed and tested (Unit, Integration and Regression) packages to extract, transform and load data using SQL Server Integration Services (SSIS)."}
+{"text": "Transferred data from various OLTP data sources, such as Oracle, MS Access, MS Excel, Flat files, CSV files into SQL Server 2008."}
+{"text": "Designed packages which utilized tasks and transformations such as Execute SQL Task, Execute Process Task, Send Mail Task, FTP task, Execute Package task, Xml Task, Data Flow Task, Sequence Container, For Each Loop Container, Lookup, Aggregate, Expression, OLE DB Command, and Derived Column."}
+{"text": "Developed error handling routines for packages using both script tasks as well as in the error handling environment."}
+{"text": "   Created a number of cubes, dimensions and business critical KPIs using SQL Server Analysis Services (SSAS) representing aggregations in several different ways - hierarchically and using custom groupings that the company will use to analyze performance."}
+{"text": "  Created complex SSAS cubes with multiple fact measures groups, and multiple dimension hierarchies based on the OLAP reporting needs."}
+{"text": "   Created calculated measures, dimension members using MDX, mathematical formulas and user defined functions, named calculations using SSAS for generation of cubes."}
+{"text": "Implemented various notifications based upon the scheduling jobs, database monitoring, disaster recovery plans and wrote windows scripting scripts for automation of the tasks."}
+{"text": "Developed reports by using SSRS and deployed them on web pages using ASP.NET using C#."}
+{"text": "Administered interface to organize reports and data sources, schedule report execution and delivery, and track reporting history using SSRS."}
+{"text": "Evaluated database performance and performed maintenance duties such as tuning, backup, restoration."}
+{"text": "Responsible for creating parameterized, cascading, configuration, drill down, rollup reports using SSRS and deploying them into server using report builder."}
+{"text": "Developed stored procedures, user-defined functions, triggers, indexes, cursors and views in SQL Server, DB2 databases."}
+{"text": "Developed processes, automation of maintenance jobs, tuning SQL Server, data validations, locks and indexes configurations."}
+{"text": "Worked on Performance tuning of ETL transformations, data validations and Stored Procedures."}
+{"text": " Tuned several slow running queries in Production. Implemented Indexes and re-indexed to achieve time performance."}
+{"text": "  Extensive Experience in Migrating Database from SQL Server 2005 to 2008 and 2005 to 2002"}
+{"text": "Administered SQL Server security, SQL Server automatic e-mail notification and SQL Server backup strategy and automation."}
+{"text": ""}
+{"text": "Environment: Microsoft SQL Server 2000/2005/2008 Enterprise Edition, MS Access, ETL Packages(SSIS), SQL Server Analysis Services(SSAS), MDX, .Net, VB.Net, HTML, Visual Studio , Visual Source Safe, DTS, T-SQL, Oracle 10g."}
+{"text": ""}
+{"text": "Scripps Networks Knoxville ,TN\t\t\t\t\t                Nov 2010-Dec 2011"}
+{"text": "BI Developer (SSIS/SSRS)"}
+{"text": "Scripps Networks is a leading developer in life style media network. Broadcast different Television Channels, Food Network, HGTV, and Cooking Channel. Also maintain websites for all television channels."}
+{"text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "}
+{"text": "Responsibilities:"}
+{"text": "Experience in creating database objects like Procedures, Functions, Triggers and Indexes."}
+{"text": "Created functions to provide custom functionality as per the requirements."}
+{"text": "Worked extensively with SSIS to import, export and transform the data from oracle, xml and text files."}
+{"text": "Extracted data from various heterogeneous sources and created packages using SSIS, Import/ Export Data, Bulk Insert and BCP utilities"}
+{"text": "Created and managed Event Handlers, Package Configurations, Logging, System and User-defined Variables for SSIS Packages"}
+{"text": "Worked with various SSIS control flow tasks and data transformation tasks like Data conversion, Derived Column, Look-up, Fuzzy Look-up, Conditional Split etc. as part of ETL."}
+{"text": "Designed and written the queries in the query builder for retrieving the data."}
+{"text": "Created checkpoints and configuration files in SSIS packages."}
+{"text": "Worked extensively with SSIS to import, export and transform the data from oracle, xml and text files"}
+{"text": "Used SQL Profiler to optimize Stored Procedures"}
+{"text": "Extensively used Merge command as alternative to small SSIS packages in dimension and fact load"}
+{"text": "Deployed SSIS packages with minimal changes using XML configuration file"}
+{"text": "Used MDX to query Analysis Service Databases, debugging and supported the purpose of data analysis"}
+{"text": "Created various SSRS Reports involving variety of features like Charts, Filters, Sub-Reports, Drill Down, Drill-Through, Multi-valued parameters "}
+{"text": "Scheduled the monthly Reports/weekly reports/daily reports Based on user Requirements"}
+{"text": "Involved in Unit testing, User Acceptance testing to check whether the data is loading into target, which was extracted from source systems."}
+{"text": "Environment: SQL Server 2008, SSRS, SSIS, T-SQL, Visual SourceSafe, Visual Studio"}
+{"text": ""}
+{"text": "Homesite Home Insurance,Boston\t                                                                             Feb 2010-Oct 2010\t                                                                    "}
+{"text": "MS SQL Server/SSIS/SSAS Developer"}
+{"text": "Homesite Home Insurance is expert in home, renters and condo insurance. As a DBA, I was involved in creating and maintaining the databases, adding new products and product line items to the system and manage them."}
+{"text": "Responsibilities:"}
+{"text": "Actively involved in business rule analysis; gathered user requirements"}
+{"text": "Wrote several SQL Scripts such us finding tables that have Identity Columns, finding tables that don\u2019t have primary key."}
+{"text": "Used Joins, correlated and non-correlated sub-queries for complex business queries involving multiple tables from different databases and implemented triggers and stored procedures and enforced business rules via checks and constraints."}
+{"text": "Created indexes on selective columns to speed up queries and analyses in SQL Server Management Studio."}
+{"text": "Reduced the T-SQL overhead successfully by avoiding unnecessary use of The UNION, statement & using the TOP operator to limit the Select Statement in certain Queries."}
+{"text": "Created views to restrict access to data in a table for security."}
+{"text": "Developed complex Stored Procedures and views to generate various Drill-through reports, parameterized reports and linked reports using SSRS."}
+{"text": "Designed SQL SSIS Packages to extract data from various data sources such as Access database, Excel Spreadsheet and flat files into SQL Server 2008 R2for further Data Analysis and Reporting by using multiple Transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, Merge and Union all and Scheduled and maintained nightly and weekly loads of data by creating the   corresponding job tasks."}
+{"text": "Enhanced performance using optimization techniques-normalization, indexing and Transaction Isolation levels, monitoring logs to ensure the completeness of batch processes and scripts."}
+{"text": "Used complex expressions to Calculate, Group, Filter, Parameterize, and Format the contents of the report."}
+{"text": "Involved in Report Design and Coding for Standard Tabular type reports, including Drill down and Drill through functionality and Graphical presentations such as Charts and Dashboard type metrics using SSRS"}
+{"text": "Created Cross-Tab and Sub-Report using RDL and promoted RDLs to Reporting Service Server and scheduled the monthly/weekly/daily reports to run automatically and send the reports via email."}
+{"text": ""}
+{"text": "Environment: SQL Server 2000 and 2008 management studio, DTS, SSIS, SSRS, Visual Studio 2008, MS DOS Batch scripting and COBOL"}
+{"text": ""}
+{"text": "Department of Administrative & Financial Services (DAFS)                 \t      Mar 2009-Jan2010 State of Maine                                                                "}
+{"text": "BI Developer                                                                                                "}
+{"text": ""}
+{"text": "DAFS is the first and largest endeavor of this kind in US. The Department of Administrative & Financial Services (DAFS) is an innovative organization that coordinates a number of central services for departments within Maine State Government. To accomplish its various tasks and responsibilities the DAFS service bureaus seek to work in partnership with other state agencies.   "}
+{"text": " Responsibilities:"}
+{"text": "Created ETL packages with different data sources (SQL Server, Flat Files, Excel source files, XML files etc) and then loaded the data into destination tables by performing different kinds of transformations using SSIS packages."}
+{"text": "Developed the packages with monitoring features and logging so that audit information of the packages and their execution results are loaded in to the audit table."}
+{"text": "Created checkpoints and configuration files in SSIS packages"}
+{"text": "Implemented slowly changing dimensions in SSIS packages."}
+{"text": "Performed incremental data load in BIDS using Lookup Transform, Cache Transform, and Merge Join Transform and worked on Change Data Capture."}
+{"text": "Automated execution process of packages using SQL Server Agent by creating jobs and error reports using Alerts, SQL Mail Agent and SMTP."}
+{"text": "Generated various reports with drilldowns, calculated members, dropdowns from the cubes by connecting to Analysis server from SSRS."}
+{"text": "Created data sources, connection strings and defined the datasets for generating the report."}
+{"text": "Designed and written the queries in the query builder for retrieving the data."}
+{"text": "Created and worked with drill down reports and identified the report parameters."}
+{"text": "Used various report items like tables, sub report and charts to develop the reports in SSRS."}
+{"text": "Deployed and generated reports on to the server using the Reporting Services Report Manager."}
+{"text": "Worked with various Delivery mechanisms of Reports including Email /PDF/Schedules etc"}
+{"text": "Created subscriptions to provide a daily basis reports."}
+{"text": "Managed and troubleshoot report server related issues."}
+{"text": "Created Dimensions with the cube wizard and also individually and Generated Named calculations and Named queries."}
+{"text": "Involved in defining referenced relationships with measure group and fact tables."}
+{"text": "Defined Granularity with in a measure group and drill through actions."}
+{"text": "Implemented the calculations to aggregate physical measures."}
+{"text": "Refreshing the cube to get the latest information updated and deployment of Cubes to the production server."}
+{"text": ""}
+{"text": "Environment: SQL Server 2008, SQL Server 2008R2, SSIS, SSRS, SSAS, BIDS, SSDT"}
+{"text": "Bajaj Auto Ltd., Hyderabad, India\t\t\t\t\t            Jan 2008-Feb 2009"}
+{"text": "SQL Developer"}
+{"text": "The Bajaj Group is amongst the top 10 business houses in India. Its footprint stretches over a wide range of industries, spanning automobiles (two-wheelers and three-wheelers), home appliances, lighting, iron and steel, insurance, travel and finance.\u00a0"}
+{"text": "Responsibilities:"}
+{"text": "Performed extensive data extraction from web and other sources and handled data preparation \u2013 missing values, formatting, transformations using SSIS."}
+{"text": "Written Stored Procedures and SQL scripts both in SQL Server and Oracle to implement business rules for various clients."}
+{"text": "Designed T-SQL scripts to identify long running queries and blocking sessions."}
+{"text": "Writing and Debugging T-SQL, stored procedures, Views and User Defined Functions."}
+{"text": "Data migration (import & export \u2013 BCP) from Text to SQL Server "}
+{"text": "Error handling using Try-Catch Block"}
+{"text": "Normalization and De-Normalization of tables"}
+{"text": "Developed Backup and Restore scripts for SQL Server 2005"}
+{"text": "Installed and Configured SQL Server 2005 with latest service packs."}
+{"text": "Created database objects like tables, views, indexes, stored-procedures, triggers, and user defined functions"}
+{"text": "Written T-SQL queries for the retrieval of the data."}
+{"text": "Developed administrative tasks of SQL Server of performing daily Backups and Recovery procedures. "}
+{"text": "Worked with the developing team in the Writing functions in Visual Basic 6.0 for Upload download functionality, Data transfer and migration. "}
+{"text": "Prepared daily and weekly status reports and collaborated with other team members"}
+{"text": "Created and managed schema objects such as tables, views, constraints, indexes, functions, procedures, and triggers and maintained Referential Integrity."}
+{"text": "Customized the stored procedures and database triggers to meet the changing business rules."}
+{"text": "Implemented indexes for performance tuning."}
+{"text": "Data loaded into the database using SSIS 2005 from flat files."}
+{"text": ""}
+{"text": "Environment: SQL Server 2005, SQL Server 2000, Oracle 9i, Visual Basic, Excel, R, Tableau, SPSS"}
+{"text": "Life Insurance Corporation(LIC) ,Hyderabad ,India\t\t                                Apr2007-Jan2008"}
+{"text": "MS SQL Server Developer"}
+{"text": "Life Insurance is an OLTP system\u00a0which stores the customer information regarding members and their payments and policies. The warehouse was running on SQL Server 2000 with a web based Dot Net front-end, Implemented infrastructure to support over 15 database servers consisting of more than 150 databases."}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Created tables, views ,indexes based on the requirements"}
+{"text": "Wrote complex SQL queries to retrieve information from the databases depending on the requirement."}
+{"text": "Involved in designing of Conceptual Logical Model and Physical Model."}
+{"text": "Created new database objects like Procedures, Functions, Packages, Triggers, Indexes and Views using T-SQL in Development and Production environment for SQL Server."}
+{"text": "Developed Database Triggers to enforce Data integrity and additional Referential Integrity."}
+{"text": "Developed SQL Queries to fetch complex data from different tables in remote databases using joins, database links and formatted the results into reports and kept logs."}
+{"text": "Involved in performance tuning and monitoring of both T-SQL and PL/SQL blocks."}
+{"text": "Used SQL Profiler and Query Analyzer to optimize DTS package queries and stored procedures"}
+{"text": "Wrote T-SQL procedures to generate DML scripts that modified database objects dynamically based on user inputs"}
+{"text": "Created Stored Procedures to transform the Data and worked extensively in T-SQL for various needs of the transformations while loading the data"}
+{"text": "Involved in performance tuning using indexing (Clustered Index, Non Clustered index) tables."}
+{"text": ""}
+{"text": "Environment:  SQL Server 2005, Visual Basic, .NET"}
+{"text": ""}
+{"text": ""}
+{"text": ""}

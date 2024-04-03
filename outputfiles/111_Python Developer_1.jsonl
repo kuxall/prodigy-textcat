@@ -1,0 +1,89 @@
+{"text": "Name: martha martha"}
+{"text": "E-Mail: martha.martha@gmail.com"}
+{"text": "Address: Xiangyang, China"}
+{"text": "Github: https://github.com/martha"}
+{"text": "LinkedIn: https://linkedin.com/martha"}
+{"text": "Phone No. 397331409153"}
+{"text": ""}
+{"text": "Professional Summary: "}
+{"text": "Over 5 years of experience as a Web Application Developer in python."}
+{"text": "Experience in Analysis, Design, Development, Implementation, and Testing of various stand-alone and client-server architecture-based enterprise application software in python on various domain."}
+{"text": "Handy experience in developing web application implementing Model View Template Architecture using Django and Flask web application framework."}
+{"text": "Proficient in front end development experience using HTML, XML, CSS, JavaScript, Bootstrap, React.js "}
+{"text": "Worked on several python libraries such as Request, Beautiful Soup, NumPy, Pandas, Pillow and Psycopg. "}
+{"text": "Hands-on experience in Software Development Life Cycle, Database designs, agile methodologies, coding, testing of enterprise applications and IDE's such as Jupiter Notebook, PyCharm, Sublime, NetBeans, Intellij and Visual Studio."}
+{"text": "Very good understanding of data structures, design patterns and object-oriented design concepts."}
+{"text": "Familiar with JSON based RESTful Web Services, and Amazon Web Services."}
+{"text": "Experienced in data analysis and modeling."}
+{"text": "Experience in writing complex queries, subqueries, and Triggers involving multiple tables using SQL for data integrity."}
+{"text": "Writing Unit, Functional, and Integration test cases for Cloud Computing applications on AWS using Python with boto library."}
+{"text": "Knowledgeable on Cloud Technologies including Infrastructure as a Service, Platform as a Service and Software as a Service provider(IaaS, PaaS and SaaS)"}
+{"text": "Experience in designing flowcharts, Class diagrams, use case diagrams in-order to establish an effective communication with the team members."}
+{"text": "Excellent understanding of Software Development Lifecycle (SDLC) and its models like agile and waterfall."}
+{"text": "Experience in Unit Testing / Test-driven development."}
+{"text": "Implemented and maintained the applications artifacts with CI environment (Jenkins), and defect tracking (JIRA), Service-Now and Smoke testing, Sanity testing, Operation support and Service Delivery."}
+{"text": "Like\u00a0Beautiful Soup,\u00a0NumPy,\u00a0python-twitter, RabbitMQ, Celery,\u00a0Pandas data-frame, uuid\u00a0and used\u00a0PEP8\u00a0coding convention."}
+{"text": "Authorized to work in United States for any employer."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "United Health Group - Minneapolis, MN                                                         July 18 - Present"}
+{"text": "Python Developer"}
+{"text": "Responsibilities:"}
+{"text": "Experienced in Agile Methodologies and SCRUM process including Sprint planning, backlog grooming, Daily Standups, Code review, Pert Chart, Gant Chart."}
+{"text": "Developed entire frontend and backend modules using Python on Django Web Framework. "}
+{"text": "Correspondingly involved in writing REST APIs using Django framework for data exchange and business logic implementation."}
+{"text": "Experienced in writing python scripts to scrape web data for data usage/collection using Beautiful Soup."}
+{"text": "Experienced with relational databases and Object Relational Mapping (ORM) technologies and applications. "}
+{"text": "Worked on web app for users the ability to view, add, review, up/down vote, search, etc."}
+{"text": "Having experienced in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on MySQL and PostgreSQL database."}
+{"text": "Associated with NoSQL databases like MongoDB and Redis."}
+{"text": "Experienced in working with AWS like EC2, AMI, S3, EBS, ELB, Elastic Beanstalk and knowledge in Docker."}
+{"text": "Experienced in working with Unit test, Integration test and PyTest for writing test cases and debugging the applications monitored on JIRA with using agile methodology."}
+{"text": "Designed, developed, implemented and maintained solutions for using Docker, Jenkins, Git for micro services and continuous deployment."}
+{"text": "Designed and developed the UI for the website with HTML, XHTML, CSS, Java Script, Bootstrap and React JS."}
+{"text": "Used BOTO for launching and deploying instances in AWS.  "}
+{"text": "Worked with JSON based REST web services and Amazon Web Services (AWS)."}
+{"text": "Used Python collections for manipulating and looping through various user-defined objects"}
+{"text": "Used UML Rational Rose to develop Use-case, Class and Object diagrams for OOA/OOD techniques."}
+{"text": ""}
+{"text": "Environment: Python, Django, Web Framework, HTML5, CSS3, Bootstrap, SQL, MySQL, PostgreSQL., MongoDB, Linux, JavaScript, JQuery, AJAX, JSON, Sublime Text, Jira, Git, Django, database Access ,Django-cms plugins, Bootstrap, Agile, GitHub, UML, Xml, SOA."}
+{"text": ""}
+{"text": "Client: Vertical Ops, Orem, UT\t\t\t\t\t\tApr 16 \u2013 Jun 18"}
+{"text": "Role: Python Developer"}
+{"text": "Worked on a Vertical Ops sales and operations planning dashboard that could keep track of client\u2019s businesses."}
+{"text": "Responsibilities"}
+{"text": "Participated in requirement gathering and analysis phase of the project in documenting the business requirements by conducting workshops/meetings with various business users."}
+{"text": "Managed, developed, and designed a dashboard control panel for customers and Administrators using Django, HTML, CSS, JavaScript, Bootstrap, jQuery and REST API calls."}
+{"text": "Created a Python/Django based web application using Python scripting for data processing, MySQL for the database, and HTML/CSS/jQuery and High Charts for data visualization of the served pages."}
+{"text": "Administered, configured, maintained Salesforce.com application user profiles, roles, assigning Permissions, generating security tokens, validation Rule, upgrade installation"}
+{"text": "Successfully migrated the Django database from SQLite to MySQL to PostgreSQL with complete data integrity"}
+{"text": "Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript."}
+{"text": "Responsible for debugging the project monitored on JIRA (Agile)"}
+{"text": "Implemented Restful Web-Services for sending and receiving the data between multiple systems."}
+{"text": "Used Pandas library for statistical analysis, data alignment and data manipulation."}
+{"text": "Worked on Jenkins continuous integration tool for deployment of project."}
+{"text": "Environment: \u00a0Python, Django, MySQL, SQLite, PostgreSQL, HTML, Bootstrap, jQuery, CSS, JavaScript, SOAP, Restful API, Jenkins, JIRA, Git, Linux."}
+{"text": ""}
+{"text": "Citrix Systems Inc, Fort Lauderdale, FL\t\t\t\t       Sep 14 \u2013 Mar 16"}
+{"text": "Role: Python Developer"}
+{"text": "Citrix Systems, Inc. is an American multinational software company. Worked on software and web development to provide company\u2019s clients with the most effective service to their business as per the company\u2019s mission."}
+{"text": "Responsibilities:"}
+{"text": "Involved in the design, development and testing phases of application using AGILE methodology."}
+{"text": "Designed the Web application Using\u00a0Python\u00a0on Django Web Framework pattern to make it extensible and flexible, implemented code in\u00a0python\u00a0to retrieve and manipulate data."}
+{"text": "Used the Model View controller (MVC) framework to build modular and maintainable applications"}
+{"text": "Developed Python based API (RESTful Web Service) using Django and PostgreSQL."}
+{"text": "Successfully implemented Page Validations, Authentication, Data Encapsulation and other related features."}
+{"text": "Build SQL queries implementing functions, packages, views, triggers, and tables."}
+{"text": "Worked with design team to design themes and graphics using HTML, XHTML, CSS, Java Script, Bootstrap and jQuery"}
+{"text": "Worked with database records daily, finding common errors and bad data patterns and fixing them."}
+{"text": "Maintained development of SQL, and stored procedures on MySQL."}
+{"text": "Rote AJAX framework to transform Datasets and Data tables into HTTP-serializable JSON strings."}
+{"text": "Debugging and testing of the applications & fine-tuning performance. Provided maintenance support in production environment."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: Python, Django, Bootstrap, Bash, PyTest, XML, SQL, MySQL, PostgreSQL,   HTML, XHTML, CSS, AJAX, JavaScript, Apache Web Server, Linux, Git Hub."}

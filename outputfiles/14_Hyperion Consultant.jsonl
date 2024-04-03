@@ -1,0 +1,110 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Kolk\u0101ta, India"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 588131950848"}
+{"text": ""}
+{"text": ""}
+{"text": "Summary:"}
+{"text": "Seasoned Professional having7 years of experience in Oracle Hyperion applications using Hyperion Essbase, Essbase Administration Services, Hyperion Planning, MAXL."}
+{"text": "Experience in Calc Scripts, Report Scripts, MDX, Partitions, Cube Design, Solve Order."}
+{"text": "Good Knowledge in Budgeting & forecasting using planning applications, use of Data forms, Smart List, Work flow, Task list, menu\u2019s and Security in Hyperion planning."}
+{"text": "Experienced in installation, configuration and upgrading of Hyperion Planning and Essbase, Shared Services and EASapplication."}
+{"text": "Strong Experience in developing detailed financial reports with interactive reporting skills and financial reporting studio."}
+{"text": "Proven knowledge in Creating scenarios and migrated those scenarios from one environment to another environment and Scheduled scenarios as per the requirement."}
+{"text": "Expertise in Essbase Two pass calculations for combined representation of data with formula."}
+{"text": "Strong knowledge in converting Hyperion business rules to Calculation manager rules."}
+{"text": "Created versions in DRM with different hierarchies and blended the data."}
+{"text": "Skilled in Automation, Optimization and Performance Tuning of Essbase application data/metadata processing, upgrading, testing and migrating of cubes."}
+{"text": "Extensively involved in maintenance, automation, backups and performance tuning of Hyperion applications."}
+{"text": "Knowledge and experience in\u00a0Automation\u00a0using batch scripts, optimization of report queries in Microsoft Excel, creating ad-hoc reports for decision makers using Smart View and other applications."}
+{"text": "Adept in Creating Hyperion Planning applications and data forms to replicate sample Excel Mock Up's."}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": "OLAP and BI Tools\t: Hyperion Essbase 11.x/9.x/7.x/6.x, Hyperion Planning, EPMA, EssbaseIntegration Services (EIS),HPCM, Essbase Studio, Workspace, Smart View for Office, MS Excel Add-In"}
+{"text": "Reporting Tools\t: Hyperion Financial Reporting (FR), Web Analysis and Hyperion Report  "}
+{"text": "Office Tools\t: MS Office Suite 2007/2010"}
+{"text": "Languages\t: ESSCMD, MaxL, MDX, SQL, PL/SQL, C, C++, Java"}
+{"text": "Databases\t\t: Oracle 11gR2/10gR2/9i/8i, MS SQL Server, MS Access"}
+{"text": "Operating Systems\t: Windows NT/2000 /XP/Server 2003, UNIX and LINUX"}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Laclede Gas Company, St.LouisSep, 2014 \u2013 Current"}
+{"text": "Role:Hyperion Developer/Analyst"}
+{"text": "Responsibilities:"}
+{"text": "Involved in discussions with business users to derive requirements. Held design sessions and created functional and\u00a0technical design documents\u00a0using Microsoft Visio and Power Point."}
+{"text": "Involved in design and development of ASO and BSO cubes to support Planning, Forecasting and Reporting."}
+{"text": "Key involvement in editing Calc Scripts, developing\u00a0MaxL scripts for automation, MDX for advanced queries. Worked extensively on data loads, load rules,\u00a0Calc scripts\u00a0and UDAs."}
+{"text": "Responsible for the design, development, enhancement, and maintenance of the various BSO cubes used for forecasting and strategic decision-making."}
+{"text": "Involved in development, performance tuning and optimizations for data/dimension loads, database restructuring (BSO/ASO), calculations, overall Essbase performance. Key techniques used were resetting databases, grouping sparse member combinations, using\u00a0parallel calculations, managing caches, using\u00a0two-pass calculations\u00a0and changing\u00a0buffer size."}
+{"text": "Troubles shooting critical issues in timely manner to- ensure the SLAs (Service level agreement) are met."}
+{"text": "Created groups and users for different business segments and then assigned\u00a0security and filters\u00a0to define Essbase privileges on them."}
+{"text": "Extensively used\u00a0calculation commands and functions\u00a0to improve the performance of applications. Developed Calc Scripts for complex calculations and optimized them."}
+{"text": "Prepared templates for achieving quarterly forecasts, annual budget, ad-hoc reporting and management reporting by working with the business managers"}
+{"text": "Responsible for security provisioning using\u00a0shared services\u00a0across the entire Hyperion environment."}
+{"text": "Involved in Knowledge transfer and development transition to the other team members and to production team."}
+{"text": "Actively involved in project development life-cycle from analysis of Functional Specifications Document (requirements gathering), application design, development, testing, rollout into production environment, implementation and end-user training."}
+{"text": "Created reports Using\u00a0Hyperion Financial Reporting, SmartView and Excel Add-ins."}
+{"text": "Prepared Quarterly forecasts, annual budget,\u00a0ad-hoc reporting\u00a0and\u00a0management reporting\u00a0by working with the business managers."}
+{"text": "Worked Extensively on Shared Services, Essbase applications 11.1.1.3. Performed weekly, monthly, and quarterly data loads and verifications."}
+{"text": "Performed daily\u00a0backups of Hyperion data. Helped facilitate creation and loading of Monthly, quarterly budget data."}
+{"text": "Responsible for month-end tie-out and provide related support to financial controllers."}
+{"text": "Environment:\u00a0Essbase Administration Services 11.1.1.3, Hyperion Planning 11.1.1.3, Hyperion Shared Services 11.1.1.3, Hyperion WorkSpace, MAXL, MDX, HFR, Smart View, Essbase Excel Add-In, Microsoft Word and Power Point."}
+{"text": ""}
+{"text": "Verizon, Irving, TXOct, 2011\u2013 Aug, 2014   "}
+{"text": "Role:Hyperion Planning & Essbase Consultant"}
+{"text": "Responsibilities:"}
+{"text": "Analyzed user requirements and involved in the process of finalizing dimensions for cubes."}
+{"text": "Extensively involved in designing and modifying the outlines for Essbase Cubes."}
+{"text": "Developed batch scripts and rules files to upload dimensions and data to Essbase cubes."}
+{"text": "Optimized Data Loads and Calc Scripts by applying various techniques."}
+{"text": "Involved in developing web forms applications, Assigning Security, Workflow procedures and developed several Essbase Planning applications which suit the business and for best performance."}
+{"text": "Analyzed, designed and optimized the load rules to improve the Dynamic database updates and to optimize the Essbase database cubes performing the calculation scripts in order to calculate the data present in the Essbase cubes, Smart view, Forecasting and to calculate Dynamic Time Series data."}
+{"text": "Developed MaxL scripts to automate daily backup and consolidations of monthly data."}
+{"text": "Created MaxL scripts to update outlines in batch, load data and execute calc scripts, during maintenance."}
+{"text": "Technical support for existing cubes, problem identification, resolution and documentation."}
+{"text": "Maintained Essbase databases using Planning application to meet financial requirements. Developed applications using Hyperion Financial Management (HFM) Suite for automation and reporting process."}
+{"text": "Developed reports using Hyperion Financial Reporting."}
+{"text": "Involved in administrative activities such as setting up users, security groups and access filters to set the security policy and to ensure maximum security."}
+{"text": "Environment:\u00a0Hyperion Essbase 9.x, Hyperion Planning 9.x, Hyperion Financial reporting9.x, Hyperion Application Link, MS Excel Add-in."}
+{"text": ""}
+{"text": "E-Centric Solutions, Hyderabad, India       Jan, 2010 \u2013 Sep, 2011"}
+{"text": "Role:Hyperion Essbase Consultant/ Analyst"}
+{"text": "Responsibilities:"}
+{"text": "Involved in implementation, migration and validation for Hyperion Essbase upgrade from V6.5.4.2 to V7.1.6."}
+{"text": "Acted as a liaison between the technology and business areas of the organization. Involved in gathering requirements, functional specifications, designing documentations, testing strategies and developing a project plan."}
+{"text": "Interaction with finance and accounting customers who possessed various levels of business knowledge."}
+{"text": "Assess new Business needs, initiatives and translate them into detailed business requirements specifications."}
+{"text": "Worked closely with IT and finance teams to resolve issues, upgrade, develop, test, and implement financial systems."}
+{"text": "Develop, derive, clarify and review functional specifications and User cases."}
+{"text": "Restructured and redesigned previous Essbase cubes. Maintenance of previous Essbase cubes."}
+{"text": "Developed Batch and Rules files to load data from financial system\u2019s database to Essbase cube. Created and scheduled batch jobs for complete automation processes for nights and weekends application backup."}
+{"text": "Responsible for functions such as users/groups creation, security profiles and application access to different groups."}
+{"text": "Developed Calc scripts and optimized it according to the Essbase outline."}
+{"text": "Developed Aggregate Storage Cubes (A.S.O). Optimized applications to bring down runtime and database size considerably."}
+{"text": "Modified the existing outline according to the requirements for Hyperion Planning application."}
+{"text": "Hyperion planning 3.5.1 release was used to create new web forms. The same was used to define business rules."}
+{"text": "Involved in providing security authentication for the users of Hyperion Planning and maintaining workflow management process."}
+{"text": "Involved in unit test plans / system test plans, UAT plans, quality assurance test plans and test strategies."}
+{"text": "Environment: Hyperion Essbase 7.1.6, 6.5.4.2, Hyperion Planning 3.5.1, Hyperion Reports7.0, Hyperion Administration Services, ESSCMD, MAXL, Excel Add-In, MS Project, Windows NT/2000, Visio 2003."}
+{"text": ""}
+{"text": "Lorven, Hyderabad, India                       Sep, 2008 \u2013 Dec, 2009"}
+{"text": "Role:Software Developer"}
+{"text": "Responsibilities:"}
+{"text": "Developed, tested and deployed custom applications based on the requirements from new and existing clients."}
+{"text": "Involved in implementation and customization of the financial accounting and payroll software as per the client\u2019s requirements."}
+{"text": "Held responsibility for onsite support for multiple projects."}
+{"text": "Transmitted the accomplished works to the customers on time."}
+{"text": "Provided assistance to the technical support staff, as per the requirements."}
+{"text": "Performed hardware and software installations and upgrades."}
+{"text": "Maintained a good rapport with the all employees and provided excellent service to the customers."}
+{"text": "Environment:\u00a0Visual Basic 6, MS SQL 2000, Crystal reports 8, Windows Server 2000"}
+{"text": ""}
+{"text": "Education:"}
+{"text": "Bachelor of Science in Computer Sciences."}
+{"text": "Master of Science in Information Technology.."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

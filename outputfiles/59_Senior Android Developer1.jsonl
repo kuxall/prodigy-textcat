@@ -1,0 +1,147 @@
+{"text": "Name: frances frances"}
+{"text": "E-Mail: frances.frances@gmail.com"}
+{"text": "Address: Jining, China"}
+{"text": "Github: https://github.com/frances"}
+{"text": "LinkedIn: https://linkedin.com/frances"}
+{"text": "Phone No. 166847260751"}
+{"text": "Professional Summary "}
+{"text": "Around 5 years of professional IT experience in Android application development, testing & deployment in Consumer and Enterprise Applications."}
+{"text": "Experienced in Software Development Life Cycle (SDLC) such as Requirements Gathering, Project Design, Development, Support and maintenance phases to meet requirement of project and familiar with agile software development methodologies as well."}
+{"text": "Having Knowledge in iOS and worked on Swift and Objective C."}
+{"text": "Expertise in Android App development with Android SDK using Eclipse IDE and Android Studio."}
+{"text": "Experience in Android debugging tools such as Monitor, DDMS, ADB, Trace, LogcatTrace, Logcat, and ADT tools."}
+{"text": "Experienced in Agile Development process for diverse requirements."}
+{"text": "Experienced with front-end technologies HTML/CSS, HTML 5 and JavaScript."}
+{"text": "Known for writing efficient, maintainable and reusable code that preserves privacy and security."}
+{"text": "Strong Knowledge and experience in developing Mobile applications using C, C++, JAVA."}
+{"text": "Good understanding of Kotlin."}
+{"text": "Strong Knowledge of Android Development, Android framework and Middleware."}
+{"text": "Experienced with SQL/MYSQL/SQLite databases."}
+{"text": "Proficient with common Android Framework API's (Email, Web View, Contact Manager, Camera, Notifications, Maps Services, Locations)."}
+{"text": "Worked with IOS team to design appropriate UI of the project."}
+{"text": "Extensively worked on memory leaks, push notifications, content providers, multiple screen support, data offline usage, Bluetooth devices accounts and synchronize on Android."}
+{"text": "Experience with audio features, video features, graphics design, interactive design and animation."}
+{"text": "Used JUnit with Mockito and Espresso to make the app efficient."}
+{"text": "Used Lint tool to test the code redundancy,usability,security and performance."}
+{"text": "Expertise in Object Oriented Architecture, Design and Programming from design to implementation."}
+{"text": "Have hands-on experience in complete project life cycle, with domain knowledge in Mobile Application Development and Web application development."}
+{"text": "Experienced in web service protocols such as JSON, HTTP and XML."}
+{"text": "Working knowledge of graphic design and handling various kinds of media using Photo shop, Illustrator, and Dream-weaver."}
+{"text": "Have worked with SOAP and Restful applications."}
+{"text": "Worked with Google Analytics for finding the performance of the page."}
+{"text": "Good communication skills: I have interacted with customers regularly during development of the mobile applications."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": "Education:"}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "APP: Doctor Patient Medical Records"}
+{"text": "Client:  Vyzercorp \u2013 Columbia, SC"}
+{"text": "Role: Senior Android Developer\t\t\t\t\t       Jan 2016 \u2013 Till date"}
+{"text": "Link: https://play.google.com/store/apps/details?id=com.mobilebizco.atworkseries.doctor"}
+{"text": "Description:"}
+{"text": "Manage your patient's medical and health records, appointments, and visit notes the easy way.This app is useful for medical and health professionals who visit patients every now and then and to provide a way to keep track of medical records. It is a handy app you can bring along whenever you do your medical checkup. "}
+{"text": "\nResponsibilities:"}
+{"text": "Involved in the analysis, design, and development of the mobile application."}
+{"text": "Implementation of different user interface components such as WebView, ImageView, TextView, and ListView to display the data for the application."}
+{"text": "Used Navigation Drawer and Tabs to provide quick and easy navigation."}
+{"text": "Helped with training, mentoring and code reviews for the Android team."}
+{"text": "Created Lazy Lists for loading the images from the web and store them into the cache of the application."}
+{"text": "Worked on Firebase Cloud Messaging for PushNotifications."}
+{"text": "Streamed JSON uploads, make asynchronous requests using OkHttp and Retrofit, handle responses in anonymous callbacks using Android Asynchronous Http Client library."}
+{"text": "Responsible for creating a UI for the patient and doctors screen."}
+{"text": "Adding the medicine list and storing it in SQLite database."}
+{"text": "Used PHP and MySQL server for register and login."}
+{"text": "Used the Fragment tags to show the appointments, patients, Billings. And also the patients\u2019 information, clinical notes, medications, and appointment time."}
+{"text": "Displaying the medicine list and updating the UI properly for modify the already existing alarms. "}
+{"text": "Used the Popup Menu showed the list of send reminder, add to calendar, reschedule, finished, and canceled operations.\t"}
+{"text": "Used DDMS and Logcat for debugging and testing the application."}
+{"text": "Modify data and update data to the database using Web Services."}
+{"text": "Wrote test cases for list of acceptance criteria in Business layer using Mockito and on presentation layer using Espresso(UI)."}
+{"text": "Used Parcelable to serialize Java Objects Activity to Activity in Android."}
+{"text": "Conducted requirement gathering sessions and wrote the high level and detail design for the Android application."}
+{"text": "Used testing tools like Appium and Roboelectric testing."}
+{"text": "Utilized best practices and libraries in Android development, namely: Kotlin, MVVM architecture, RxJava, Dagger2 and Retrofit."}
+{"text": "Worked on kotlin to call java code from kotlin."}
+{"text": "Used Firebase crash Reporter to monitor crashes and exceptions and user app analytics data."}
+{"text": "Used Crashlytics to deploy apps on the test engineer\u2019s phones."}
+{"text": ""}
+{"text": "Environment: Android SDK, Android Studio, PHP, MySQL, Espresso, Crashlytics, DDMS, Logcat, Ok Http, Retrofit, JSON, Image Cache, SQLite, Push Notifications"}
+{"text": ""}
+{"text": ""}
+{"text": "APP: SMART HOME\t\t\t\t\t\tMar 2014 \u2013 Dec 2015"}
+{"text": "Client: Dell EMC \u2013 Southbouro, MA\t\t\t"}
+{"text": "Role:  Senior Android Developer\t\t\t\t\t\t"}
+{"text": "Link: https://play.google.com/store/apps/details?id=com.lgeha.nuts"}
+{"text": "Description: "}
+{"text": "Smart Home app offer access control to any home or business locks system. The app is connected to the internet, it can unlock a door when authorized user's smart phone approaches. Users can also remotely lock and unlock the door using this app.  smart door lock works as an IoT device which can receive commands from mobile. Physical keypads provide a backup with locks."}
+{"text": "Responsibilities:\t"}
+{"text": "Involved in the scrum and sprint meetings to provide daily updates and review the Smart home project status with team and Team Lead."}
+{"text": "Used Fragment tabs and Recycler View to display the different sections of the app. "}
+{"text": "Created OTP (One Time Password) screen to verify user for accessing IoT device settings."}
+{"text": "Integrated IoTplatform services to send commands to smart lock."}
+{"text": "Used ThingWorxIoTplatform to establish connection with IoTdevice over WIFI."}
+{"text": "Work closely with the web application development team to ensure proper integration between mobile application and web application."}
+{"text": "Implemented design patterns like Singleton, Factory and Builder for standardization of code and Butter knife to find and automatically cast views in Layouts."}
+{"text": "Designing, Enhancements, Bug-fixing, KTSessions, and Maintenance of application."}
+{"text": "Performing on device debugging using ADB and tested application using ListView, ScrollView, ViewPager and Navigation Drawer."}
+{"text": "Customizing different widgets that include Buttons, Toast\u2019s and Dialog\u2019s."}
+{"text": "Using ACRA library to send crash reports to the developer."}
+{"text": "Utilized best practices and libraries in Android development, namely: Kotlin, MVVM architecture, RxJava, Dagger2 and Retrofit."}
+{"text": "Used Multithreading in implementing parallel processing."}
+{"text": "Worked on Bluetooth devices and used Beacons."}
+{"text": "Used various third party libraries Retrofit, IcePick, and RxJava etc."}
+{"text": "Update Titanium with latest features and resolve existing bugs in the platform."}
+{"text": "Raises an alarm and a push notification on mobile app in case of any unauthorized access.  "}
+{"text": "Environment: Android SDK, Android Studio, Retrofit, IcePick, RxJava, ThingWorxIoT platform, Singleton, Factory, Builder, Butter Knife, ACRA library, Titanium"}
+{"text": ""}
+{"text": "App: Practo July 2013 \u2013 Feb 2014"}
+{"text": "Client: PractoTechnologies- Bangalore, India"}
+{"text": "Role: Android Developer \t\t\t\t\t\t"}
+{"text": "Link: https://play.google.com/store/apps/details?id=com.practo.fabric\t\t\t"}
+{"text": "Description: "}
+{"text": "Practo mobile app is built for patients who can book appointment with the doctors on a run. They can see the list of specialist doctors and their details like graduation, remarks by patients, fees, address, phone number, ratings, locations etc. Then they can select the doctor of their choice with appointment date and time. After final confirmation, a SMS alert will be sent to the respective doctor and administrator. Also all the details will be emailed to doctor and admin."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interacted with the UI developers to build rich and friendly user interface following some best design practices. \u00a0"}
+{"text": "Designed a customized calendar to book appointments and Asynctask and loaders and Restful Web services for JSON response and parsing them to get the doctor's information. \u00a0"}
+{"text": "Developed a customized medicine reminder using the alarm manager that reminds (read\u2019s out) of the medicine to be taken using Text toSpeech Engine."}
+{"text": "Worked closely with the web services development team to ensure proper integration between mobile application and web application. Tested the application to support various Android devices."}
+{"text": "Used JIRA bug tracking tool for quality control and to view and resolve pending tickets. Wrote technical specifications and maintained all reports pertaining to application development process."}
+{"text": "Implement Home screen widget to provide quick access to refer contact options."}
+{"text": "Worked in the new design, gave a new look and feel in the app, applying styles and themes on different activities and fragments."}
+{"text": "Environment: Android SDK, RESTful web services, JSON, JIRA, Unit Testing, GIT, Dagger, SDLC, Recycler View, Agile methodology."}
+{"text": ""}
+{"text": "Cove Venture\u2013 Bangalore, India     \t                                        Mar 2012 \u2013 Jun 2013"}
+{"text": "Role: Java Developer"}
+{"text": "Responsibilities:"}
+{"text": "Involved in the analysis, design and development of the application using Waterfall methodology."}
+{"text": "Designed 30 screens of different complexities holding different functionalities and varied business logic included using JSP, Struts."}
+{"text": "Supporting the different clients of our tool."}
+{"text": "Generating the reports using the SQL Server Reporting services."}
+{"text": "Done POC on integration of SQL Reporting Services with Java Web application and implemented in the project."}
+{"text": "Wrote about 50 Database plus procedures and functions."}
+{"text": "Proposed an architecture for the same project using Spring MVC, spring, Hibernate and implemented."}
+{"text": "Designed 32 reports using the SQL server 2005 Business Intelligence Studio and deployed in report server (SSRS)."}
+{"text": "Tuned the already existing stored procedures and functions."}
+{"text": "Done POC (Proof of concept) for folder security in SSRS and implemented in the project."}
+{"text": "Done disaster recovery test for the servers."}
+{"text": "Found a bug in Microsoft SQL Server 2005 jobs and reported the same to the Microsoft team and it has been fixed in next release of SQL Server 2005."}
+{"text": "Environment: HTML, JSP, Struts, Spring Core, Spring MVC, Hibernate, Ant, SQL Server, SQL Server."}
+{"text": "Independent Projects:"}
+{"text": "iOS Developer "}
+{"text": "Responsibilities: "}
+{"text": "Integrated PayPal SDK for online payment."}
+{"text": "Used CollectionView and UIPageControl for UIDesign."}
+{"text": "Used FaceBook API for log in."}
+{"text": "Created log in module for secured user authentication as per client guidelines."}
+{"text": "Implemented image caching to handle image loading in better way.\u2028"}
+{"text": "Used NSURLConnection API for making network call.\u2028"}
+{"text": "Used NSOperationQueue in combination with NSURLConnection to achieve multi- threading. "}
+{"text": "Used Git version control/source control.\u2028"}
+{"text": "Used XIB files for interface design. "}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

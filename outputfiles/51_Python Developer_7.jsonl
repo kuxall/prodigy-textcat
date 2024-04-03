@@ -1,0 +1,153 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Kuala Lumpur, Malaysia"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 528198716914"}
+{"text": "SUMMARY:"}
+{"text": "Around 8 Years of experience in Design, Analysis Development, Testing, Bug fixes, Customization, Enhancement, Support and Implementation of various web, stand-alone, client-server enterprise applications using Python, Django, Flask, Pyramid in various domains."}
+{"text": "Experienced with full software development life-cycle (SDLC), object-oriented programming (OOPs), architecting scalable platforms, database design and agile methodologies."}
+{"text": "Have work experience with various Python Integrated Development Environments like PyCharm, Geany, Eclipse, Spyder, Intellij, TOAD, and NetBeans."}
+{"text": "Experience in developing web-based applications using Python 2.7/2.6, Django 1.4/1.3."}
+{"text": "Good experience of software development in Python (libraries used: Beautiful Soup, numpy, scipy, matplotlib, python-twitter, Pandas data frame, network, urllib2, MySQL dB for database connectivity)."}
+{"text": "Designed and managed public/private cloud infrastructures using Amazon Web Services (AWS) which include EC2, S3, Cloud Front, Elastic File System, Dynamo dB, RDS, VPC, Direct Connect, Route53, and Lambda. "}
+{"text": "Experience on Key AWS services: EC2, S3, DynamoDB (NoSQL) and Lambda. "}
+{"text": "Experienced in developing User Interface using HTML5, Angular JS, Bootstrap, underscore JS, Node JS, CSS, JavaScript, AJAX, JSP, JDBC, XML etc."}
+{"text": "Experienced in Unit testing, System Integration testing (SIT), User acceptance testing (UAT), Functional testing."}
+{"text": "Experienced in developing applications using Agile Methodologies, Waterfall Methodology and Scrum stories in a python-based environment."}
+{"text": "Have knowledge of relational databases like Oracle SQL, and MySQL."}
+{"text": "Experience in writing SQL, Sub Queries, Stored Procedures, Triggers, Cursors and Functions."}
+{"text": "Knowledge in Model View Controller (MVC) frameworks like Django, Angular JS, Java Script, JQuery, and Node.JS."}
+{"text": "Good knowledge of TCP/IP, UDP, HTTP, HTTPS, SSH, and SSL protocols."}
+{"text": "Good experience in developing web applications implementing MVT/MVC architecture using Django, Flask, Webapp2 and spring web application frameworks."}
+{"text": "Expert at version control systems like Git, SVN, and CVS, Migrated repos from SVN to GitHub."}
+{"text": "Experience in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on MySQL, PostgreSQL, Oracle, and MongoDB. Designed and Developed automation scripts using Selenium Web Driver."}
+{"text": "Experience in working with different operating systems like LINUX, UNIX, and WINDOWS."}
+{"text": "Have Experience in List Comprehensions and python inbuilt functions such as Map, Filter, and Lambda."}
+{"text": "Excellent Experience and knowledge in using XML, SOAP, and REST web Service for interoperable software applications."}
+{"text": "Experience in developing big data applications using Hadoop framework and its ecosystems like MapReduce."}
+{"text": "Experienced in developing API services Python/Tornado while leveraging AMQP and RabbitMQ for distributed architectures."}
+{"text": "Hands on experience with bug tracking tools JIRA and Bugzilla."}
+{"text": "Attentive to cyber security and data protection. Performed code reviews and implemented best Python programming practices."}
+{"text": "Skilled in debugging/troubleshooting issues in complex applications."}
+{"text": "Designed and implemented Hive and Pig UDF's using\u00a0Python\u00a0for evaluation, filtering and storing of data."}
+{"text": "Knowledge of deployment tools using Jenkins, Pylint, Cppcheck and Coverity."}
+{"text": "Good experience in handling errors/exceptions and debugging the issues in large scale applications. "}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:\u00a0\n"}
+{"text": ""}
+{"text": "Education: Bachelor of Technology \u2013 Information Technology (INDIA).\n"}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": "\nSunTrust Bank, Atlanta, GA                                                                                                                  Dec 2016 - Till date"}
+{"text": "Python Developer \n"}
+{"text": "Description: Worked on the improvement of customer support and complains enrollment system for differently. This is a Post deals and Customer input and complains management system. Responsible for observing and supporting an incredible number of specialized administrations. Responsible for checking and support of a relational database system."}
+{"text": "Responsibilities:"}
+{"text": "Designed and developed the User Interface for the project using HTML, CSS, JavaScript, and AJAX.\u00a0\n Developed views and templates with Django's MVT (model, view, and template) to create a user-friendly website. "}
+{"text": "Worked on MVC architecture using PHP, Python as a controller.  "}
+{"text": "Worked on packages like socket, REST API, Django."}
+{"text": "Experience in using collections in Python for manipulating and looping through different user-defined objects."}
+{"text": "Involved in the front end and utilized Bootstrap and Angular.js for page design.\u00a0"}
+{"text": "Created Business Logic using Python to create Planning and Tracking functions."}
+{"text": "Involved in building database Model, APIs, and Views utilizing Python, to build an interactive web-based solution.\u00a0"}
+{"text": "Designed and managed API system deployment using fast HTTP server and Amazon AWS architecture."}
+{"text": "Designed and created backend data access modules using PL/SQL stored procedures.\u00a0"}
+{"text": "Used Amazon Web Services (AWS) for improved efficiency of storage and fast access."}
+{"text": "Design and implemented custom Bash scripts for controlling the data flow from the PostgreSQL database.\u00a0"}
+{"text": "Wrote REST APIs, as part of developing web-based applications for insurance premium calculations, using Django's REST framework."}
+{"text": "Responsible for debugging the project monitored on JIRA."}
+{"text": "Installation, Configuration, administration of Red Hat Linux."}
+{"text": "Used Django Database API's to access database objects.\u00a0"}
+{"text": "Worked with Level two support team, DBAs, and infrastructure team to improve the efficiency and capacity of our system."}
+{"text": "Utilized PyUnit, the Python\u00a0unit test framework, for all Python applications."}
+{"text": "Creating unit test/regression test framework for working/new code."}
+{"text": "Risk analysis for potential points of failure (database, communication points, and file system errors)."}
+{"text": "Extensive use of version controlling systems like GIT and SVN.\u00a0"}
+{"text": "Actively worked as a part of a team with managers and other staff to meet the goals of the project in the stipulated time."}
+{"text": "Environment:\u00a0Python, Django, Flask, PHP, C++, HTML, CSS, jQuery, AJAX, XHTML, AngularJS, JavaScript, XML, GitHub, Flash, MYSQL, PL/SQL, AWS."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Catholic Health Initiatives, Lincoln, NE                                                                                            Jan 2015 \u2013 Nov 2016"}
+{"text": "Python Developer\n"}
+{"text": "Description: Responsible for the design, development, and support of our exclusive text-based substance preparing incorporating various data sources into one system of multi-terabytes of data that support our customer-confronting, very accessible web applications for a look, Big data and machine applications that use reusable, testable, and productive code. I likewise offered help to coordination endeavors between the organization's content supplier's technology surroundings."}
+{"text": "Responsibilities:"}
+{"text": "Part of the team implementing REST API's in Python using micro-framework like Flask with SQL Alchemy in the backend for management of data center resources on which Open Stack would be deployed.\u00a0"}
+{"text": "Used python libraries like Beautiful Soup, NumPy, and SQL Alchemy.\u00a0"}
+{"text": "Utilized standard Python modules such as csv, robot parser, tier tools and pickle for development.\u00a0"}
+{"text": "Worked on Python Open Stack APIs and used NumPy for Numerical analysis.\u00a0"}
+{"text": "Used Ajax and jQuery for transmitting JSON data objects between frontend and controllers.\u00a0"}
+{"text": "Implemented user interface guidelines and standards throughout the development and maintenance of the website using the HTML, CSS, JavaScript, and jQuery.\u00a0"}
+{"text": "Worked on front-end frameworks like CSS Bootstrap for responsive web pages. "}
+{"text": "Developed and tested many features for the dashboard, created using Bootstrap, CSS, and JavaScript.\u00a0"}
+{"text": "Developed Wrapper in Python for instantiating multi-threaded application.\u00a0"}
+{"text": "Created a custom CMS built using Django, AWS (Amazon web service), REST, Json with JavaScript, JQuery, AJAX components, worked closely with designer. Converted Photoshop images into XHTML/CSS."}
+{"text": "Developed views and templates with Python and Django's view controller and templating language to create a user-friendly website interface.\u00a0"}
+{"text": "Managed datasets using Panda data frames and MySQL, queried MYSQL database queries from python using Python-MySQL connector and MYSQL DB package to retrieve information."}
+{"text": "Working in a team of Architects and Developers to build and deploy Python Flask Peewee Linux AWS.\u00a0"}
+{"text": "Developed various algorithms for generating several data patterns.\u00a0"}
+{"text": "Used JIRA for bug tracking and issue tracking.\u00a0"}
+{"text": "Added several options to the application to choose the algorithm for data and address generation.\u00a0"}
+{"text": " Used AWS for application deployment and configuration."}
+{"text": "Developed and designed automation framework using Python and Shell scripting."}
+{"text": "Developed the project in Linux environment.\u00a0"}
+{"text": "Used Agile Methodology and SCRUM Process.\u00a0"}
+{"text": "Maintained the versions using GIT and sending the release notes for each release."}
+{"text": "Environment: Python, Django, HTML5, CSS, XML, MySQL, JavaScript, jQuery, CSS, Bootstrap, MongoDB, MS SQL Server, JavaScript, Eclipse, Git, GitHub, Linux, Shell Scripting, AWS."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Sony Interactive Entertainment LLC, San Mateo, CA                                                                    Mar 2013 \u2013 Dec 2014"}
+{"text": "Python Developer\n"}
+{"text": "Description: Responsible for dealing with the interchange of data between the server and the users. The essential concentration is the development of all server-side rationale, guaranteeing superior and responsiveness to demands from the front-end and responsible for incorporating the front-end components worked by our colleagues in the application."}
+{"text": "Responsibilities:"}
+{"text": "Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle (SDLC) and used agile methodology for developing the application "}
+{"text": "Upgraded existing UI with HTML, CSS, jQuery, and Bootstrap."}
+{"text": "Designed and developed, Use-Case Class and Object Diagrams using UML Rational Rose for Object-Oriented Analysis/Object Oriented Design techniques. "}
+{"text": "Designed and developed data management system using MySQL. Built application logic using Python 2.6."}
+{"text": "Used Django APIs for database access. "}
+{"text": "Developed RESTful services using Django."}
+{"text": "Designed and developed communication between client and server using Secured Web services.\u00a0"}
+{"text": "Developed and tested many features for a dashboard using Python, Java, Bootstrap, CSS, JavaScript, and jQuery."}
+{"text": "Designed and developed data management system using MySQL. Involved in Agile Methodologies and SCRUM Process."}
+{"text": "Participated in the complete SDLC process."}
+{"text": "Create and enhanced existing automated solutions.\u00a0"}
+{"text": "Parse JSON and XML data using Python.\u00a0"}
+{"text": "Responsible for debugging and troubleshooting the web application."}
+{"text": "Experienced in writing indexes, views, constraints, stored procedures, triggers, cursors and user-defined functions or subroutines in MySQL.   "}
+{"text": "Utilized Subversion control tool to coordinate teamwork."}
+{"text": "Used Selenium Libraries to write fully functioning test automation process.  "}
+{"text": "Environment: Python, HTML, CSS, Bootstrap, OOP, MYSQL, Java, JavaScript, jQuery, Rational Rose, Django, XML, JSON, SDLC, Agile and SCRUM methodologies.\n"}
+{"text": "Sunrise Systems Inc, Edison, NJ                                                                                                          Nov 2011 - Feb 2013\nPython Developer"}
+{"text": "\nDescription: Sunrise Systems provides cost effective Managed Staffing Solutions, Information Technology and Information Technology Consulting Services to several Fortune 500 companies and U.S. Government agencies. Provides strategic support for the development and long-term growth of new business ventures across several industries. \nResponsibilities:"}
+{"text": "Responsible for Architecture and design implementation. "}
+{"text": "Developed an automation module which processes chunks of CSV file uploaded by an end user in an asynchronous manner."}
+{"text": "Implemented machine learning algorithms and applied different classifiers on top of data to extract accurate results."}
+{"text": "Developed web application using Python, Django framework, MySQL "}
+{"text": "Written Unit test cases using the Unit testing framework with 95% of code coverage. "}
+{"text": "Used Python scripts to update content in the database and manipulate files."}
+{"text": "Worked on User Interface using Django templates, HTML, CSS, JavaScript, Bootstrap."}
+{"text": "Developing applications using RESTFUL architecture using Node.js and PHP as backend languages. "}
+{"text": "Responsible for code reviews, sprint planning and served as a scrum master. "}
+{"text": "Documented all the workflow with design details and flowchart."}
+{"text": "Involved in capturing the requirements for the serial functional interface and other software requirements specification document."}
+{"text": "Environment: Python, Django, Flask, MySQL, HTML5, CSS, XML, MySQL, JavaScript, Backbone JS, JQuery, Mongo DB, Node.js"}
+{"text": ""}
+{"text": "Reliance Infocomm LTD - Hyderabad, Andhra Pradesh\t                                                        Aug 2009 - Oct 2011\nJava/J2EE Developer"}
+{"text": "Description: Reliance Infocomm Limited provides telecom services in India. The company offers mobile and fixed line telephony services, including broadband, national and international long-distance services, data services, and Internet services."}
+{"text": "Responsibilities:"}
+{"text": "Involved in gathering and analyzing system requirements. "}
+{"text": "Played key role in the high-level design for the implementation of this application. "}
+{"text": "Developed the Training and Appraisal modules using Java, JSP, Servlets and JavaScript. "}
+{"text": "Developed UI using java swings. "}
+{"text": "Involved in Designing the Database Schema and writing the complex SQL queries. "}
+{"text": "Involved in Code reviews for other modules developed by peers. "}
+{"text": "Designing and establishing the process and mapping the functional requirement to the workflow process. "}
+{"text": "Accessed stored procedures and functions using JDBC Callable statements. "}
+{"text": "Executed and coordinated the installation for the project. "}
+{"text": "Worked on web-based reporting system with HTML, JavaScript and JSP. "}
+{"text": "Involved in Maintenance and Enhancement of the project. "}
+{"text": "Environment: Java, Jdk1.3, J2EE (JSP, Servlets, EJB), JDBC, Apache Tomcat, oracle, HTML, DHTML, SQL and JUnit."}

@@ -1,0 +1,205 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Mexico City, Mexico"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 456159695053"}
+{"text": "\t\t\t\t\t\t\t\t\t"}
+{"text": "Professional Summary:"}
+{"text": "Skilled IT Professional with over 9+ years of experience in design, development and maintenance of distributed web-based applications and client/server applications using Java/J2EE and Web Technologies."}
+{"text": "Extensive experience working in a Test-Driven Development and Agile-Scrum Development."}
+{"text": "Experience of enterprise level application development with\u00a0Java\u00a0centric technologies in the domain of Healthcare, Insurance and Retail.\u00a0"}
+{"text": "Expertise in Core\u00a0Java\u00a0concepts and hands on experience in implementing Java 8 features like functional interfaces, lambdas and Java Stream API for bulk data operations on collections."}
+{"text": "Experience worked with Front end technologies: JavaScript programming ES6,Angular, TypeScript, JSP, jQuery, JSON, Ajax."}
+{"text": "Strong Experience in Web development, client-server, Mobile application and multi-tier architecture projects based on Angular."}
+{"text": "Extensive experience in Enterprise/Web/Client Server systems using J2EE Technologies such as Java, JSP, Servlets, JSF, EJB, RMI, JNDI, Struts 2, Hibernate, Spring."}
+{"text": "Expert in implementingDependency Injection(DI) inspring modules including Spring IOC, Spring AOP, Spring Security, Spring MVC, Spring Bootand Spring Integration Messaging using Annotations and Auto-wiring."}
+{"text": "Good experience in developing Service Oriented ArchitectureWeb Services using REST and SOAP."}
+{"text": "Experience in developing XML documents with XSD validations, SAX and DOM parsers to parse the data held in XML documents."}
+{"text": "Expertise in Spring Security for authentication and authorization security process. "}
+{"text": "Experience working with Object Relational Mapping(ORM) technologies like Hibernateversion 3.2.5, 5.1 for mapping\u00a0Java\u00a0classes with database and used Hibernate Query Language (HQL) and Spring Data JPA."}
+{"text": "Professional implementation experience of XML technologies like XSL/XSLT, SAX, DOM, XPath, SOAP, WSDL, DTD, XSD, JAXB, JAXP and Apache Axis."}
+{"text": "Have Good exposure on Java Design Patterns and familiar in using different design patterns like Factory design, Singleton, Flyweight pattern, Abstract Factory and Fa\u00e7ade Pattern."}
+{"text": "Knowledge onAmazon Web Services, consuming the data from the cloud and generation of reports.\u00a0"}
+{"text": "Had vast exposure to release management and experience in configuring Team City, Jenkins and Maven Build."}
+{"text": "Knowledge on integrating Selenium automation regression test suite in Jenkins build pipeline along with smoke testing applications using automated test cases from Selenium."}
+{"text": "Comprehensive knowledge in RDBMS databases like Oracle 10g/11g, SQL Server 2005, 2008, DB2 and MySQL 4.x, 5.0.\u00a0"}
+{"text": "Comprehensive knowledge on writing Triggers, Stored Procedures and Normalization of databases and development using SQL and PL/SQL in SQL Server environments.\u00a0"}
+{"text": "Experienced in NoSQL databases like MongoDB (2.6, 2.4) and relational databases like Oracle andPostgreSQL."}
+{"text": "Well experienced in developing applications using ANT, MAVEN, Log4j andtest-driven development using Junittest cases."}
+{"text": "Experienced in deploying J2EE Application Server like Apache Tomcat, JBoss, WebLogicandWebSphere."}
+{"text": "Experience in using the tools like Eclipse, STS,Netbeans, J-Builder, VS Code, Rational Application Developer, IntelliJ, WebStorm, Dream Weaver, SOAP UI, Rest Client."}
+{"text": "Ability to work individually as well as in a team with excellent problem-solving skills, troubleshooting capabilities, learn new tools and concepts.\u00a0"}
+{"text": "Expertise in using issue tracking tools such as Service Now, Quality Center and JIRA."}
+{"text": ""}
+{"text": "Education: "}
+{"text": "Bachelor of Technology in Computer Science Engineering, India"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Aflac\u2013Columbus, GA\t\t\t\t\t\t\t\tJan 2017 to Present"}
+{"text": "Role: Sr. Full Stack Java Developer"}
+{"text": "Project: Customer Information File"}
+{"text": "Description: Working on development and maintenance of customer and Insurance agent portals at Aflac Inc. This project stores the customer data for multiple products in the centralized data repository which uses the distributed software to handle large volume of data which supports concurrent requests and no single point of failure.Through this application customer can login and view all their policies and information in their personal dashboards,there is another application known as Insurance agent portal for agents where in which the insurance agentswill create a user account on behalf of customer. My role involves in developing, unit testing, performance testing and deploying the application in various environments. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in various phases of Software Development Life Cycle of the application in Agile Development process which includes daily stand up meetings."}
+{"text": "Implemented the Web Applications using Spring Bootand used Spring MVC framework for building the application based on MVC design paradigm."}
+{"text": "Effectively developed and deployed Spring Boot applications for REST services."}
+{"text": "Implemented Core Java concepts to write efficiently reusable Generic classes with standard design patterns."}
+{"text": "Migrated the code from legacy Java 1.7 to Java 8 with functional interfaces, lambdas and Stream API\u2019s with complete restructuring of applications. "}
+{"text": "Providing user login security to the API\u2019s using Spring Security for authentication and authorization by encoding user credentials with bcrypt algorithm."}
+{"text": "Developed web application using Spring MVC 5.0 framework and implemented navigation using Spring MVC controllers, configured controllers with Autowiringand Annotations and Hibernate ORM database mapping."}
+{"text": "Used Log4J along with Spring AOP to make use of cross cutting concerns and log user login information, database exceptions and security details throughout the application."}
+{"text": "Handled the back-end operations using SQL, Stored Procedures, triggers and developed the persistence structure using ORM framework like Hibernate."}
+{"text": "Experience in jQuery frameworks in AJAX-driven websites using proxy to get the data from the backend in the form of JSON and XML to populate on UI components."}
+{"text": "Responsible for translating UX design into pixel perfect pages with CSS/HTML and wrapping in Angular Components and Directives with Redux."}
+{"text": "Enhanced legacy application by building new components in Angular and typescript with Rest wrapper around the existing backed java services along with many enterprise web services integration."}
+{"text": "Created System Requirements Specifications(SRS) report of the project by collecting requirements from the client."}
+{"text": "Authentication of users with JWT web tokens paradigm."}
+{"text": "Used Angular 2.0 forms like Template Driven forms and Modern Driven (Reactive) forms to perform form validations both on server and client side.\u00a0Worked with architecture teams to implement upgrade of Angular 1.5 to Angular 2.0."}
+{"text": "Used Angular\u2019s HTTP Client to interact with servers/backend API. Created SPAs with multiple views using route services in Angular."}
+{"text": "Used Angular 2 default\u2019s return type Observables for subscribing to multiple events response from Service components."}
+{"text": "Implemented Unix Shell scripts for generating files into the backup servers."}
+{"text": "Developed complex database objects like Stored Procedures, Functions, Packages and Triggers using SQL and PL/SQL on Oracle Database environment."}
+{"text": "Generated server-side PL/SQL scripts for data manipulation, validation and materialized views for remote instances."}
+{"text": "Used RabbitMQ message broker to route messages to the clients across the cloud network."}
+{"text": "Worked with Jasmine and Karma testing frameworkstesting the asynchronous JavaScript code and Unit testingof Java backend code withJUnit."}
+{"text": "Spring Integration (Message Bus) with JMS is used to interact with various external systems to send and receive MQ messages and Web Service requests/responses."}
+{"text": "Deployed code on web servers likeWebSphere Application Servers."}
+{"text": "Experience on AWS Deploying, managing and operating scalable, highly available and fault tolerant systems."}
+{"text": "Used JMS for observer design pattern and for communication between distributed servers."}
+{"text": "Involved in developing code to convert a REST response into JSON object and construct a DOM tree in UI."}
+{"text": "Worked on NOSQL database like Mongo DB and performed various CRUD operations on it."}
+{"text": "Used Maven build automation for adding dependencies to the project."}
+{"text": "Participated in code reviews and migrated version controlling from TFS to GIT and used Jenkins for CI/CD."}
+{"text": "Used Jira issue tracker to document the issues."}
+{"text": "Configured the SONARQUBE to the project to automate the coding standards to check identifying the error prone code, duplication and connection leakages. "}
+{"text": "Environment: Java 8, Agile, Spring Boot, Spring MVC, Spring AOP, Spring Cloud Microservices,XML, HTML, Bootstrap, JSP,TypeScript, Angular 2, JWT tokens, Hibernate, Maven, Java Script, XSLT, CSS, JMS,Restify,RabbitMQ, REST Web Services, Tomcat, PL/SQL, MongoDB, MQ Series,Junit, Log4j, Shell scripting, UNIX, Kafka, Jenkins, Jasmine, Oracle"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: AmerisourceBergen Health Corp \u2013 Columbus, OH\t\t\t\tSep 2015 - Dec 2016"}
+{"text": "Role: Sr. Full StackJava Developer"}
+{"text": "Project: Purchase Optimization"}
+{"text": "Description:AmerisourceBergen is a leading pharmaceutical company which provides wholesale drug distribution. This Purchase optimization e-commerce enterprise application which helps in providing services to customers in ordering prescription, filing claims and pricing drugs. As part of strongAgile development team, I was involved in project for developing customer prescription ordering either through home delivery system or through retail pharmacies using Java web technologies."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed the code using Spring MVC, JSP, AJAX, JavaBeans, Web Services, JavaScript, JMS, JNDI, XML, XSLT and HTML."}
+{"text": "Configured Spring MVC Controllers to handle the requests and responses using Autowiringand Annotations.\u00a0"}
+{"text": "Used JMS for observer design pattern and for communication between distributed servers."}
+{"text": "Worked on highly advanced user interface design and development using AngularJS, HTML, CSS and Bootstrap."}
+{"text": "Maintained internal DNS subdomain along with mail server and implemented the application using core java, maintained concurrency with multi-threading. "}
+{"text": "Used JAVA (OOP concepts), Web services (Rest, Soap), Servlets, JSP\u2019s, HTML, CSS and JavaScript to develop reliable and scalable enterprise applications."}
+{"text": "Implemented Spring 3.x framework for information flow between Database and Model."}
+{"text": "Implemented Dependency Injection using IOC of spring framework to inject beans into components and Spring AOP for logging."}
+{"text": "Involved in implementation of Java Multi-threaded process responsible for spawning light weight threads for multiple job and concurrent job processing."}
+{"text": "Used Hibernate for implementing the persistence mechanism in the application and involved in using JPA (Java Persistence API) frameworks and APIs such as JDO (Java Data Objects) and Hibernate."}
+{"text": "Worked with EJB message driven beans to handle the services calls as handlers."}
+{"text": "Worked on the MVC frameworks (AngularJS) to design web pages and created custom directives, two-way data bindings."}
+{"text": "Developed an AngularJS workflow manager leveraging Angular-UI's state router for flexible configuration and management of multi-step user input flows."}
+{"text": "Worked with AngularJS various directives and services to controlHttpServices generated from the backend API. "}
+{"text": "Enhanced legacy application by building new components in Angular with REST wrapper around the existing backend java services along with many enterprise web services integrations."}
+{"text": "Developed reusable and interoperable Web Services modules based on SOA architecture using SOAP."}
+{"text": "Worked on NOSQL database like MongoDB and performed various CRUD operations on it."}
+{"text": "Used GIT as version control system, to keep track of all the work & all changes, allowing several developers to collaborate and used Maven as build and configuration tool and Jenkins for continuous integration tool."}
+{"text": "Involved in writing building and deployment scripts using Maven on UNIX environment and integrated using Jenkins."}
+{"text": "Used SVN version controlling centralized system to perform Checkin and Checkout of the code into repository."}
+{"text": "Worked in all phases of SDLC, including requirements analysis, design and development, bug fixing, supporting QA teams and debugging production issues."}
+{"text": "Used JSON data through third party REST APIs to acquire product data from the server and display using AngularJS and JavaScript."}
+{"text": "Used Oracleand DB2as backend database, involved in development of PL/SQL stored procedures, functions, packages and triggers."}
+{"text": "Worked on Web Logic 12c for deployed interface modules and used Oracle 11g for persist the data getting from external system."}
+{"text": "Used Tomcat servers for deploying the code."}
+{"text": "Used Jasmine for Angular test cases and Mocha for testing, Designed and Developed Test Cases for backend automated testing usingJunit and Eclipse IDE also developed custom solutions that act upon Jenkins information in real time."}
+{"text": "Involved in the JMS Connection Pool and the implementation of publish and subscribe using Spring JMS. Used JMS Template to publish and Message Driven Bean (MDB) to subscribe from the JMS provider."}
+{"text": "Utilized JIRA for task scheduling, quality control activities like defect tracking and fixing."}
+{"text": ""}
+{"text": "Environment: JDK 8, Spring MVC, Spring AOP, Spring Batch, Spring Rest, JavaScript, XML, HTML5, Bootstrap, JSP, Angular JS, Hibernate, Maven, XSLT, CSS3, JMS, REST Web Services, Tomcat, PL/SQL, MongoDB, MQ Series, Junit, Log4j, Shell scripting, UNIX, Jenkins, SVN, WebLogic, Oracle 11g"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Verizon Wireless, Irvine, CA                                                       \t\t\tNov 2013 - Aug 2015"}
+{"text": "Role:Java/J2EE Developer"}
+{"text": "Description: Verizon wireless is a telecommunication network where they offer products and services to clients and customers. As a part of B2B team my role was to improvise the existing application and develop the new requirements provided by business team. Collaborated with various teams to take suggestions and implement them in developing the application."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in client requirement gathering, analysis & application design of Extreme Programming using Agile methodology with iterative and incremental software development."}
+{"text": "Involved in developing code for obtaining bean references in spring framework using Dependency Injection (DI) or Inversion of Control (IOC) using annotations."}
+{"text": "Involved in writing JSP and JSF components. Used JSTL Tag library (Core, Logic, Nested, Beans and Html taglib's) to create standard dynamic web pages."}
+{"text": "Configured Spring Beans and applied IOC between service layer and data access layer."}
+{"text": "Implemented SOA architecture with Web Services using SOAP, WSDL, UDDI and XML using Apache CXF framework tool/Apache Commons. Worked on parsing the XML files using DOM/SAX parsers."}
+{"text": "Implemented Spring IoC (Dependency Injection) and Spring Aspect Oriented Programming (AOP) for the Business as well as Lookup Service Layer development."}
+{"text": "Used Hibernate ORM framework for mapping java objects to the relational database. Worked on advanced Hibernate associations with multiple levels of Caching, lazy loading."}
+{"text": "Created tables, triggers, stored procedures, SQL Queries, joins, integrity constraints and views for multiple databases, Oracle using Toad tool."}
+{"text": "Performed testing for the functionality using Junit,Mockito test cases."}
+{"text": "Performed Data driven testing using\u00a0Selenium\u00a0and\u00a0TestNG\u00a0functions which reads data from property and XML files.\u00a0"}
+{"text": "Worked on front-end technologies such as JSP, JQuery, AngularJS, HTML and CSS."}
+{"text": "Used Accurev 6.2 as version control tool to merge, check-in and check-out the code changes."}
+{"text": "Developed Shell scripts for deployment of application on Linux."}
+{"text": "Developed Message Driven Beans (MDBs) for receiving and processing data from IBM MQ Series using JMS."}
+{"text": "Worked on AWS, High Availability Practices and deploying backup/restore infrastructure."}
+{"text": "Implemented J2EE design patterns such as Singleton, Session Facade, Factory, DAO, DTO, and MVC."}
+{"text": "Developed Unit test cases using Mocha and Karma as unit test runner for various application modules."}
+{"text": "Developed a Java based ETL tool which extracts data from sources like IBM Cognos and mySQL, dump data into the target tables in mySQL database. "}
+{"text": "Used WebLogic application server for deploying and testing application locally and deployed on WebSphere Application Server."}
+{"text": "Used Apache CXF and Apache Axis evenly along with Maven to generate WSDL and JAXB Objects and optimized the runtime and startup performance of the JVM."}
+{"text": "Interacted with various teams to improve the functionality of the application as per business standards."}
+{"text": ""}
+{"text": "Environment: Java 7, J2EE, Spring MVC, Spring Web-Flow, JSP, JSF, Linux, Putty, DOM, SAX, JAX-WS, JAX-RS ,Spring DAO, JQuery, Ajax, JSP,HTML,CSS, AngularJS, Hibernate, Jersey, Jackson, Jsf2.0, JAXB, Maven, Log4j, Linux, Jenkins, Sonar, Accurev, Weblogic, Oracle 11g, SQL, PL/SQL, Eclipse Luna, SOAP, RESTful, JUnit, TestNG, HP ALP, IBM MQ, Cognos, Mockito, Junit, Apache Axis"}
+{"text": ""}
+{"text": "\t"}
+{"text": "Client: TitleMax, Savannah, GA                                                                \t\tJan 2011- Oct 2013"}
+{"text": "Role: Java/J2EE Developer"}
+{"text": "Project: Auto Loan System"}
+{"text": "Description:Auto Loan System is a multi-tier J2EE based application to manage different types of loans like car and motorcycle. This application can be accessed by end users as well as agents and the functionalities include loan origination and loan servicing. Through this application we can automate the process of getting approval to the loan amount request based on the inputs provided by the customer."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Implement web modules using JavaStruts 2 framework, Spring MVC, Spring Rest Template, Jersey API, Spring JDBC and EJB 3.0."}
+{"text": "Interacted with NoSQL databases for statistical data used in cost estimations."}
+{"text": "Migrate code based from Architecture Primer to Service Oriented Architecture"}
+{"text": "Developed Business components using Java Beans and database connections using Spring JDBC, Spring DAO API."}
+{"text": "Developed application Web Services (SOAP and RESTFUL) with JAX-WS and JAX-RS."}
+{"text": "Worked on Spring Controllers and configured using annotations to handle the presentation requests."}
+{"text": "Worked on front end technologies AngularJS, Ajax, JQuery, HTML and CSS."}
+{"text": "Participating in Agile Scrum process and using Rally to update the status of allocating tasks list."}
+{"text": "Expose and consume and generating RESTFUL web services."}
+{"text": "Deployed and consumed web services based on SOAP and REST protocols"}
+{"text": "Extensively used Collections with Generics and Exception Handling in batch program for database clean up."}
+{"text": "Developed scalable applications using stateless session EJB\u2019s."}
+{"text": "Created and executed the test cases and test suite using Java and TestNG."}
+{"text": "Used Java script, JQuery, JSTL and CSS tags for developing the JSP\u2019S"}
+{"text": "Performed unit testing using JUNIT framework, Mockito and WireMock frameworks and SoapUITool."}
+{"text": "Used parsers like SAX and DOM for parsing xml documents and used XML transformations using XSLT."}
+{"text": "Used Jackson API to covert Java object to /from JSON."}
+{"text": "Executed application in Linux environment using commands."}
+{"text": "Used GIT Hub, TFS as the code repository."}
+{"text": "Worked with UX designers when designing wireframes and analyzed user stories corresponding to wireframes"}
+{"text": "Migrated the code from Struts 2 to Spring MVC, which includes rewritten of entire application."}
+{"text": "Performed automation testing in my project to compare actual outcome with predict outcome."}
+{"text": "User Swagger for REST service document preparation."}
+{"text": "Wrote complex SQL Statements to retrieve data from the DB2 database."}
+{"text": "Developer SQL and PL/SQL components for data processing."}
+{"text": "Used ServiceNowtool for Day-to-Day activity tracking."}
+{"text": ""}
+{"text": "Environment: Java 1.6, J2EE,NoSQL, Spring MVC, Struts 2, JSP, Swagger, SOAPUI, JDBC, JSTL, EJB3.0,Junit, GIT, TFS, JAX-WS, JAX-RS ,Spring DAO, JQuery, Ajax, JSP,Hibernate, Jersey, Jackson, JAXB, Maven, Linux, Selenium, Jenkins, Sonar, SVN, Weblogic, Tomcat, Oracle 11g, SQL, PL/SQL, DB2, Eclipse Luna, RESTful, JUnit, TestNG."}
+{"text": ""}
+{"text": "Java/J2EE Developer\t\t\t\t\t\t\t\t\tJune 2009-Dec 2010"}
+{"text": "Intergraph \u2013 Hyderabad, India"}
+{"text": "Client: Kroger"}
+{"text": "Description: Kroger, is an American retailing company with its HQ in Cincinnati, Ohio. I used to work on Finance & Accounting related applications like E40, EAA and REM applications. E40 is used for tracking the accounting for product transfers between the stores and EAA is for Advertisement accounting."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Developed User Interface (UI) Rich Web Applications using technologies like Javascript, JQuery, Ajax and\u00a0JSP\u2019s."}
+{"text": "Automated Manual jobs which saved around 300 hours of man effort per month."}
+{"text": "UsedjQuery for developing asynchronous web applications on client side. Built and accessed the database using JDBC"}
+{"text": "Enhanced an existing application with new functionalities which involved rewriting entire application with Spring, Hibernate & CSS."}
+{"text": "Persuaded my Client to shift from JDBC to ORM by explaining the security & performance concerns in legacy JDBC operations."}
+{"text": "Developed code for Action Servlet, Request Processor and Action classes by extending Struts package."}
+{"text": "Used Struts- Validator framework for all front-end validations for all form entries."}
+{"text": "Streamlined web applications using SONAR qube to eliminate redundant code and reduce complexity using optimal data structures."}
+{"text": "Used EJB 3.0 Message Driven Beans to initiate daily process."}
+{"text": "Involved in productionsupport and implemented automated testing platforms and unit tests."}
+{"text": "Collaborated with client to acquire business requirements and with other programmers to design and implement features to quickly produce well-organized, optimized, and documented source code."}
+{"text": "Enhanced few legacy applications on customer requirement which were built using Struts 1.x and Hibernate."}
+{"text": "Automated few manual processes and scheduled them as batch jobs using Cron tab."}
+{"text": ""}
+{"text": "Environment: Java 1.5, DB2, Spring MVC, Spring DAO, JQuery, Ajax, JSP, Struts, Hibernate, Maven, Linux, TeamCity Sonar, SVN, Tomcat, SQL, PL/SQL, Eclipse Luna, JUnit."}

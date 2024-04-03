@@ -1,0 +1,137 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Heze, China"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 923834589208"}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "6+ years of professional software development experience in Android based applications "}
+{"text": "Extensively worked on every stage of application development from collecting requirements, analyzing, and implementation that includes various stages in development and QA."}
+{"text": "Strong technical knowledge in Android App development with Android SDK using eclipse IDE and Android Studio."}
+{"text": "Good knowledge in Android Native Development."}
+{"text": "Experience in APIs Retrofit, ButterKnife and basic knowledge on RxJava."}
+{"text": "Experienced in developing android apps using Phonegap."}
+{"text": "Good knowledge on Activities, Fragments, Intents, Services."}
+{"text": "Proficient in developing PHP web applications."}
+{"text": "Expertise in Network Libraries like Retrofit and Volley and dependency injection using Dagger."}
+{"text": "Experience on Kotlin Programming language."}
+{"text": "Good knowledge in SQLite, MySQL Database.\u00a0"}
+{"text": "Experienced in developing web applications using Core PHP (Xampp) and Zend framework."}
+{"text": "Experience in using IDE\u2019s eclipse, Android Studio for android programming."}
+{"text": "Able to perform multiple assignments simultaneously and complete projects in timely manner."}
+{"text": "Ability and desire to learn new skills and take on new task.\u00a0"}
+{"text": "Creative problem solving, organizing and planning skills along with the ability to work independently as well as in a team environment."}
+{"text": "Good analytical, communication, collaboration skills. Ability to learn and master new technologies."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "EDUCATION:"}
+{"text": "Bachelors of Computer Science"}
+{"text": ""}
+{"text": ""}
+{"text": "EXPERIENCE:"}
+{"text": "eHealthVitals Inc"}
+{"text": "Role: Android and Web Developer"}
+{"text": "Project: eHealthVitals*, Sunnyvale, CA (Remotely)\t\t\t\tFeb 2016 to Till Date"}
+{"text": ""}
+{"text": "Project Description: eHealthVitals is an integrated Tele-health and e-healthcare platform & solution for expert in the fields of healthcare and care giving using latest medical technology, providing better care using proven solutions through clinical service programs. Ehvmobile app provides patients a very good experience to keep in touch with nurses and primary care physicians on daily basis. Web application handles all patients\u2019 information received from app with rich features such as Alerts, Lab reports, Vitals Graphs, Daily assessments, Calendar and other admin features which maintain information of each patient\u2019s assigned mobile and health devices."}
+{"text": "      Website Link: www.ehealthvitals.com"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in all phases of the project including application requirements gathering, design, development, testing and deployment."}
+{"text": "Used HIPAA compliance for patient\u2019s data protection."}
+{"text": "Developed login feature based on IMEI and Android Ids with connecting to web server."}
+{"text": "Developed App using various widgets, Lists, Spinners, Fragments, Web views, dialogs."}
+{"text": "Used Amazon S3 service (AWS) to send bulk data (in files) from app to server."}
+{"text": "Worked on Data transfer from Hellofit Health device (HR & ECG) to Tablet using BLE connection."}
+{"text": "Used native library files (NDK) for analyzing diagnosis data of ECG feature."}
+{"text": "Handled server calls connections between web application and android app in both Web and Android (using Retrofit library)."}
+{"text": "Used Dagger2 for dependency injection."}
+{"text": "Implemented MVP design pattern in designing and development of this project."}
+{"text": "Worked on GCM Push notifications and maintained a Notification Tray in app."}
+{"text": "Developed Settings screen to handle internet connections, Bluetooth connections, security, various enable/disable features and Resetting app."}
+{"text": "Integrated external API (Livestrong) to provide information about food and diet for patients."}
+{"text": "Developed Custom Tabs in web application with various features like, opening multiple tabs, closing, searching using Javascript and JQuery."}
+{"text": "Worked with another developer on video calling service between patients and nurse by integrating external API (ooVoo SDK)."}
+{"text": "Developed interactive JavaScript graphs for web application using Highcharts API to monitor patient vitals."}
+{"text": "Generated EMR reports of patient\u2019s medical history to share information between all providers involved in patient\u2019s care."}
+{"text": "Developed an Internal Communication channel between app and web application where patient can post and comment on various topics and groups."}
+{"text": "Developed various web pages on web application (features like Assessments, Logs, Inventory, Customized tabs using JavaScript)."}
+{"text": "Involved in Unit testing, debugging and problem solving. Used TDD approach. "}
+{"text": ""}
+{"text": "Environment: PHP, Zend Framework, Zend server, Android, Android SDK, Android Studio, MySQL, HTML, HTML5, XML, JavaScript, JQuery, CSS."}
+{"text": ""}
+{"text": ""}
+{"text": "Materials Software System Inc\t\t"}
+{"text": "Role: Android and Web Developer\t\t\t\t\t\t"}
+{"text": "Project: C3Lifestat (Web) & c3nexus (Mobile)                                           \tNov 2013 to Oct 2015"}
+{"text": ""}
+{"text": "Project Description:C3Lifestat is one of the powerful applications that aid C3nexus Group of hospitals US. This Organization aids the old people by providing the continuous monitoring of the health. This group of organizations provides the Physicians, caregivers and coaches for managing. Our project provides them the rich features of viewing the each Patient data on daily basis."}
+{"text": "Website Link: www.c3nexus.com"}
+{"text": "Client: C3nexus Home Health care service, Richmond, VA"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in discussion with user on functional requirements for a new customization. "}
+{"text": "Developed the User Interface layers, designed screens using HTML, JavaScript and XML."}
+{"text": "Used HIPAA compliance for patient\u2019s data protection."}
+{"text": "Developed two different apps C3nexus (alpha version - Android) and Heart minder (Phonegap)."}
+{"text": "Worked on Data transfer from AND Health devices (Weight and BP) to Tablet using Bluetooth connection."}
+{"text": "Extensively utilized Retrofit library with OkHttp for Network calls."}
+{"text": "Worked on server calls between web application (Zend) and android app."}
+{"text": "Worked on GCM Push notifications which are transferred from web application and within the app."}
+{"text": "Worked with another developer on video calling service between patients and nurse by integrating external API (ooVoo SDK)."}
+{"text": "Used List views and adapters to display logs. "}
+{"text": "Generated smart reports of patient\u2019s information in PDF and DOC formats."}
+{"text": "Used JavaScript and HTML for designing app screens (Phonegap)."}
+{"text": "Used JavaScript, AJAX functions for the front-end validations of web application."}
+{"text": "Involved in Unit testing, debugging and problem solving. "}
+{"text": ""}
+{"text": "Environment: PHP, Zend framework, Zend Server, Android, Android Studio, MySQL, HTML, HTML5, "}
+{"text": "JavaScript, jQuery, CSS."}
+{"text": ""}
+{"text": ""}
+{"text": "Role: Android and Web Developer "}
+{"text": "Project: Edu Manage (Mobile app) &Educomm (Product)\t\t\tJan 2013 to Nov 2014"}
+{"text": ""}
+{"text": "Project Description: Edu Manage is an online grading system that offers a plethora of features that help teachers manage classes, get in touch with parents and guardians of their students, and monitor student performance. With Edu Manage, users are treated to a wide selection\u00a0of functionalities that enable teachers to become more time-efficient and improve general productivity, which can potentially lead to improved student results."}
+{"text": "Edu Managemakes it simple for teachers to remain organized and monitor both individual and class performance on a regular basis. On top of it all, families are given have 24/7 access to grades to facilitate transparency and family involvement, as well as encourage\u00a0accountability for students. Messaging functionalities offer an open channel for fast and easy communication, empowering students, their families, and teachers in keeping up with the objective educating\u00a0productive members of the community.\t"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Involved in all phases of the project including application requirements gathering, design, development, testing and deployment."}
+{"text": "Developed web pages using HTML, JavaScript and CSS."}
+{"text": "Used JavaScript and jQuery for various validation features."}
+{"text": "Developed login page for different roles."}
+{"text": "Worked on Electronic grading."}
+{"text": "Used Third-party dhtmlx scheduler for integrating student calendar."}
+{"text": "Handled MySQL queries for fetching and retrieving data."}
+{"text": "Worked on Mobile app features like, Sending notes to parents, Students Progress and attendance details."}
+{"text": "Worked on designs of various screens using XML in Android app."}
+{"text": "Worked on various pages logic in the application."}
+{"text": ""}
+{"text": "Environment: Core PHP, Xampp, Android, Android Eclipse MySQL, HTML, JavaScript, jQuery, CSS."}
+{"text": ""}
+{"text": "Role: Jr Java Developer"}
+{"text": "Project: meLawPro\t\t\t\t\t\t\t\tOct 2012 to Jun 2013"}
+{"text": ""}
+{"text": "Project Description: meLawPro is one of the powerful application that aid corporations and immigration attorneys in effectively and intuitively managing their client, staff and overall business needs. Its rich features help attorneys easily handle the full scale of their business with simple, automated mechanism. Immigration Services System provides all the necessary tools to enable their staff the ability to streamline their efforts and make more effective use of their time and resources. It is a CRM application for Attorneys. With this product there will be scope for attorneys and law firm employees to\u00a0concentrate more on their productive jobs rather than wasting time on administration of law firm. Client: Gehi & Associates, NY"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Implemented Internationalization (i18n) support."}
+{"text": "Develop the User Interface Screens using HTML, CSS."}
+{"text": "Involved in unit testing."}
+{"text": ""}
+{"text": "Environment: Apache Struts 1.3, Eclipse, MySQL, Apache Tomcat, JSP 2.1, Servlets, JQuery, and HTML."}
+{"text": ""}
+{"text": "Role: Java Developer Trainee"}
+{"text": "Project: Digital Library\t\t\t\t\t\tJun 2012 to Sep 2012"}
+{"text": ""}
+{"text": "Project Description: Digital library application is an internal project to provide users an advance digital way of experience to access the library books. This application can give information of all the books provided in the libraries, users can search, hold, check out and check availability of books online."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked on development, designing various pages and login screens."}
+{"text": "Developed server side search logic."}
+{"text": "Involved in unit testing."}
+{"text": ""}
+{"text": "Environment: Java, Servlets, Tomcat, HTML, JavaScript, CSS."}
+{"text": ""}

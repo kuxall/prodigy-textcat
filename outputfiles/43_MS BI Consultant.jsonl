@@ -1,0 +1,156 @@
+{"text": "Name: martha martha"}
+{"text": "E-Mail: martha.martha@gmail.com"}
+{"text": "Address: Handan, China"}
+{"text": "Github: https://github.com/martha"}
+{"text": "LinkedIn: https://linkedin.com/martha"}
+{"text": "Phone No. 911582635305"}
+{"text": ""}
+{"text": "Professional Summary:\t"}
+{"text": "Over 8+ years of IT experience in Analysis, Database Design , development, Implementation, Debugging and  Testing of software applications to support reporting and Business Intelligence initiatives."}
+{"text": "Strong experience in MS SQL Server 2008 with Business Intelligence in SQL Server Integration Services (SSIS),SQL Server Reporting Services (SSRS) and good Knowledge on SQL Server Analysis Services (SSAS)."}
+{"text": "Created SSIS Packages using SSIS Designer for export heterogeneous datafrom OLE DB Source (Oracle), Excel Spreadsheet to SQL Server 2005 and SQL Server 2008"}
+{"text": "Experience in migration of Data from Excel, Flat file, Oracle to MS SQL Server by using BCP and DTS utility and automation with SSIS"}
+{"text": "Created the datasets based in MDX Queries and implemented performance and analysis reports using SSRS."}
+{"text": "Worked with OLAP and Data warehouse application and worked with star schema,snowflakes schema dimensions and worked with implementing SSAS, and SSRS tosupport large Reporting needs."}
+{"text": "Thorough Knowledge of Various SSIS Objects such as Dataflow Components, Control Flow Elements, Connections Managers, Runtime Events, Log Providers etc."}
+{"text": "Worked on creating client reports and custom reports(On demand, Ad-hoc Reports, Frequency reports, Summary Reports, Sub Reports, Drill-down, dynamic grouping, Cross-Tab, graphical, aging reports etc) using SQL Server Reporting Services 2005"}
+{"text": "Experience in creating and managing database objects like Tables, Views, Triggers, Cursors,  Stored Procedures, user defineddata types and functions"}
+{"text": "Experience in creating Jobs, Alerts, SQL Mail Agent and scheduling DTS Packages"}
+{"text": "Experienced using in FTP and SFTP servers to upload files"}
+{"text": "Migrateddata from SQL 2000 to 2005 and solved related issues."}
+{"text": "Experience with SQL Performance tuning and transactions analysis, thorough understanding of indexes and statistics."}
+{"text": "Good knowledge in Designing and Building the Dimensions and cubes with star schema using SQL Server Analysis Services (SSAS)."}
+{"text": "Experience in Database administration activities for DB Security (creating users, roles, and assigning permission to them)"}
+{"text": "Excellent T-SQL Programming skills. Experience in Performance Tuning, Query Optimization, Client/Server Connectivity, Database consistency checks using DBCC Utilities"}
+{"text": "Good knowledge in implementingLog Shipping, Database Mirroring"}
+{"text": "Thorough Knowledge of Various SSIS Objects such as Dataflow Components, Control Flow Elements, Connections Managers, Runtime Events, Log Providers etc."}
+{"text": "Created complex DTS Packages for Data Migration and Transformation"}
+{"text": "Experience in developing and monitoring SSIS Packages"}
+{"text": "Extensively worked on system analysis, design, development, testing and implementation ofprojects (SDLC) and capable of handling responsibilities independently as well as a proactive team member."}
+{"text": "Collected business requirements from users and translated them as technical specs and design docs for development."}
+{"text": "Identified various data sources, formulated data dictionaries, design and developed data models (physical/logical data models) based on the given specs and requirements. "}
+{"text": "Expertise includes FACT & Dimension Tables"}
+{"text": "Hands on experience in Installing, Configuring, Managing, Monitoring and Troubleshooting SQL Server 7.0/2000/2005/2008."}
+{"text": "Good Knowledge in Physical and Logical Data Modeling."}
+{"text": "Excellent analytical, Interpersonal and Communication skills, fast learner, hardworking and good team player"}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIECE: "}
+{"text": ""}
+{"text": "TSI Logistics                                                                                    \t\t  Feb\u201913 \u2013 Till the date"}
+{"text": "ATLANTA, GA"}
+{"text": "SQL Server SSIS/SSRS Lead Developer"}
+{"text": "Responsibilities:"}
+{"text": "Understanding Customer requirement via interaction and writing functional specification"}
+{"text": "Involved in the System study and Database Design using MS SQL Server 2005/2008."}
+{"text": "Created Stored Procedures, Triggers, Indexes, User defined Functions, Constraintsetc. on various database objects to obtain the required results."}
+{"text": "SQL Server Index MaintenancePerformance Tuning for Large Tables"}
+{"text": "Microsoft SQL Server management and performance tuning.\u00a0 Focuses on index tuning, query modifications, partitioning and hardware optimization"}
+{"text": "Rewrote and tuned long-running SQL queries to cut execution time, ease database load and improve scalability. "}
+{"text": "Designed and populated reporting tables, views and stored procedures"}
+{"text": "Transferred data from various data sources/business systems including Oracle, DB2,Teradata, Flat Files etc. to SQL Server using SSIS using various features like data conversion etc. Created derived columns from the present columns for the given requirements."}
+{"text": "Participating in defining ETL strategies, preparing transformation rules and mapping\u00a0data\u00a0from source to target"}
+{"text": "The effective use of Team Foundation Server and Visual Studio Team System including project planning, defect tracking, source control repository organization, and code metric tracking.  "}
+{"text": "Created SSIS packages and scheduled them as jobs to run automatically to Process the cube, load data etc."}
+{"text": "Created logging for ETL load at package level and task level to log number of records processed by each package and each task in a package using SSIS."}
+{"text": "Developed, monitored and deployed SSIS packages."}
+{"text": "Responsible for Scheduling Jobs, Alerting and Maintaining SSIS packages."}
+{"text": "Implemented and enhanced existing reports  like Group By, Drilldown, Drill Through , Sub-reports, List, Tabular , matrix , navigation reports, standard parameter and cascading Parameter ,Multivalve Parameters"}
+{"text": "Created numerous Dashboard Reports (Metrics) for different business modules such as Education, Advertisements etc."}
+{"text": "Experience in\u00a0Data\u00a0Warehouse\u00a0data\u00a0and dimensional modeling, Business Intelligence and ETL design and development."}
+{"text": "Designing and developing OLAP dimensions, cubes, measures, and calculated members with SQL Server 2008/Analysis Services 2008."}
+{"text": "Designing and developing SSRS reports using both SQL and MDX for retrieving data."}
+{"text": "Integrated SSRS Reports in Share point server and Developer Custom workflows with C#( Filter Tool bar) "}
+{"text": "Experience with SharePoint workflows, Microsoft InfoPath form development, ASP.Net,  and SQL Server Reporting Services reports"}
+{"text": "Deployed and Published the Created Reports to Microsoft Share Point Server and also uploaded them to Microsoft Performance Point Server."}
+{"text": "Implemented security to restrict the access to users and to allow them to use only certain reports."}
+{"text": ""}
+{"text": "Environment:"}
+{"text": "SQL Server 2005, SQL Server 2008, MS Excel 2003-2007, SQL Profiler, ETL, T-SQL, MS SQL Server Reporting Services, MS SQL Server Integration Services."}
+{"text": ""}
+{"text": "Client: Macys Inc, SFO, CA                                                                    \t  Jun\u201910-Dec\u201912"}
+{"text": "Role: SQL Server/SSIS/SSRS Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in Planning, Defining and Designing data based on business requirements and provided documentation."}
+{"text": "Designed ER diagrams (Physical and Logical using Erwin) and mapped the data into database objects."}
+{"text": "Upgraded MS SQL Server 2005 database to MS SQL Server 2008, by using Detach/Attach, Back up & Recovery."}
+{"text": "Created SSIS packages to extract data from OLTP to OLAP systems and Scheduled Jobs to call the packages and Stored Procedures."}
+{"text": "Develop and support OLAP, star schemas, cubes, and conduct data mining and analysis."}
+{"text": "Used MS Report Designer to provide a Report Data pane to organize data used in the reports."}
+{"text": "Performed source/target analysis of data structures & content."}
+{"text": "Converted crystal reports to SQL Server reports using Reporting Services."}
+{"text": "Published reports and dashboards on WEB."}
+{"text": "Used various SSIS tasks such as Conditional Split, Derived Column, which were used for Data Scrubbing, data validation checks during Staging, before loading the data into the Data warehouse. "}
+{"text": "Used ETL to implement the Slowly Changing Transformation, to maintain Historical Data in Data warehouse."}
+{"text": "Created Calculated Measures and Dimension Members using MDX, Mathematical formulas and User Defined Functions."}
+{"text": "Used Merge in development, test and production for changing the referenced data."}
+{"text": "Created Error and Performance reports on SSIS Packages, Jobs, Stored procedures and Triggers."}
+{"text": "Created SSIS package to get data from different sources consolidate and merge into one single source."}
+{"text": "Used the SSIS ActiveX script task, look up, cached look up, Fuzzy group transformations and data flow tasks."}
+{"text": "Created package configuration using environment variables."}
+{"text": "Configured and maintained Report Manager and Report Server for SSRS."}
+{"text": "Created Sub-Reports, Drilldown-Reports, Summary Reports, and Parameterized Reports in SSRS."}
+{"text": "Generated ad-hoc reports using MS Reporting services and Crystal reports."}
+{"text": "Performed T-SQL tuning and optimization of queries for reports that took longer execution time using MS SQL Profiler, Index Tuning Wizard and SQL Query."}
+{"text": "Used data compression techniques for Back Up."}
+{"text": "Performed Documentation for all kinds of reports, DTS and SSIS packages."}
+{"text": "Performed CDC and Change tracking on OLTP systems."}
+{"text": "Created OLAP cubes & wrote MDX queries for user reports."}
+{"text": "Develop and support OLAP, star schemas, cubes, and conduct data mining and analysis."}
+{"text": "Evaluated database performance and performed maintenance duties such as Tuning, Backup, Restoration and Disaster Recovery."}
+{"text": "Created Linked Servers for data retrieval using OLE DB data sources and providers."}
+{"text": "Ensured best practices are applied and integrity of data is maintained through security and documentation."}
+{"text": "ENVIRONMENT: Windows 2003 Server/XP, IIS7, SQL Server 2008/2005,SQL Reporting, Business Intelligence Studio, Visual Studio 2005, ADO.Net, OLE DB, DTS Package, SSIS."}
+{"text": ""}
+{"text": "Hitachi America Ltd.                                             \t\t\t\t\tNov\u201908 - May\u201910"}
+{"text": "Brisbane, CA  \t\t\t\t\t"}
+{"text": "MS SQL Server/SSIS/SSRS Developer"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Gathered Requirements from the users and checked the structure of the schema and data with the Data Modular."}
+{"text": "Create database objects in SQL Server 2005 including Tables, Triggers, Views, Stored Procedures, User Defined Functions (UDF) and Indexes."}
+{"text": "Creating and managing schema objects such as tables, views, indexes, procedures, triggers and maintained Referential Integrity."}
+{"text": "Migrated database from SQL server 2000 to SQL server 2005."}
+{"text": "Designed high level ETL architecture for overall data transfer from the OLTP to OLAP with the help of SSIS and also prepared ETL mapping processes and maintained the mapping documents."}
+{"text": " Extensively used SSIS for transferring data manually from DTS to SSIS packages using SSIS 2005."}
+{"text": "Create SQL ServerIntegrationServices (SSIS) Packages."}
+{"text": "Generated reports using Global Variables, Expressions and Functions based on the requirements usingSSRS2005."}
+{"text": "Design Reports Using SQL Server Reporting Services (SSRS)"}
+{"text": "Identified the database tables for defining the queries and defined datasets for report generation."}
+{"text": "Defined report layouts including report parameters and wrote queries for drill down reports as per client\u2019s requirements using SSRS 2005."}
+{"text": "Created parameterized, drilldown and aggregationreports in MS SQL environment using SSRS."}
+{"text": "Generated daily, weekly and monthlyreports for the managers."}
+{"text": "Administered interface to organize reports and data sources, schedule report execution and delivery and track reporting history using SSRS 2005."}
+{"text": "Tested the reports and fix debugs in the storedprocedures."}
+{"text": "Maintained the physical database by monitoring performance, integrity and optimized SQ L queries for maximumefficiency using SQL Profiler."}
+{"text": "Established backup and recovery of SQL reporting services."}
+{"text": ""}
+{"text": "Environment:: SQL Server 2005 Enterprise Edition, SQL Server Reporting Services, SQL Server Analysis Services, SQL CLR, XML, Windows 2000, IIS 5.0"}
+{"text": "VIVEKANANDA INS, AHMEDABAD, INDIA\t\t\t\t\t\tMAY\u201907-AUG\u201908"}
+{"text": "MS SQL DEVELOPER/SSIS/SSRS"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Created stored procedures, scripts, views in Oracle database design and create SQL database, tables, indexes, and views. "}
+{"text": "Created user defined functions, stored procedures, triggers, and suggested creating clustered and non-clustered indexes on tables for performance improvement."}
+{"text": "Used DTS for data population from different sources and create DTS packages for data conversions and load data from flat flies or excel files."}
+{"text": "Created and used stored procedures for database transactions in SQL Server."}
+{"text": "Create database maintenance plans for the performance of SQL Server including database integrity checks, update database statistics, re-indexing, data backups, fine tune complex SQL queries and stored procedures to increase performance."}
+{"text": "Extensively used XML documents to pass multiple parameters for stored procedures to read and write database table. "}
+{"text": "Involved in optimize stored procedures and queries for faster retrieval and Server efficiency."}
+{"text": "Worked on DTS Package, DTS import for transferring data from Oracle and lotus notes. "}
+{"text": "Worked as a developer in creating complex stored procedures, DTS packages, triggers, cursors, tables, and views and other SQL joins and statements for applications. "}
+{"text": "Worked on MS SQL Server tasks such as data loading, batch jobs, BCP, DTS, instances, linked servers and indexes."}
+{"text": "Extensively used enterprise manager, query analyzer, and SQL Server profiler to create custom and standard reports using crystal reports and also involved in database capacity plan."}
+{"text": "Created parameterized reports for the clients, based on requirements using SSRS and deployed reports on to the server for the end users "}
+{"text": ""}
+{"text": "Environment: MS SQL Server 2000/7.0, SSIS, SSRS, DTS, SQL Management Studio, SQL Server Business Intelligence tools, Windows 2003, SQL Server Query Analyzer, Oracle 8, SQL Profiler, Crystal Reports."}
+{"text": ""}
+{"text": "Education & Certifications:-"}
+{"text": ""}
+{"text": "Bachelors in ComputerApplicationat Gujarat university Ahmadabad, India,2003"}
+{"text": ""}
+{"text": ""}

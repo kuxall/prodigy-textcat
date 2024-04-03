@@ -1,0 +1,136 @@
+{"text": "Name: mary mary"}
+{"text": "E-Mail: mary.mary@gmail.com"}
+{"text": "Address: Los Angeles, United States"}
+{"text": "Github: https://github.com/mary"}
+{"text": "LinkedIn: https://linkedin.com/mary"}
+{"text": "Phone No. 123031765227"}
+{"text": ""}
+{"text": ""}
+{"text": "7 years of extensive experience in designing and developing J2EE (Core JAVA, Multi-Threading, Servlets, JSP, JDBC, JSF, Hibernate, spring) based enterprise applications. "}
+{"text": "Experience in developing and deploying on application servers such as WebSphere Application server 6.0 and Apache Tomcat server 5.1. "}
+{"text": "Experience on Web Technologies using Java, Spring, Hibernate, HTML4/5, CSS, JavaScript, Bootstrap, JQuery, Angular JS, Node JS, React JS, JSON and AJAX"}
+{"text": "Experienced in building web based n-Tier systems. "}
+{"text": "Experience with J2EE design patterns like MVC, Session Facade, Data Access Objects and Business Delegate. "}
+{"text": "Microservices development using Spring boot, Camel, Groovy, ActiveMQ, Spring REST, hibernate etc to replace legacy Mule based ESB system"}
+{"text": "Experience in testing APIs/web services - SoapUI and REST API"}
+{"text": "Writing the front end look and appearance for the screens using Java1.7, Core Java, Swing, NO SQL, MongoDB, AWS, Bootstrap, ExtJS, JavaScript, AJAX, Groovy Grails, AngularJS and JQuery."}
+{"text": "Experienced in IBM SOA Suites like WebSphere MQ Programming. "}
+{"text": "Worked extensively with open source frameworks like Struts 1.2, Log4j and Junit 4.0. "}
+{"text": "Worked with ORM tools like Hibernate 3.0."}
+{"text": "Excellent understanding of spring framework. "}
+{"text": "Experience in projects includes complete project life cycle of Requirement Analysis, Design, Development and System level testing and Deployment (SDLC) using various software technologies and tools. "}
+{"text": "Experienced in object oriented analysis and design, object framework design and development and component based design patterns and their use in e-Business application development. "}
+{"text": "Programming Analysis experience using UML, Use Cases, Class diagrams and Sequence diagrams. "}
+{"text": "Experience with UML based OOA/OOD, design patterns, refactoring applications. "}
+{"text": "Strong knowledge and experience in database design and data modeling using Oracle 9i. "}
+{"text": "Excellent analytical, communication and problem-solving skills. Adept at building strong working relationships with co-workers and management "}
+{"text": "Experience of using IDEs like Web Sphere Studio Application Developer (WSAD), NetBeans 5.5, Eclipse 3.x and RAD 7.5. "}
+{"text": "Excellent working knowledge in MS SQL 5.x, DB2 Server and Oracle 9i."}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience: "}
+{"text": "Goldman Sachs, Richardson Tx\t\t\t\t\t\t\tJan 18 -  till date"}
+{"text": "Java Backend Developer"}
+{"text": "Participating in the all aspects of Software Development life cycle such as business requirement gathering, business logic analysis, program specific designs and implementations."}
+{"text": "Created JAVA classes for the Business Service Layer"}
+{"text": "Worked in an Agile work environment with Content Management system for workflow management and content versioning"}
+{"text": "Involved in building and deployment of the applications by using build tools like Maven"}
+{"text": "Integrated Swagger apidocs to all existing apis"}
+{"text": "Worked with version control management tool SVN for project check in, checkout"}
+{"text": "Drop wizard is used to perform the plumbing and dependency management of the Code."}
+{"text": "Exchange of data is performed using REST (HTTP), Web socket (TCP) and AMQP protocols. Google\u2019 s POSTMAN is also used to perform the testing of web services. Using JWT, Bearer Tokens and Oauth2 service for providing the authentication service."}
+{"text": "Used SOAP UI tool to test SOA based architecture application to test SOAP services and REST API."}
+{"text": "Extensively used Core JAVA concepts such as JAVA IO, Multithreading, Collections, Reflections, and Networking."}
+{"text": "Used Log4J to log messages and debugging purposes."}
+{"text": "Wrote test cases in Junit and Mockito for unit testing of classes"}
+{"text": "Actively involved in doing Code Reviews, Code Re-factoring, Security audits, Performance tuning and troubleshooting."}
+{"text": "Environment: JAVA, Hibernate, JDBC, Gradle, Netflix, Log4J, Jsp, Servlets, SQL, SQL Server, Spring MVC, CSS, JSTL, AJAX, REST, Mockito, Web Sockets, IntelIijIdea, Spring Boot, Drop wizard, Postman, Spring Tool Suite, Tomcat, Windows 7, Windows PowerShell, windows Command Prompt"}
+{"text": ""}
+{"text": "Matrix Medical Network, Scottsdale AZ\t\t\t\t\t\t              Jan 17 -  Dec 17"}
+{"text": "Full Stack JAVA Developer"}
+{"text": "Participated in the all aspects of Software Development life cycle such as business requirement gathering, business logic analysis, program specific designs and implementations."}
+{"text": "Spring and Spring Boot Framework were used to perform the plumbing and dependency management of the Code."}
+{"text": "Worked on migration from oracle 10g to Apache Cassandra "}
+{"text": "Designed and developed a RESTful Micro Services backend application"}
+{"text": "Involved in both developing and consuming Restful web services using Jax-rs and Jersey, supporting both XML and JSON."}
+{"text": "Used SOAP UI tool to test SOA based architecture application to test SOAP services and REST API."}
+{"text": "Used Junit API for testing in a Test-Driven Environment (TDD)."}
+{"text": "Involved in creating REST services using Node-JS, Express-JS, Mongoose and Body-Parser NPM modules."}
+{"text": "Developed asynchronous messaging systems using MULE ESB, D3.js, Hadoop, JBoss, OOAD, MongoDB, JSF, JPA, Eclipse IDE, MULE ESB, Ext JS, JMS, MDB, Sybase and MQ Series"}
+{"text": "Used Bootstrap and Angular JS, React.js, and Node.js in effective web design. Created distributed Oracle coherence domains, configuration, and system design"}
+{"text": "Converting Web form applications to use Bootstrap.js, Angular JS, and React.js"}
+{"text": "Designed and developed user-friendly GUI interface and web pages using HTML, Angular JS, JQuery, Node.js, React.js, and JavaScript."}
+{"text": "Extensively used the modern JavaScript Frameworks: Angular.JS, Node JS Bootstraps, and JQuery Plugins to develop Responsive Web Designs (RWD)."}
+{"text": "Estimated the Software & Hardware requirements for the Name Node and Data Node & planning the cluster."}
+{"text": "Developed, tested and deployed business feature set in Node.js with MongoDB backend."}
+{"text": "Implemented the message transformations in Java Compute Node and ESQL"}
+{"text": "Oracle10g database Tomcat Server was used to deploy the main JAVA based application in most cases. Also, Socket Router and Reverse Proxy were used to handle the routing services and authentication service. Similarly, GE developed servers such as IFix, Historian written in C++ were used as Data Adapters and acquisitions services."}
+{"text": "Developed DAOs layer using Cassandra big database and it was integrated with whole framework. "}
+{"text": "Implemented a Cassandra NoSQL based database and associated RESTful web service that persists high-volume user profile data for vertical teams "}
+{"text": "Hibernate ORM and JDBC were used to map the JAVA objects, connect, and perform the CRUD with Database."}
+{"text": "Involved in creating the Stored procedure, Stored Functions, Triggers and Query Optimization using SQL. Microsoft SQL Server was used."}
+{"text": "Used JNDI to perform lookup and locate a resource data and objects."}
+{"text": "Implemented different design patterns such as factory design, Singleton, DAO, DTO, Prototype, MVC, and Facade."}
+{"text": "Exchange of data was performed using REST (HTTP), Web socket (TCP) and AMQP protocols. Google\u2019 s POSTMAN was used to perform the testing of web services. Used JWT, Bearer Tokens and Oauth2 service for providing the authentication service."}
+{"text": "Developed the User Interface using HTML, CSS, JAVA Script, AJAX, and Jquery."}
+{"text": "Used JAVA Script frameworks such as AngularJS while working with other existing GE based software."}
+{"text": "Performed unit testing of the code using JUnit for JAVA based application and Jasmine Framework for client side."}
+{"text": "Used NPM and Grunt as the task manager tool for building the client side code."}
+{"text": "Github was used as Online repository. Used GIT as version control tool to check in, check out, commit, merge and update the files with regard to GitHub repositories."}
+{"text": "Extensively used Core JAVA concepts such as JAVA IO, Multithreading, Collections, Reflections, and Networking."}
+{"text": "Used Log4J to log messages and debugging purposes."}
+{"text": "Environment: JAVA, Hibernate, JDBC, Gradle, GitHub, Log4J, Jsp, Servlets, SQL, SQL Server, Spring MVC, XML, HTML, CSS, JSTL, AJAX, JAVA Script, Angular JS, REST, Rabbit MQ, Web Sockets, IntelIdeaJ, Spring Boot, Postman, Spring Tool Suite, Tomcat, NPM, Jasmine, Junit C#, Windows 7, Windows PowerShell, windows Command Prompt"}
+{"text": ""}
+{"text": "Grand Bank of Texas, Dallas, TX\t\t\t\t\t\t\tAug 2014 to Nov 2016"}
+{"text": "JAVA/J2EE Developer"}
+{"text": "Involved in in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications, Development, and Customization of the application "}
+{"text": "Developed the application using Struts Framework that leverages classical Model View Layer (MVC) architecture. UML diagrams like use cases, class diagrams, interaction diagrams (sequence and collaboration) and activity diagrams were used "}
+{"text": "Used Web-Services like the REST and JAX-RS for authentication and payment processing"}
+{"text": "Development SOAP and RESTFul Web services using Apache Axis1, Weblogic, Web Service Tools, Session beans as web services, Spring MVC "}
+{"text": "Migrated REST web services to Kubernetes cluster on AWS by creating fabric 8 files using YAML and JSON "}
+{"text": "Created JAVA classes for the Business Service Layer "}
+{"text": "Worked in an Agile work environment with Content Management system for workflow management and content versioning "}
+{"text": "Developed the application using agile methodology and followed TDD, Scrum."}
+{"text": "Developed web UI portal for MongoDB using Spring Framework (Spring MVC and Spring Data), JSP, HTML 5, Bootstrap Framework, JQuery and Java Script, Mongo DB and Oracle DB technologies."}
+{"text": "Involved in designing user screens and validations using HTML, jQuery, Bootstrap, Ext JS and JSP as per user requirements "}
+{"text": "Responsible for validation of Client interface JSP pages using JSF form validations "}
+{"text": "Integrating Struts with Spring IOC "}
+{"text": "Used Spring Dependency Injection properties to provide loose-coupling between layers "}
+{"text": "Implemented the Web Service client for the login authentication, credit reports and applicant information using Apache Axis 2 Web Service "}
+{"text": "Used Web services (SOAP) for transmission of large blocks of XML data over HTTP "}
+{"text": "Used Hibernate ORM framework with Spring framework for data persistence and transaction management "}
+{"text": "Used Hibernate 3.0 object relational data mapping framework to persist and retrieve the data from database "}
+{"text": "Created AJAX calls to exchange information with MySQL "}
+{"text": "Wrote SQL queries, stored procedures, and triggers to perform back-end database operations "}
+{"text": "Developed ANT Scripts to do compilation, packaging, and deployment in the WebLogic server "}
+{"text": "Used JIRA to Manage and track the issues reported by QA and prioritize and take Action based on the severity "}
+{"text": "Used automation testing framework Protractor to test Angular JS web application "}
+{"text": "Wrote test cases in JUnit for unit testing of classes "}
+{"text": "Worked with version control management tool SVN for project check in, checkout "}
+{"text": "Actively involved in doing Code Reviews, Code Re-factoring, Security audits, Performance tuning and troubleshooting."}
+{"text": "Environment: JDK 1.5, J2EE, Agile Development Process, Struts, Spring, Web logic Application server, Web Services (JAX-WS, Axis 2), Hibernate, Angular JS, PL/SQL, AJAX, JMS, JSP, JSF, Servlets, SQL Server, HTML5, XML, SOAP, IBM Rational Application Developer (RAD), ANT, Log4J, XML, XSLT, XSD, jQuery, JAVA Script, Ext JS, JIRA, JUnit, SVN."}
+{"text": ""}
+{"text": "Nepal Telecom, Kathmandu Nepal\t\t\t\t\t                 Sep 2010 to July 2014"}
+{"text": "JAVA Developer"}
+{"text": "Design, Development of technical specifications using design patterns and SOA methodology using UML, Unit test, Integration & System testing. "}
+{"text": "Developed and tested the application in RAD development environment and deployed into the WebSphere. "}
+{"text": "Migrated the Servlets to the Spring Controllers and developed Spring Interceptors, worked on JSPs, JSTL, and JSP Custom Tags. "}
+{"text": "Developed DAOs layer using Cassandra big database and it was integrated with whole framework. Implemented a Cassandra NoSQL based database and associated RESTful web service that persists high-volume user profile data for vertical teams "}
+{"text": "implemented RESTful web services using Jersey implementation to consume the Spark Post Elite services for injecting and delivering the email to end users for Itinerary, Invoices."}
+{"text": "Developed several REST APIs using micro-services style of architecture with Kafka as message broker and Mongo DB as backend database"}
+{"text": "Developed and flexible, scalable, utilizing open source technologies like Hibernate ORM and Spring Framework. "}
+{"text": "Involved in Server side development and development of restful web services for which other systems interact with IMR application "}
+{"text": "Performed Test Driven Development TDD using JUnit and Mockito"}
+{"text": "Written JDBC statements, prepared statements and callable statements for various database update, insert, delete operations and for invoking functions, stored procedures, triggers. "}
+{"text": "Implemented MVC architecture by using Spring to send and receive the data from front-end to business layer. "}
+{"text": "Used JSPs, HTML, JAVA Script, and CSS for development of the web pages. "}
+{"text": "Developed Ajax, JAVA Script validation functions for client-side validations. "}
+{"text": "Used object query tool JXPath to simplify querying of sets of JAVA objects by using XPath-based syntax and Jquery. "}
+{"text": "Used O/R mapping tool Hibernate for persistence to make the product Database agnostic. "}
+{"text": "Used Data Ware house tools and Data stage ETL in order to transform, load data. "}
+{"text": "Used Xpath expression language to enable query complex object trees. "}
+{"text": "Experience calling the mainframe from the distributed platform. "}
+{"text": "Worked with PL/SQL using Oracle9i and Oracle10g database."}
+{"text": "Involved in functional testing, unit testing and Integration testing and defect fixes. "}
+{"text": "Environment: JDK 1.5, Spring, Web services, WebSphere, JSF, JSP, HTML, JSP, JAVA Script, Unix Shell Script, ANT, WSDL, XML, XSLT, JQuery, AJAX, XSD, Oracle9i&10g, Windows XP"}
+{"text": ""}

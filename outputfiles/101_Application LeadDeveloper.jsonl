@@ -1,0 +1,124 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Jieyang, China"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 946405400159"}
+{"text": ""}
+{"text": ""}
+{"text": "Experience Summary"}
+{"text": "9+ years of experience in different phases of software development life cycles including developing, designing, testing, integrating and implementing J2EE applications. "}
+{"text": "Experience in developing and implementing large scale complex Java and J2EE applications."}
+{"text": "Experience in frameworks like Hibernate, Spring."}
+{"text": "Experience in SQL, DB2."}
+{"text": "Experience in current development technologies Stash, GIT, Jenkins."}
+{"text": "Experience working with Tomcat, WebSphere and WebLogic servers."}
+{"text": "Hands on experience in VPN, Putty, WinSCP, VNCviewer, etc."}
+{"text": "Dedicated and hardworking professional with excellent interpersonal and analytical skills."}
+{"text": "Motivated team player and also able to work independently. "}
+{"text": "Possesses excellent written and oral communication skills."}
+{"text": "Experience in working with offshore teams and leading teams at both offshore and onsite. "}
+{"text": "Experience in eliciting requirements from cross functional teams."}
+{"text": "Experience in working with both waterfall and agile methodologies. "}
+{"text": "\t"}
+{"text": "Technical Skill Expertise:"}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Work Experience"}
+{"text": ""}
+{"text": "Orbitz, Expedia, Chicago, IL"}
+{"text": "Role: Application Lead/Developer\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                March\u201915 TILL DATE"}
+{"text": ""}
+{"text": "Project: Customer Servicing applications"}
+{"text": "Different applications within Orbitz customer servicing domain to maintain post booking services for the customer. "}
+{"text": ""}
+{"text": "As a developer, developed new features/enhancements to improve agent application for customer servicing. I was involved in enhancing old features and also developing new enhancements for post booking customer experience. I was mainly involved in implementations using Java, Spring and also, consumption of services which were hosted on lapsang, jini. "}
+{"text": "Implemented air exchange on our agent desktop application by connecting to Amadeus web services using SOAP technology. This reduced time spent by agents from 45 minutes to 20 minutes.  "}
+{"text": "I have worked with Jenkins for continuous delivery, GIT, JIRA, Stash for development of applications. "}
+{"text": "Worked with service now for creation of various defects and production support for the team. "}
+{"text": "Involved in estimation and planning of various enhancements for customer servicing using agile methodology. Participated in daily stand up, sprint planning and retrospections during each sprint. "}
+{"text": "Involved in coordination with offshore team members and also assignment of work to offshore & onsite team. "}
+{"text": "Involved in prioritizing work based on the inputs from our director of technology."}
+{"text": "Involved in creation of technical stories in JIRA for various technical initiatives like JDK upgrade, TLS upgrade, tomcat upgrade for legacy applications. "}
+{"text": "As a senior developer, I was involved in coordination of code review, improving processes, creation and maintenance of GIT branches during software release cycles. "}
+{"text": ""}
+{"text": "Environment: Java 1.7, Tomcat 7.x, Spring 2.0, Web Services, Log4j 1.4, Eclipse, Stash, JIRA, Trello, Linux, Teakettle services, Jenkins, glu.  "}
+{"text": ""}
+{"text": "\t\t\t\t\t\t\t\t "}
+{"text": "Sears Holdings Corporation, Chicago, IL\t\t\t\t"}
+{"text": "Technology Analyst \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                         Feb\u201914 \u2013 Feb\u201915"}
+{"text": ""}
+{"text": "Project: LAGO (Layout Designer)"}
+{"text": "This was an integration between an internal sears application called offer manager and LAGO. This helped in syncing of data between two systems for print production and creative ads. "}
+{"text": ""}
+{"text": "Worked with business users to understand the business requirements for different enhancements and convert them into requirement document and system design."}
+{"text": "Created design documentation for the integration between LAGO and Marketing system of Sears. "}
+{"text": "We designed database tables and other key components required to integrate the two systems."}
+{"text": "Responsible for generation of XML and XSD for integration between two systems using message queues. Data was extracted using queries and exchanged between systems using message queues. The application used java, SQL with DB2, hibernate and message queues. "}
+{"text": "As an onsite technical analyst, I managed a software development team of 2 people to deliver various modules of the code. This involved interaction between offshore and onsite teams. "}
+{"text": "Involved in development, code reviews and testing of modules for the project. Involved in coding of single sign on for integration with another custom application."}
+{"text": "Worked with QA and production support teams to fix and implement production issues. "}
+{"text": ""}
+{"text": "Environment: Java 1.6, WebSphere application server, Web Services, Eclipse, Subversion, JIRA, IBM Message Queues, Spring Batch, Hibernate 3.0, IBM Rational Software Architect, DB2 SQL. "}
+{"text": ""}
+{"text": "\t\t\t\t\t\t\t\t "}
+{"text": "Sears Holdings Corporation, Chicago, IL"}
+{"text": "Technology Analyst\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                    \t   Feb\u201913 \u2013 Mar\u201914"}
+{"text": ""}
+{"text": "Project: Integrated Multi-Channel Planning and Collaboration Technology (IMPACT)"}
+{"text": "This was an application developed for promotional planning and pricing for Sears."}
+{"text": ""}
+{"text": "Roles and Responsibilities:"}
+{"text": "As an onsite technical analyst, I managed a software development team of 2 people to deliver various modules of the code. This involved interaction between offshore and onsite teams. "}
+{"text": "Involved in development, code reviews and testing of modules for the project. Involved in coding of single sign on for integration with another custom application."}
+{"text": "Worked with QA and production support teams to fix and implement production issues. "}
+{"text": ""}
+{"text": "Environment: Java 1.6, WebSphere application server, Web Services, Eclipse, Subversion, JIRA, IBM Message Queues, Spring Batch, Hibernate 3.0, IBM Rational Software Architect, DB2 SQL. "}
+{"text": ""}
+{"text": ""}
+{"text": "Sears Holdings Corporation, Hoffman Estates, Illinois"}
+{"text": "Technology Lead\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                 Jun\u201912 \u2013 Feb\u201913"}
+{"text": ""}
+{"text": "Project: Targeted Interactions "}
+{"text": "This application was used by Sears to send targeted emails and other promotions to customers based on certain rules.  "}
+{"text": ""}
+{"text": "Managed a software development team of 5 members as a Team Lead in an ongoing project for various enhancements. The team members reported to me directly for any assistance or issues. "}
+{"text": "Analysis of different requirements provided by client and estimation of work, assignment of tasks to individual team members. "}
+{"text": "Review of design, test plans and code review. Helped team members with coding whenever required."}
+{"text": ""}
+{"text": "Environment: Java 1.6, Spring, Hibernate, REST services, JIRA, Eclipse."}
+{"text": ""}
+{"text": "Ryder systems, Doral , Miami\t"}
+{"text": "Software Engineer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                      Jan\u201912 \u2013 Jun\u201912"}
+{"text": ""}
+{"text": "Project: Common Error Services Web User Interface\t"}
+{"text": "This application was used to recover from specific message errors within Nike environment. "}
+{"text": ""}
+{"text": "Created design of the web interface. Identified the technologies to be used and provided prototypes for the different screens involved. I was the only developer on this project and delivered the project on time. "}
+{"text": "Development and self-testing of different layers of the application including presentation, controller and persistence layer. This involved message queues, Java, Spring and Hibernate technologies. "}
+{"text": "Testing of the modules developed for this project as a sole developer."}
+{"text": ""}
+{"text": "Environment: Java 1.6, Spring, Hibernate, Message Queues, JIRA, Eclipse."}
+{"text": ""}
+{"text": ""}
+{"text": "Duke Energy, Charlotte, NC"}
+{"text": "Software Engineer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                    Apr\u201909 \u2013 Dec\u201911"}
+{"text": ""}
+{"text": "Project: Integrated Multi-Channel Planning and Collaboration Technology (IMPACT)"}
+{"text": ""}
+{"text": "Requirement analysis and creation of use case documents for various modules."}
+{"text": "Creation of a screen prototype. Got appreciation from client for development of good quality, user friendly screens."}
+{"text": "Development and self-testing of different modules. Involved in development of various modules. "}
+{"text": "Responsible for managing a team size of 3 during development phase. I was involved in implementing the different functionalities of a module. Got various appreciations from client as well as peers for development of this module with less number of defects and also delivering it on time. "}
+{"text": "Also, involved in the defect prevention team which conducts meetings for doing a root cause analysis of the various defects identified and in finding solutions for preventing these defects."}
+{"text": ""}
+{"text": "Environment: Java 1.6, J2EE, Smartclient, HTML, WebSphere application server, Web Services, Eclipse, Subversion, JIRA, IBM Message Queues, Spring Batch, Hibernate 3.0, IBM Rational Software Architect, DB2 SQL, EJB."}
+{"text": ""}
+{"text": ""}
+{"text": "Award & Recognition:"}
+{"text": ""}
+{"text": "Awarded \u201cMost valuable Player\u201d award for my work for Sears."}
+{"text": "\u201cBravo Award\u201d for developing a module with good quality and getting client appreciation from Sears"}
+{"text": "Awarded \u201cOn the Spot\u201d award for my work with continuous integration at Expedia. "}
+{"text": "\t\t"}
+{"text": ""}

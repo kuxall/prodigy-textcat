@@ -1,0 +1,182 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Huanggang, China"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 751799338343"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": "7+ years of Experience in Data Analysis, Data Modeling, Data Warehouse professional with applied Information Technology."}
+{"text": "Extensive experience in Relational and Dimensional Data modeling for creating Logical and Physical \nDesign of Database and ER Diagrams using multiple data modeling tools like ERWIN,RDA(Rational Data Architect), ER Studio."}
+{"text": "Worked extensively on forward and reverse engineering processes. Created DDL scripts for Physical Data model from Data Modeling changes."}
+{"text": "Specializing in the development of Data Warehouse, Business Intelligence architecture that involves data integration and the conversion of data from multiple sources and platforms."}
+{"text": "Experience in Data Warehouse, Data Mart Design and Data Warehouse Bus Architecture."}
+{"text": "Deep knowledge of RDBMS structures including schema creation, modification."}
+{"text": "Extensive knowledge of Structured Query Language including SQL and PL/SQL."}
+{"text": "Experience in Extract, Transform, and Load (ETL) / Data Staging, Design and Testing."}
+{"text": "Excellent knowledge of waterfall and Agile methodologies of Software Development Life Cycle (SDLC)."}
+{"text": "Extensive experience working with business users/SMEs as well as senior management."}
+{"text": "xpert in working with Data Modeling tools including ERwin Data Modeler and Sybase Power Designer.  "}
+{"text": "Strong understanding of the principles of Data warehousing, Fact Tables, Dimension Tables, Star and Snowflake schema modeling."}
+{"text": "Experience in Relational and Dimensional (Star Schema) Data Modeling."}
+{"text": "Experience in Understanding Business Requirements, analytical and communication skills with a strong technical background."}
+{"text": "Manage deliverables end to end from Single line requirement to go-live."}
+{"text": "Having good experience in SIT, UAT phases, production support and customer interaction."}
+{"text": "Having good experience in Excel, macros VBA and Visio"}
+{"text": "Experienced in source data quality analysis, defining of quality criteria and data governance."}
+{"text": "Efficient in VBA for MS Excel for planning/status reporting and creating test data."}
+{"text": "Highly dependable Data Analyst successful at profiling and interpreting data. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently reconciling data issues."}
+{"text": ""}
+{"text": "Skill Set:"}
+{"text": ""}
+{"text": "Reporting & Analysis:BO (SAP Business Objects),IBM Cognos, Microsoft Excel"}
+{"text": "ETL Testing Tools: Informatica, SSIS, Ab Initio, Data Stage"}
+{"text": "Bug Tracking Tools: Quality Center,  Rational ClearQuest"}
+{"text": "Versioning Tools: CVS, Rational ClearCase, Microsoft SharePoint"}
+{"text": "Internet  Skills:HTML, XML"}
+{"text": "RDBMS: Oracle, SQL, MySQL, Microsoft Access and  PL/SQL"}
+{"text": "Languages: VBA"}
+{"text": "Legacy System: AS400, Mainframes."}
+{"text": "Operating Systems: Window 9x/NT/XP, UNIX, Linux,  IBM Aix"}
+{"text": "Data Modeling: Microsoft Visio, RDA/Infosphere Data Architect, ERWIN and ER Studio"}
+{"text": ""}
+{"text": "State Farm Insurance, Chicago, IL    \t\t\t\t\t\t\t\tJan 2015 \u2013 Present\t"}
+{"text": "Role: Data Analyst   "}
+{"text": "Project: ICP (Integrated Customer Platform)"}
+{"text": ""}
+{"text": "Description: As a Data Analyst, I was involved in documenting the business processes by identifying data required in determining order data from multiple sources and the method of obtaining and storing data. Also, involved in gathering and documenting the requirements, for building\u00a0ICP (Integrated Customer Platform data mart required for various reporting purposes.\u00a0 As a Data governance consultant Responsible for envisioning and implementing data governance and privacy regulating of the ICP (Integrated Customer Platform). "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Work with users to identify the most appropriate source of record and profile the data required for sales and service."}
+{"text": "Document the complete process flow to describe program development, logic, testing, and implementation, application integration, coding."}
+{"text": "Involved in defining the business/transformation rules applied for ICP data."}
+{"text": "Define the list codes and code conversions between the source systems and the data mart."}
+{"text": "Worked with internal architects and, assisting in the development of current and target state data architectures"}
+{"text": "Worked with project team representatives to ensure that logical and physical ER/Studio data models were developed in line with corporate standards and guidelines"}
+{"text": "Involved in defining the source to target data mappings, business rules, business and  data definitions."}
+{"text": "Assigned tasks among development team, monitored and tracked progress of project following Agile methodology."}
+{"text": "Responsible for defining the key identifiers for each mapping/interface."}
+{"text": "Responsible for defining the functional requirement documents for each source to target interface."}
+{"text": "Involved in configuration management in the process of creating and maintaining an up-to-date record of all the components of the development efforts in coding and designing schemas"}
+{"text": "Coordinated with Data modelers in giving requirements for ER diagrams including data type length and integrity constraints. "}
+{"text": "Developed the financing reporting requirements by analyzing the existing business objects reports"}
+{"text": "Utilized Informatica toolset (Informatica Data Explorer, and Informatica Data Quality) to analyze legacy data for data profiling."}
+{"text": "Responsible in maintaining the Enterprise Metadata Library with any changes or updates"}
+{"text": "Establish standards of procedures. "}
+{"text": "Worked heavily on SQL Server database to extract data and build Business reports."}
+{"text": "Generating a variety of reports based on the Universes, running\u00a0free-hand SQL, and also personal data files."}
+{"text": "\u00a0Used SQL Server 2008 Enterprise Edition to extract raw data from the Homeless Management Information System data warehouse."}
+{"text": "Generate weekly and monthly asset inventory reports."}
+{"text": "Evaluated data profiling, cleansing, integration and extraction tools(e.g. Informatica)"}
+{"text": "Coordinate with the business users in providing appropriate, effective and efficient way to design the new reporting needs based on the user with the existing functionality"}
+{"text": "Environment: Rational Suite (Rational Rose, Requisite Pro), Rational Unified Process (RUP), SQL, Windows 2000, UML, MS Project, MS-Office Suite, MS Visio, SQL, PL/SQL, Test Director"}
+{"text": ""}
+{"text": "AETNA Insurance, Hartford, CT \t\t\t\t\t\t\t\tJuly 2012 \u2013 Dec 2014 \t  "}
+{"text": "Role: Sr. Data Modeler / Data Analyst  "}
+{"text": ""}
+{"text": "AETNA, Inc. provides health care, dental, pharmacy, group life, and long term care benefits in the United States. The Data Warehouse was designed for the reporting for AETNA. This warehouse reports the historical data stored in various databases and flat flies. Data from different sources was brought into Oracle using Informatica and ETL and sent for reporting."}
+{"text": " "}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Developed logical and physical data models for central model consolidation. "}
+{"text": "Attending meetings to finalize strategies for handling various concepts like error handling and slowly changing dimensions."}
+{"text": "Preparing test cases documents to provide testing logic used for validating the ETL."}
+{"text": "Created / tuned existing stored procedures and macros to increase the performance of the database server."}
+{"text": "Implemented reusability by creating Mapplets, Reusable transformation."}
+{"text": "Creating sessions, work lets and workflows for carrying out test loads."}
+{"text": "Creating new relational connections and modifying existing relational connections for facilitating migration to new development boxes."}
+{"text": "Data validation using tools like TOAD 6.3.11.1 and SQL NAVIGATOR."}
+{"text": "Resolved issues by conducting and participating in JAD sessions with the Business users, development team and Infrastructure team."}
+{"text": "Extensively used\u00a0ERwin\u00a0to design\u00a0Logical/Physical Data Models, forward/reverse engineering, publishing data model, applying DDLs to database, Data Modeling and restructuring the existing data Model. "}
+{"text": "Worked with data modelers to handle the modeling changes to legacy and future databases, and implementing them on Development and test databases and moving the same to Production Instances during the production release. "}
+{"text": "Created command tasks for various like merging flat flies after loading and for creating event raise file."}
+{"text": "Created stored procedures for extracting XML Message, simulating data for carrying out Post session loads."}
+{"text": "Using SQL Servers Enterprise manager for writing Queries and exploring data. "}
+{"text": "Proven ability to interface and co-ordinate with cross functional teams and cultures, analyze existing systems, wants and needs, design and implement database solutions."}
+{"text": "Creating stored procedures to populate sample data and carrying out test load with multi- terabyte databases."}
+{"text": "Implementing the Data management strategies across the various database domains and products with respect to each business unit. "}
+{"text": ""}
+{"text": "Environment:  ERWIN 3.5, ER/ Studio, Informatica Power Mart 6.2, TOAD 6.3.11.1/SQL NAVIGATOR, SQL and PL SQL, Oracle 9i, DB2, SQL Server 2000, MySQL. "}
+{"text": ""}
+{"text": "Allstate Financial Group, Kansas City, MO\t\t\t\t\t\t\tOct 2010 \u2013 June 2012              "}
+{"text": "Role: Data Analyst"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Allstate Financial Group is the nation's largest publicly held personal lines insurer. Allstate Financial Group includes the businesses that provide life insurance, annuity, retirement, banking and investment products through distribution channels. The aim of the project was to enhance SOA (Service Oriented Architecture) web-based policy management system, which integrated All states five policy management systems (life insurance, annuity, retirement, banking and investment products) and extended the functionality to provide anywhere, anytime, access to information to Allstates countrywide network of producers."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed data profiling in the source systems that are required for RML System"}
+{"text": "Documented the complete process flow to describe program development, logic, testing, and implementation, application integration, coding."}
+{"text": "Worked with internal architects and, assisting in the development of current and target state enterprise data architectures"}
+{"text": "Worked with project team representatives to ensure that logical and physical data models were developed in line with corporate standards and guidelines."}
+{"text": "Involved in defining the source to target data mappings, business rules and data definitions."}
+{"text": "Responsible for defining the key identifiers for each mapping/interface."}
+{"text": "Responsible for defining the functional requirement documents for each source to target interface."}
+{"text": "Documented, clarify, and communicate requests for change requests with the requestor and coordinate with the development and testing team."}
+{"text": "Understanding the Problem Statement and analyzed and documented the Business requirements (BRD), Technical Design Documents (TDD), system requirement specification (SRS) for capital market system."}
+{"text": "Develop, managed and facilitated the needs assessment, business case, evaluation, selection and implementation of a Master data management solution."}
+{"text": "Broad technology background and comprehensive exposure to various capital markets research and electronic trading platforms such as Bond Desk, Valubond, Trade Web and Bloomberg."}
+{"text": "Involved in designing physical and logical data model using ERwin Data modeling tool. "}
+{"text": "Provided high caliber reports on and analysis of HR metrics to HR Leadership, HR Business Partners, HR Shared Services, and other HR information users. The reports addressed quantitative measures, human capital effectiveness measures, and cost and recovery models for HR investments. These reports supported decision-making by HR senior management and others."}
+{"text": "Designed and implemented data integration modules for Extract/Transform/Load (ETL) functions."}
+{"text": "Involved in data warehouse design."}
+{"text": "Deep understanding the knowledge of Risk analysis, Securities (Stocks and corporate bonds) and their valuation, Portfolio Management (risks and returns) and analysis, Asset Allocations Bond pricing, Financial Derivatives, Cash flows, financing structure, Capital Management, Stock Valuation, Amortization, etc"}
+{"text": "Experience with various ETL, data warehousing tools and concepts."}
+{"text": "Created Test Data and tested SQL database referential integrity and unique constraints."}
+{"text": "Documented the complete process flow to describe program development, logic, testing, and implementation, application integration, coding."}
+{"text": "Created tables, view, sequences and indexes."}
+{"text": "Generated the Business Objects reports involving complex queries, sub queries, Unions and Intersection."}
+{"text": "Analyzed the existing reports of the reporting system in the database. Checked the consistency of the data after ETL process using SQL queries."}
+{"text": "Developed critical reports for Audition purposes, Created reports with Standard, Summary, Cross Tabs, SQL, Command Objects, Selection Criteria, grouping, sub reports etc."}
+{"text": "Verified the Data for the new Universe developed, comparing the BO Query Results to the analyzed data. Tuning & Enhance universes with SQL queries for the report performance in production environment."}
+{"text": "Wrote SQL Queries required for programming."}
+{"text": "Developed SQL queries and Procedures using SQL and PL/SQL."}
+{"text": "Created various Custom objects, Tabs, Workflows, Reports, Apex triggers and validation rules for the application."}
+{"text": "Created documentation for workflow rules and defined related tasks, time triggered tasks, email alerts, field updates to implement the business logic."}
+{"text": "Worked with internal architects in the development of current and target state data architectures"}
+{"text": "Worked with project team representatives to ensure that logical and physical ER/Studio data models were developed in line with corporate standards and guidelines."}
+{"text": "Used data analysis techniques to validate business rules and identify low quality missing data in the existing Amgen enterprise data warehouse (EDW). "}
+{"text": "Environment:  SQL Server 2005, Quality Center 10.0, PERL,Oracle 10g,  Unix IBM AIX 6.1, Teradata 12.0, Teradata SQL Assistant 12.0, T- SQL, XML Files, XSLT, XML Spy 2010,  SQL, ErWin, UML"}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Fifth-Third Bank, OH                \t\t\t\t\t\t\t\tNov 2008 \u2013 Sep 2010"}
+{"text": "Role: Business/ Data Analyst"}
+{"text": ""}
+{"text": "Description: Stucky Application software is being used by the Structured Finance Group of Fifth-Third Bank, in both Chicago and Cincinnati. Stucky's Application is to track Commercial collateral on Asset Based Lending loans, monitor their Borrowing Based of Aging, Receivables and Inventory. William Stucky & Associates provided 2 software applications to the bank; Stuckynet & Stucky NTABL. Both systems have been used by the bank for over 5 years. They are used for Asset Based Lending - for structured finance deals. This will ensure that the bank does not loan more money than what the customer can support. In this particular project we have added new fields to the existing screens and have generated several new reports."}
+{"text": "\nResponsibilities:"}
+{"text": "Worked according to the software development life cycle."}
+{"text": "Gathered requirements from remotely based business users and defined and elaborated the requirements by holding meetings with the users (who are also Fifth-third employees)."}
+{"text": "Analyzed the historical documentation, supporting documentation, screen prints, e-mail conversations, presented business and wrote the business requirements document and got it electronically signed off from the stake holder."}
+{"text": "Wrote the test cases and technical requirements and got them electronically signed off."}
+{"text": "Created new reports based on requirements."}
+{"text": "Managed product master data management (MDM) changes to support the standardization of downstream\u00a0processes and the migration of multiple enterprise resource planning (ERP) instances to a single global instance."}
+{"text": "Develop procedures and triggers in support of application development."}
+{"text": "Utilized simple methods like PowerPoint presentations while conducting walkthroughs with the stakeholders."}
+{"text": "Conducted GAP analysis so as to analyze the variance between the system capabilities and business requirements."}
+{"text": "Interacted with teams in AFS, ACBS and info lease to extract the information for the reports."}
+{"text": "Involved in defining the source to target data mappings, business rules, business and data definitions"}
+{"text": "Created Report-Models for ad-hoc reporting and analysis."}
+{"text": "Participated in functional design sessions, creates and executes SQL test scripts, and aids in the solution of data issues."}
+{"text": "Created Logical/physical Data Model in Erwin and have worked on loading the tables in the Data Warehouse"}
+{"text": "Worked extensively with the Erwin Model Mart for version control"}
+{"text": "Extensively designed Data mapping and filtering, consolidation, cleansing, Integration, ETL, and customization of data mart."}
+{"text": "Provide 24 x 7 problem management support to the development team."}
+{"text": "Document various Data Quality mapping document."}
+{"text": "Created Reports using Universe, Stored Procedure, and Freehand SQL as the Data providers and writing the complex queries including Sub Queries, Unions, Intersect and Aliases."}
+{"text": "Used SQL for querying and analysis purposes on various source tables and conditions applied and Wrote SQL joins, sub queries."}
+{"text": "Used SQL Server Reporting Services (SSRS) to schedule reports to be generated on predetermined time."}
+{"text": "Perform small enhancements (data cleansing/data quality)."}
+{"text": "Performed data analysis on the existing data warehouse's of AFS, ACBS and info lease."}
+{"text": "Worked on daily basis with the main frame team and lead data warehouse developers to evaluate impact on current implementation."}
+{"text": "Communicated with the third party vendor to do the programming."}
+{"text": "Upgraded the present application by adding new functionalities and adding new reports."}
+{"text": "Wrote regression test cases, did smoke testing with users."}
+{"text": "Coordinated (with business users, data base administrator, mainframe team and testing team) in mirror to production testing."}
+{"text": "Conducted User Acceptance testing (UAT) and worked with users and vendor who build the system."}
+{"text": ""}
+{"text": "Environment:\u00a0MS Office 2007, MS Visio 2003, Windows XP, AFS, MS Excel, SharePoint, PowerPoint, MS Project, UML, SQL Server, Erwin, Business Objects, MS Outlook"}
+{"text": " "}

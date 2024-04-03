@@ -1,0 +1,195 @@
+{"text": "Name: dorothy dorothy"}
+{"text": "E-Mail: dorothy.dorothy@gmail.com"}
+{"text": "Address: Shanghai, China"}
+{"text": "Github: https://github.com/dorothy"}
+{"text": "LinkedIn: https://linkedin.com/dorothy"}
+{"text": "Phone No. 394712746113"}
+{"text": "SUMMARY:"}
+{"text": "7+ years of experience working as Data Analyst/Business Systems Analyst in Healthcare domain."}
+{"text": "Specific expertise in Business Analysis, GAP Analysis, Data Analysis, and creating business process documents."}
+{"text": "Detailed knowledge of the Software Development Life Cycle (SDLC) phases."}
+{"text": "In depth knowledge and hands on experience working with SDLC methodologies like Waterfall, RUP and Agile."}
+{"text": "Expertise in preparing Business Requirement Documents, Use Case Specifications and Functional Specifications."}
+{"text": "Hands on experience of UML diagrams such as Use Case Diagrams, Activity Diagrams and Sequence Diagrams."}
+{"text": "Experience in using Joint Requirement Planning (JRP) and Joint Application Deployment (JAD) sessions for gathering requirements and brainstorm ideas."}
+{"text": "Experience with Facets/QNXT Application Groups: Claims Processing, Guided Benefit Configuration, Medical Plan, Provider, Subscriber/Member, Utilization Management."}
+{"text": "Experience working in a FACETS environment and extensive knowledge about various\u00a0modules of a FACETS\u00a0system such as\u00a0claims, membership"}
+{"text": "An excellent knowledge of ICD-9 and ICD-10 structures and formats."}
+{"text": "Well experienced with the complex tasks of ICD 9 to ICD 10 conversion and mapping."}
+{"text": "Strong understanding of EDI Claims, Member Enrollment, Eligibility, and HIPAA 5010 (X12) standards"}
+{"text": "Knowledge of different modules within Healthcare Claims Adjudication Process (Membership process, billing process and enrollment & Claims process)."}
+{"text": "Excellent experience various EDI files such as 837 Claims processing, 834 Benefit Enrollment, 820 Payments."}
+{"text": "Understanding of HIPAA EDI inbound and outbound transaction, and HIPAA 4010-5010 conversion analysis."}
+{"text": "Involved in EDI 834 (Enrollment and Maintenance), 837 (claim processing and clam adjudication including COB), 835 (Claim Payment and Remittance), and 820 (Payment Order and Remittance)."}
+{"text": "Extensive experience in full\u00a0HIPAA\u00a0compliance lifecycle from GAP analysis and migration of\u00a0HIPAA\u00a0ANSI X12 4010 to ANSI X12 5010\u00a0and translation of ICD-9 codes into ICD-10 codes."}
+{"text": "Experience with HIPAA compliance in the Healthcare systems. Experience providing analysis for business processes running on EDI (Electronic Data Interchange) standard."}
+{"text": "Knowledge and experience working with FACETS 4.71 & 5.0 claims processing, dental claims, & dental claim pricing."}
+{"text": "Ability to supervise and make sure testing is done with regards to requirements of the project."}
+{"text": "Experience in defect management using Quality Center."}
+{"text": "Hands on experience in writing SQL queries for data gathering."}
+{"text": "Excellent project management skills and hands on experience working with software like Microsoft Project."}
+{"text": "Experience creating testing documents such Test Plan, Test Cases, Test Strategy"}
+{"text": "Excellent working knowledge of requirement management tools like Microsoft SharePoint."}
+{"text": "Excellent presentation and communication skills, can act as an excellent mediator between business and technical teams."}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "Molina Healthcare, Herndon  VA                                                                                                                  "}
+{"text": "May 2017- June 2017"}
+{"text": "Data Analyst/Business Analyst                                                                                                                                   "}
+{"text": "Molina brought a new solution to state Medicaid programs: Health PAS (Health Payer Administration Solutions). Health PAS a solution suite unlike any being offered today. Health PAS is a comprehensive set of services and systems designed for ease of use by non-technical people. Health PAS is comprised of eight components which include: Health PAS-Administrator, Health PAS-Process Manager, Health PAS-Document Manager, Health PAS-Analytics, Health PAS-Intercom, Health PAS-Online and Health PAS-Contact Manager, Health PAS-Rx, that can be integrated based on the healthcare payer's needs. The components of Health PAS provide robust functionality in a flexible framework that is tailored to meet each customer's requirements.\u00a0\n\nThis project will focus on upgrade testing of QNXT v4.6 to v4.8 and simultaneously performing Regression testing. Primary focus is Test execution, Test Results Documentation, raising defects and after it is fixed, retesting them. Finally delivering the Test Results to Onsite counterpart ."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Consulted frequently with technical and non-technical team members to ensure a complete understanding of their needs and concerns."}
+{"text": "Created deliverables such as functional, technical requirements, use case scenarios and process flows."}
+{"text": "Assisted in the execution/analysis of performance testing."}
+{"text": "Tested the HIPPA EDI 834, 270/271, 837/835 transactions according to test scenarios and verify the data on different modules."}
+{"text": "Performed cross browser testing on web based application using  (IE7, IE8, IE9, Firefox, Safari, and Chrome)"}
+{"text": "Experiences working in ANSI x12 837-835 EDI Transaction."}
+{"text": "Work on coordination of benefits (COB) in a claim processing."}
+{"text": "Ensured product meets business and technical requirements as well as all company standards."}
+{"text": "Performed UAT (User Acceptance Testing) in QNXT for different environments like, UAT1, UAT2 UAT3 or ITE."}
+{"text": "In QNXT, we loaded claims using CTP and then ran claim adjudication. And based on the configuration of benefits/contracts rules, the claims are paid, pend or denied."}
+{"text": "Claims were created in CTP tool (Claim Test Pro) and loaded using EDI 837 files in QNXT. Once claims are loaded in QNXT, they get OPEN status. After running through mass adjudication in the required environment claims moved to PAY, PEND or DENY status in QNXT."}
+{"text": "Claims Test Suites were created (Institutional or Professional) by running query by selecting search criteria for example, CPT code, Rev. Code etc."}
+{"text": "Providers have various contracts, which need to be tested for claim payments as per the business rules. Usually every contract has different services paying different amounts.\u00a0"}
+{"text": "Test cases are written according to the scenarios."}
+{"text": "Developed a Schedule and identified project milestones. "}
+{"text": "Analyzed business scenarios to track possible business outcomes for the functions, which could be incorporated into more, detailed test scripts. "}
+{"text": "Reported project progress to the team, senior management and all stakeholders periodically. "}
+{"text": "Performed testing of the health benefit claims receiving and processing system to ensure that the system adheres to project standards, performance criteria, and functional specifications"}
+{"text": "Identified risk and project impact and performed risk assessment and mitigation."}
+{"text": "Environment:\u00a0 MS Office Suite, MS Visio, HIPAA X12 translator, MS Access (RTM & Test Cases), EDI 820/834/837."}
+{"text": ""}
+{"text": "Anthem Health Care, Ohio    \t\t\t\t\t\t\t                    "}
+{"text": "Feb 2015 to April 2017"}
+{"text": "Business Analyst"}
+{"text": "Anthem BCBS is upgrading all of its claim adjudication system to FACETS. "}
+{"text": "NPI Project: The National Provider Identifier Project\u2019s objective is to comply with the mandate that effective with the federal compliance date, all Providers who conduct electronic business via HIPAA Transactions with Mercy Health will be required to obtain and use an NPI. I was also involved in integration of FACETS with legacy and thirty party vendor applications. As part of Health Care Reform, Anthem was implementing a project named Obama Health Insurance Exchange (HIX). The project was designed to develop a web based application that will meet the requirements of Affordable Care Act."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked with diverse team of Business users to gather requirement and prepared BRD and FSD."}
+{"text": "Conducted numerous JAD sessions with Business users, developer and SMEs."}
+{"text": "Studied in-house requirements for the\u00a0Data\u00a0warehouse\u00a0to be developed\u00a0"}
+{"text": "Conducted one-on-one sessions with business users to gather\u00a0data\u00a0warehouse\u00a0requirements\u00a0"}
+{"text": "Analyzed database requirements in detail with the project stakeholders by conducting Joint Requirements Development sessions."}
+{"text": "Analyzed the AS-IS and TO-BE system to bridge the GAP between the two versions of FACETS."}
+{"text": "Generated test data using SQL statements. Developed and executed SQL queries in support of Data warehouse data migration and retrieval."}
+{"text": "Liaised with the Business Team of FACETS and the Technical Team on a daily basis to streamline the development effort."}
+{"text": "Created test cases to cover the Change Data Capture (CDC) for incremental data loads for EDW Target for the New Inserts, Updates and deleted rows."}
+{"text": "Validated the Source to Target data and captured counts (accumulated table and aggregated table) for all the incremental builds."}
+{"text": "Worked on Stored Procedures, Views to analyze the code and performed DML operations on the Source and Target to validate the data changes."}
+{"text": "Customized SQL queries to check the source/target data and verified the total record count."}
+{"text": "Testing/Validation of Data Extraction Logic, Data Transformation Logic (including testing of Dimensional Model \u2013 Facts, Dimensions, Views etc.)"}
+{"text": "Validated the Member, Claim and Pharmacy data related to Healthy Blue, which were extracted from EDW for all active members and delivered to the reporting on monthly basis."}
+{"text": "Validated the data integrity and accuracy, Count, Error handling, email notifications and scheduled jobs of loaded data in the target database system."}
+{"text": "Analyzed and created test data using SQL queries to Insert and Update the data from the source to target databases."}
+{"text": "Application of the Data-Centric testing is to ensure valid and correct data is in the system."}
+{"text": "Using SQL queries, validated scenario testing and data mapping testing between the source system and target systems."}
+{"text": "Rich experience in Healthcare domain functionalities and contact center capabilities\u00a0"}
+{"text": "Experience in executing SQL Queries to validate data in the back end.\u00a0"}
+{"text": "Experience in interacting with business analysts, developers, and technical support and help them base line the requirement specifications."}
+{"text": "Proven ability to work cooperatively & effectively with business, team, & systems partners."}
+{"text": "Ability to understand & analyze business processes & workflows with the objective of providing recommendations for the best use of technology to improve these."}
+{"text": "Environment: Agile/Waterfall, MS Office Tools, Windows XP, Zephyr, Quality Center, Facets, MS SQL, UNIX."}
+{"text": ""}
+{"text": ""}
+{"text": "LA Care Health Plan - Los Angeles CA\t\t\t\t\t   "}
+{"text": "Aug 2013 \u2013 Jan 2015"}
+{"text": "Data Analyst/ Business Analyst"}
+{"text": "The Project involved in working on Core System Project moving from current legacy application to QNXT application for Reporting services for Membership,\u00a0Provider network, Finance, Health services, Claims Analyzing the current reporting services for which the source is from legacy old application like BI, Hyperion and moving those to new\u00a0QNXT\u00a0v5.0 Claims Processing System\u00a0core application. Once the Old System is sunset, entire\u00a0Claim\u00a0adjudication, benefit product, membership, claims\u00a0all the transaction will take place through\u00a0QNXT core System."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Analyzed the impacts of HIPPA 5010 project on enrollment, Claims and Benefit."}
+{"text": "Used CTP (Claim test Pro) for Claims testing and information gathering for the claims testing purpose."}
+{"text": "Worked on QNXT Claims Software System, to convert data from their legacy system (LRSP) and add custom applications to satisfy in-house requirements."}
+{"text": "Wrote SQL Queries for Inner Joins, Right and Left Joins to check for relationship between tables within a database as well as for the communication/data flow between those tables."}
+{"text": "Working within a growing knowledge of\u00a0HIPAA 837 I, P, D, 835, 834, 820, 270, 271, 276, 277, and 278, EDI, Privacy, Security, and Medicaid."}
+{"text": "Executed and validated test cases and test scripts through MS Access, SQL"}
+{"text": "Extensively used SQL to retrieve, and manipulate data in the database"}
+{"text": "Use SQL to select the accounts with certain characteristics and to track the volumes with each processed file for a time period to create volume and functionality graphs."}
+{"text": "Prioritize business requirements and segregate them into high, Medium, Low level."}
+{"text": "Worked on the Agile methodology of  SDLC"}
+{"text": "Offered data support and checking using SQL/Query and developed complex spreadsheets using SQL.\u00a0"}
+{"text": "The process included importing claims into QNXT that had been adjudicated and setting them in a \u201cPAY\u201d status so that a payment cycle could be run to create checks on QNXT. "}
+{"text": "Used QC in executing the test cases, logging them and directing it to the right team for any issue\u2019s encountered during the testing phase. "}
+{"text": "Performed forward and backward mapping between the two standards and documented the required changes"}
+{"text": "Studied existing business application and processes, collected end user requirements and suggested the improvised business process model."}
+{"text": "Worked actively on developing the online pricing tool and web application."}
+{"text": "Worked in a team of six in an offshore/onsite model"}
+{"text": "Gathered requirements and created BRD for the Washington State Medicaid managed care incoming  834 Analysis performed to ensure the resulting keyword file complements system configuration, ABI subsystem requirements with Amerigroup internal Implementation team."}
+{"text": "Designed the call flows and database integration for the IVR design"}
+{"text": "Deploy and test the new and updated Regional specific prompts and IVR messages"}
+{"text": "Gathered, defined and documented highly complex business requirements for\u00a0NPI crosswalk implementation."}
+{"text": "As part of validation process for EDI 820, outlined the discrepancies in eligibility reconciliation process and updated the process after discussion with stakeholders."}
+{"text": "Created mapping for EDI transactions, specially 820 and 834. Outlined the updated processes for Payment Reconciliation, Eligibility, and Premium Payment Transactions"}
+{"text": "Worked on functionalities such as Premium Payments, Enrollments and Claims."}
+{"text": "Responsible for documenting As-Is and To-Be systems."}
+{"text": "Application integration with EDI-X12, EDI-820/834 , Payment Reconciliation."}
+{"text": "Designed process flow for data archival, data purging, delta calculation during batch jobs to outline XML file triggers in Inbound & Outbound folders using transaction X12 EDI 820 and834."}
+{"text": "Interacted with Business Analysts and developers for the requirement clarification."}
+{"text": "Review and understand the\u00a0claims process\u00a0and complex requirements for the enhancement of the current system created under the\u00a0Requirement Specification Documents\u00a0after conducting interviews\u00a0with End Users, JAD Sessions and analyzed their current systems."}
+{"text": "Environment:\u00a0IBM Mainframe, Power Builder 12, MS Office 2010, MS Visio, Sybase\u00a0HIPAA X12 translator, MS Access (RTM & Test Cases), EDI 820/834/837."}
+{"text": ""}
+{"text": "Conventry Healthcare, Bethesda, MD\t\t\t\t\t\t"}
+{"text": "Jan 2012 \u2013July 2013"}
+{"text": "Data Analyst"}
+{"text": "The project was based on the implementation of an Enrollment & Reconciliation process using X12 EDI 820/834/837 transactions. I worked on various HIPAA transactions, like 820, 835 and 837.My daily responsibilities included conducting meetings related to the code conversion process and document them to create the business requirement document. Additionally, I also worked on the database part by helping the team identify the right data sources, verify the data integrity and creating production scrubs for testing purposes. I was also involved in payment reconciliation, payment balancing, payment adjustments, and pending payments. I was involved in Facets implementation project as well."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked with business users to understand the Eligibility Reconciliation and Payment Reconciliation process."}
+{"text": "Created and maintained data mapping document(s) in reference to the HIPAA mandated X12 format EDI transactions 820, 834, and 835."}
+{"text": "Worked on Involved in FACET configuration, Customization, reporting, analysis and enhancement. Extensively worked on EDI transaction like 837,835,834, 820, 270, 271, 276, 277 and 278."}
+{"text": "Gathered business requirements, analyzed data sources, workflows by conducting interviews and meetings."}
+{"text": "Created business process models, flow diagrams, activity diagrams, use cases and wrote Business Requirement Documents (BRDs) and Functional Requirement Documents (FRDs) using tools and applications such as MS Word, MS Excel, and MS Visio."}
+{"text": "Analyzed the change detection process on Facets database tables to capture the daily changes done by Users through Online Facets Application."}
+{"text": "Worked on FACETS claims processing, payment adjustments, claims inquiry, benefits,& dental claim pricing."}
+{"text": "Tested the changes for the front end screens in FACETS related to following modules, test the FACETS batches (membership, Billing, Provider, etc.)."}
+{"text": "Designed High level design, for New process, integrating with legacy and Facets"}
+{"text": "Involved in configuration of Facets Subscriber/Member Application group."}
+{"text": "Analyzed the member/eligibility information on claim to that in Facets."}
+{"text": "Used Rational Clear Quest as a workflow tool for effective change management and for testing management."}
+{"text": "Performed responsibilities of integrating network in IVR systems as required"}
+{"text": "Modified and redesigned the document for Plan Type Codes, Reason Codes, Relationship Codes, and Language Codes as part of Electronic Enrollment/Reconciliation process updates."}
+{"text": "Analyzed EDI 820 (Payments and Remittances) and 834 transaction (Enrollment and Maintenance) for the conversion of health insurance enrollment."}
+{"text": "Held JAD sessions to make sure all requirements were well understood by the team."}
+{"text": "Implemented the suggested changes and finalized the design to be presented to the developers."}
+{"text": "Designed Information Flows for Eligibility Reconciliation, Premium Payment Transactions, and Reconciliation of Enrollment Transactions EDI Processing to outline updated processes."}
+{"text": "Wrote SQL queries to gather data required for supporting the application development."}
+{"text": "Held meetings and constantly updated the BRD and FRD as per the changes requested by the stakeholders and approved by the Change Control Board (CCB)."}
+{"text": "Followed the Waterfall methodology for all the modules throughout the entire SDLC."}
+{"text": "Actively conducted and participated in status report meetings and interacted with developers to discuss the technical issues."}
+{"text": "Modified the file format and layout for Electronic Enrollment & Reconciliation Payments."}
+{"text": "Actively participated throughout the User Acceptance Testing (UAT) process and helped coordinate the application deployment process."}
+{"text": "Worked independently with minimal supervision throughout the project."}
+{"text": ""}
+{"text": "Environment: Waterfall, MS Office, SQL Server, QTP, Quality Center, EDI 820/834/837/X12"}
+{"text": ""}
+{"text": "Department of Community Health of Georgia, Atlanta, GA  \t\t\t"}
+{"text": "April 2010 \u2013 Dec 2011"}
+{"text": "Systems Analyst"}
+{"text": "DCH of Georgia implemented the new MMIS which will be supported as part of the State\u2019s new fiscal agent contract with Hewlett-Packard Enterprise Services.  As part of the overall initiative, an IT project is authorized to design and build the changes required to move all data transfers from the ACS processing environment to the new processing environment being built by HPES for DCH of Georgia. There are 5 general groups of data transfers that must move to the new MMIS:  Enrollments, Provider Management, Encounters (or claims processing), Payments and Advices, Regulatory Submissions."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Utilized Rational Unified Process (RUP) to configure and develop process, standards and procedures."}
+{"text": "Prepared the business requirement document (BRD) and system requirement document (SRD)."}
+{"text": "Facilitated Provider Enrollment, Setting up Provider profile & Trading Partner Agreement."}
+{"text": "Used the Agile methodology to build the different phases of Software development life cycle.(SDLC) "}
+{"text": "Met with users and stakeholders to understand the problem domain, gathered customer requirements through interviews (group and one-on-one) along with JAD sessions."}
+{"text": "Identified the issues and done gap analysis with existing and current RDS Extract system for Reconciliation process."}
+{"text": "Researched the CMS website and helped business team in formulating business rules."}
+{"text": "Developed BRD, FRD, use cases, test scenarios, test cases for testing the functional and non-functional using Requisite Pro and Rational Rose to create/maintain: Use Cases, Activity Diagrams, Sequence Diagrams, and Collaboration Diagrams."}
+{"text": "Worked with EDI team, developers and production support team at various stages of the project."}
+{"text": "Worked on Different Modules like Billings, Membership, Claim and Provider in MMIS application. "}
+{"text": "Data mapping, logical data modeling, used SQL queries to filter data within the Oracle database tables. "}
+{"text": "Analyzed the change detection process on  Facets database tables to capture the daily changes done by Users through Online."}
+{"text": "Manually generated reconciliation reports using MS Excel and Access. "}
+{"text": "Design and streamlined process to facilitate annual reconciliation of plan sponsors."}
+{"text": "Developed, reviewed, understood and validated Testing scenarios/scripts."}
+{"text": "Defect Tracking with Clear Quest, Configuration Management with Clear Case."}
+{"text": "Stepped in when requirements were not moving forward and mentored analysts on documentation, facilitation and agile processes."}
+{"text": "Created BPR charts for AS IS and TO BE processes of different business functionalities.    "}
+{"text": ""}
+{"text": "Environment: Requisite Pro, Rational Rose, Clear Quest, Test Manager, SQL, Oracle, MS Visio, MS Project."}
+{"text": ""}
+{"text": ""}

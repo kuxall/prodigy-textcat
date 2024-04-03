@@ -1,0 +1,175 @@
+{"text": "Name: ruth ruth"}
+{"text": "E-Mail: ruth.ruth@gmail.com"}
+{"text": "Address: Philadelphia, United States"}
+{"text": "Github: https://github.com/ruth"}
+{"text": "LinkedIn: https://linkedin.com/ruth"}
+{"text": "Phone No. 316319779475"}
+{"text": ""}
+{"text": "PROFESSIONAL SUMMARY:"}
+{"text": "5+ years of IT experience in software development Over 3+ years of experience in Android Development, testing and deployment in both consumer and enterprise based mobile applications."}
+{"text": "Involved in all stages of the SDLC like designing, coding, implementation, testing and maintenance. "}
+{"text": "Experience in various SDLC methodologies like Agile development and Rapid Application Development (RAD)."}
+{"text": "Expertise in developing Android Enterprise applications for tablets and mobile devices using Eclipse, Android SDK, Android NDK, Android Studio and ADT development tools. "}
+{"text": "Experienced in working with several versions of Android SDK like Gingerbread, Honey Comb, Ice Cream, Sandwich, Jellybean, Kit Kat, LolliPop, Marshmallow and N."}
+{"text": "Experience in using various development environments like Eclipse and Android Studio."}
+{"text": "Experience in developing various UI components like TextView, Customized ListView, Menus, Edit Boxes, Checkboxes, Dialogs, Buttons, Status Notifications, Action Bars and Spinners."}
+{"text": "Strong experience with Android Framework APIs such as Phone Gap, Google Maps, Camera, Resource Manager, Fragments, Location Manager, Notification Manager, Content Providers, Contact Manager, CAN, Telephony API and REST APIs."}
+{"text": "Developed User Interfaces using HTML, HTML5, CSS.  "}
+{"text": "Experience in using Java Native Interface (JNI) and implementing native libraries in application by using Android NDK.\u00a0"}
+{"text": "Designed User Interface using custom layouts, dialog boxes, buttons and alert boxes."}
+{"text": "Hands on experience in developing Video\u00a0streaming, client for media applications.\u00a0"}
+{"text": "Experience in using JDBC for connecting to database for data exchange and retrieval. "}
+{"text": "Expertise in Object Oriented Programming (OOP) and Object Oriented Analysis and Design (OOAD) concepts."}
+{"text": "Experience in JSON/XML based development for REST web services.  "}
+{"text": "Good working experience  designing, development, triaging and enhancement of software  modules with in Embedded Linux.\u00a0"}
+{"text": "Experience in developing UML Diagrams, Use Case Diagrams and Class Diagrams."}
+{"text": "Experience in using SQLite, MSSQL, SQL Server 2008, MySQL,PLSQL and Oracle 9i, 10g."}
+{"text": "Experience with version control systems (GitHub) ."}
+{"text": "Experience in different types of testing such as functional testing, regression testing and Emulator testing. "}
+{"text": "Experience in developing JUnit test cases."}
+{"text": "Experience in Android debugging tools such as ADB, Trace, DDMS, Log Cat, Eclipse ADT Tools and Monitor."}
+{"text": "Exposure in cloud integration 3nrd party components to Android app."}
+{"text": "Exposure in socializing and integrating the android apps developed to Facebook and twitter. "}
+{"text": "Good exposure in troubleshooting and debugging android applications. "}
+{"text": "Hands on experience in deployment & publish android application on Google Play market "}
+{"text": "Motivated high flier with excellent verbal/written communication skills, admirable presentation capabilities, efficient requirement gathering ability and effectively convey them to other members in the team."}
+{"text": ""}
+{"text": "SKILL SET"}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": "United Services Automobile Association\u00a0(USAA) ,San Antonio, TX                                                    "}
+{"text": "April 2017 \u2013 Present"}
+{"text": "Android Application developer"}
+{"text": ""}
+{"text": "Description:\u00a0\nDesigned and developed a mobile financing app which provides effective and secure account access from any compatible Android\u00a0devices. This application portrays a unique feature of storing the names of the users in a secured manner which makes it easier for them while making common transactions without the need for filling the details every time. This application manages the daily useful features like the deposits, insurance claims, loan calculations, ATM and rental car locators.\u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Involved in requirement gathering and designing of the application. "}
+{"text": "Responsible for developing the Android UI layouts. "}
+{"text": "Responsible for implementing Google Analytics."}
+{"text": "Created custom Views, such as List Items, Date/Time Pickers, Complex Radio and Image Buttons, as well as custom List   View Adapters. "}
+{"text": "Implemented intents for navigating to Facebook, LinkedIn, Twitter. "}
+{"text": "Designed the User interface by following different design patterns like Action Bar with overflow menu. "}
+{"text": "Implemented Asynchronous message to get an update of the driver activities and the data from the middleware "}
+{"text": "Experience with Android Unit Testing & used tools like J-UNIT, Robotium "}
+{"text": "Responsible for flow control between different activities using explicit and implicit intents. "}
+{"text": " Added styles/themes to make UI look better. "}
+{"text": "Implemented Integration of volley for efficient Network calls."}
+{"text": "Working knowledge End-to-End on Linux Audio audio driver stack "}
+{"text": "Responsible for the Android business logic that uses JSon queries for getting data from the backend systems. "}
+{"text": "Involved in integrating the service to the UI. "}
+{"text": " Involved in performance testing along with Functional and regression tests. "}
+{"text": "Used Quality center and followed the defect workflow during the defect resolutions "}
+{"text": " Coordinated with Configuration Manager for continuous integration. "}
+{"text": "Followed agile methodology to implement the project. Created various SQL and PL/SQL scripts for                 "}
+{"text": " verification of the required functionalities and everyday changes after various process "}
+{"text": "Used GIT for code repository and maintaining current and historical versions of the source code. "}
+{"text": "Responsible for Peer Code Review, Defect Resolutions. "}
+{"text": "Performed on device debugging using ADB and tested application in both emulator and device\n\u00a0"}
+{"text": "Environment: Windows 7, Android SDK, Java, C++ ,JNI,  Eclipse 3.5, UNIX, SQLite, EGit 3.4.1, JSON, REST APIs, Volley, Robotium, XML, Google Analytics"}
+{"text": ""}
+{"text": "JPM Chase, Columbus, OH \t\t\t\t\tSept  2016- Mar 2017"}
+{"text": " Android Developer"}
+{"text": ""}
+{"text": "Description: This application allows users to manage their JPMC accounts and JPMC cards, such as to check their account balance, recent transactions, available credit, deposit check, minimum payment due/due date and Nearest Location of Branches/ATM's. The application allows Commercial bank clients to Deposit checks from their Camera enabled Smartphones conveniently from anywhere, View their Deposit history."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Worked in different phases of the project cycle like design, development and testing."}
+{"text": "Used GPS provider to quickly find location and navigates the directions to the nearest Bank or ATM."}
+{"text": "Developed the activities and UI layers."}
+{"text": "Used web views, list views & populated lists to display the lists."}
+{"text": "Design screens using MVC pattern for the application with Android Studio\u00a0IDE.\u00a0"}
+{"text": "Responsible for consuming the REST services, getting XML, JSON response and parsing them to get the required information."}
+{"text": "Integrated location based services using Google Maps API to display locations of the nearest Branches/ATM's"}
+{"text": "Enabled the application to use the Camera feature to scan a document and upload the check using SQLite."}
+{"text": "Used Android SDK and Eclipse IDE for development."}
+{"text": "Tested the app across different versions of Android and different android phones to assure quality and performance."}
+{"text": "Worked with Dagger2 for Dependency Injections."}
+{"text": "Implemented capturing the screenshot of the payment screen, Bitmap to PDF conversion features using Android NDK\u00a0."}
+{"text": "Involved in converting web application into hybrid mobile application using PHONEGAP and deployed in IOS Platform using cordova."}
+{"text": "Scheduling and tracking projects through\u00a0integration\u00a0of various Project Management tools like JIRA.\u00a0"}
+{"text": "Worked closely with another mobile app developer, leading the other platform development."}
+{"text": "Implemented customized web view component to load an SWF file and HTML data."}
+{"text": "Implemented the required GUI by making modifications to the XML files."}
+{"text": "Work closely with the web application development team to ensure proper integration between Mobile application and Web application."}
+{"text": "Embedded Google Maps API, GPS Location Data into app with zooming controls."}
+{"text": "Worked on debugging the application using Logcat, DDMS."}
+{"text": "\u00a0Effectively managed the code review using continuous integration with GIT."}
+{"text": "Tested the application on various Android devices."}
+{"text": ""}
+{"text": "Environment: Android SDK 3.2, Android Studio, 4.1,Android NDK, SQLite 3.8, Eclipse IDE 3.5, Android API's, PhoneGap,C, Java JDK 1.6, XML, JSON, HTML,CSS, Junit, SQLite, GPS service, Log cat,Window7/Linux."}
+{"text": ""}
+{"text": "NBCUniversal, New York, NY                                            \t\t\t                        Jan 2016 \u2013 Aug 2016"}
+{"text": "Android/ Java developer"}
+{"text": ""}
+{"text": "Description: NBCUniversal is an American entertainment and media company involved in the marketing and production of news, entertainment, information products and services to a large global customer base. CNBC is a NBC-owned cable television network. The project involved developing an alarm application for the CNBC business customers. The application allows users to wake up to a stream of bulletin points and breaking business news including major stock tickers and indices such as Dow Jones and S&P. "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Developed using the concepts of Core Java in Eclipse IDE 3.5."}
+{"text": "Used the Android Native module and related APIs for the mobile application."}
+{"text": "Developed frontend application using HTML, CSS, JavaScript and JSP."}
+{"text": "Developed initial flash screen. Used video\u00a0view and video\u00a0player for flash screen implementation with no title bar enabled\u00a0"}
+{"text": "Designed layouts using status bar, video\u00a0view and with basic layouts\u00a0"}
+{"text": "Designed Front Page and Categories section screens using Photoshop."}
+{"text": "Implemented video\u00a0jitter buffer on receiving of every video\u00a0packets to avoid packet loss and unwanted video disturbances\u00a0"}
+{"text": "Handled user sessions and populated user information on the screen."}
+{"text": "Used GPS modules for location based functionalities in the application. "}
+{"text": "Designed prototype applications with integrated features for testing. "}
+{"text": "Developed voice search and quick search functionalities using the Google APIs."}
+{"text": "Customized different views to suit the design mockup trials. "}
+{"text": "Bright Cove API was used for video streaming in the application. "}
+{"text": "Parsed XML response using REST web services for stock market tickers."}
+{"text": "Used JDBC for database connectivity and data retrieval. "}
+{"text": "Used JSON for easy data storage and exchange. "}
+{"text": "Used GIT for Version Control System."}
+{"text": "Designed and created domain model, schema and UML diagrams."}
+{"text": "Used the Android DDMS tool for port-forwarding, screen capture and debugging."}
+{"text": "Involved in product debugging using Eclipse and JIRA Bug Tracking."}
+{"text": "Involved in System Testing using JUnit testing framework."}
+{"text": ""}
+{"text": "Environments: Java, Android SDK, Android Studio, HTML, CSS, XML, GPS, JSON, REST, Eclipse IDE 3.5, GIT, DDMS console, ADB Server, Emulator, FFMPEG, ADT Plug-In and Adobe Photoshop"}
+{"text": ""}
+{"text": "All State Insurance, Northbrook, IL                                                \tAug 2015 \u2013   Dec  2016"}
+{"text": "Android Developer"}
+{"text": ""}
+{"text": "Description:The\u00a0Allstate Corporation\u00a0is the third largest personal lines\u00a0insurer\u00a0in the United States and the largest that is publicly held. The company also has personal lines insurance operations in\u00a0Canada. Allstate Mobile helps you pay bills, report a claim, update your policy information and get roadside & accident support that you can access anywhere anytime."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in requirement gathering, UI design and development."}
+{"text": "Worked on innovative background reflecting the user account status that changes according to user\u2019s account."}
+{"text": "Worked closely with the testing team."}
+{"text": "Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10-inch devices by customizing views as per mockup. Created Master-Detail Interface for tablet implementation."}
+{"text": "\u00a0Experience with Location Manager, Camera, WIFI\u00a0API's."}
+{"text": "Updated backend validations to meet tablet specific requirements."}
+{"text": "Implemented unique design for portrait and landscape mode."}
+{"text": "Used web views, list views & populated lists to display the lists from database using simple adapters."}
+{"text": "Responsible for consuming the REST services, getting JSON response and parsing them to get the required information"}
+{"text": "Added parser classes for Tablet, which involved parsing JSON feeds."}
+{"text": "Implemented data caching mechanism."}
+{"text": "Created UI & functionality for authentication feature."}
+{"text": "Involved in development and enhancements of features to restrict the usage based on Authorization and Authentication tokens."}
+{"text": "Provided subsequent releases, which included feature changes, enhancements and bug fixes."}
+{"text": "Environment: Java, Android SDK, MVC, Oracle, JQuery, XML, HTML, CSS, OSB,JIRA,Junit."}
+{"text": ""}
+{"text": "InfoTech, Hyderabad, India                        \t\tJune 2012 \u2013 Nov 2013"}
+{"text": "Java Developer"}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Built Java applications using concepts of Core Java. "}
+{"text": "Developed using the MVC architecture along with the Spring 2.5 framework. "}
+{"text": "Designed and developed user interfaces using HTML, CSS, JavaScript and JSP."}
+{"text": "Developed several reusable web components using JSP, Java Beans and Servlets."}
+{"text": "Used JDBC concepts to establish connection and use the Oracle database."}
+{"text": "Deployed the application in Apache Tomcat server in the production environment."}
+{"text": "Participated in design decision making and implementation. "}
+{"text": "Prepared designed documents for future reference for developers."}
+{"text": "Extensively involved in testing and maintenance of the existing applications."}
+{"text": "Developed JUnit test cases for application and system testing. "}
+{"text": "Implemented CVS as Version Control System."}
+{"text": ""}
+{"text": "Environments: Java, J2EE, JSP, HTML, CSS, JavaScript, JDBC, Servlets, Spring 2.5 Framework, Junit, Apache Tomcat 5.0 and Oracle 10g."}
+{"text": ""}
+{"text": "EDUCATION:"}
+{"text": "Bachelor of Technology, Computer Science, Jawaharlal Nehru Technological University, India"}
+{"text": ""}
+{"text": ""}

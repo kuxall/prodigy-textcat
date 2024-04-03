@@ -1,0 +1,145 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Linyi, China"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 309419075032"}
+{"text": ""}
+{"text": "Professional Summary"}
+{"text": "Over more than 6 years of Business Analyst experience in all phases of Software Development Life Cycle (SDLC) and Business Process Reengineering in Healthcare sector. Good knowledge of FACETS Member, Provider and Claim module involving Configuration, Customization, Reporting, Analysis and Enhancement."}
+{"text": ""}
+{"text": "Knowledge of SDLC methodologies like Waterfall, and Agile, and Rational Unified Process (RUP)."}
+{"text": "Experience with Joint Requirement Planning (JRP) and Joint Application Design (JAD) session for gathering requirements and brainstorming ideas."}
+{"text": "Able to work with business users to define Business Process, and Data Models to understand the overall business."}
+{"text": "Experience with Business Requirement Documents (BRD) and Use cases along with the knowledge of Unified Modeling Language (UML) diagram: Activity and Sequence Diagrams."}
+{"text": "Experience with Business Process Flow, Modeling, Analysis and Requirement Elicitation together with Visual Modeling and Presentation."}
+{"text": "Earned good knowledge in SQL along with MS SQL administrator, SQL Enterprise manager, data analysis and reporting."}
+{"text": "Skilled in mapping business requirements to test cases, maintaining traceability matrix."}
+{"text": "Excellent presentation and communication skills and can act as an excellent mediator between business & technical teams."}
+{"text": "Experience with Claims, Commissioning, and Billing Modules of Facets."}
+{"text": "Experience with Medicare, Medicaid and commercial insurance in HIPAA ANSI X 12 formats including 835,837 and 997."}
+{"text": "Experience with ICD9/ICD10."}
+{"text": "Reporting test cases for requirements and developing scenarios."}
+{"text": "Experience with handling and coordinating User Acceptance Testing (UAT) along with Regressing and Integration Testing."}
+{"text": "Strong analytical skills, ability to identify problems, research issues, and provide solutions."}
+{"text": "Good team player with an ability to work with minimal guidance as well."}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": ""}
+{"text": "Methodologies: \t\tAgile, Waterfall, UML, Scrum"}
+{"text": "Modeling Tools:\t\tMS Visio, eDraw, MS Excel, MS PowerPoint"}
+{"text": "Database: \t\t\tSQL Server"}
+{"text": "Operating Systems: \t\tWindows XP/Vista/7/8"}
+{"text": "Defect Tracking Tools:\t\tMercury Quality Center, Rational ClearQuest"}
+{"text": "Business Applications: \t\tMS Project, MS Visio, Microsoft Office Suite"}
+{"text": ""}
+{"text": "Education"}
+{"text": "The University of Memphis, Memphis, TN \u2014 MS Engineering"}
+{"text": "Kathmandu University, Dhulikhel, Nepal \u2014 BE Engineering"}
+{"text": ""}
+{"text": "Professional Experiences"}
+{"text": ""}
+{"text": "Assurant Health, Milwaukee, WI \t\t\t\t\t\tAug 2016 \u2013 May 2018"}
+{"text": "Business System Analyst"}
+{"text": "Assurant Health is a premier provider of specialized insurance products and related service. It provides variety of affordable plan choices to the individuals, families and small employers. I was also involved in providing support through the entire lifecycle for multiple projects involving web service and user interface development, covering Provider, Claims, modifying Medicaid Management Information Systems (MMIS) and Reimbursement Processing domains."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Performed a project analysis on new projects, including requirements, personnel, and costs."}
+{"text": "Developed and maintained a work plan for system projects."}
+{"text": "Facilitate daily scrum, sprint planning and sprint retrospectives meeting."}
+{"text": "Worked on release on multiple sprints after successful completion of sprints."}
+{"text": "Met with Supervisors and business users and defined the scope of the project, gathered business requirements and conducted gap analysis."}
+{"text": "Involved in the documentation of extraction, of the data from various tables in the Data warehouse."}
+{"text": "Worked closely with Business Team, Subject Matter Experts (SME\u2019s), Infrastructure team."}
+{"text": "Expertise in Claims, Subscriber/Member, Plan/Product, Provider, Commissions and Billing Modules of Facets."}
+{"text": "Participated in creating Facets data model."}
+{"text": "Worked on ICD 10 with respect to the claims related to Medicare (Part A, Part B, Part C, Part D)"}
+{"text": "Designed Claims Inquiry screen within the MMIS and executed Testing Scenarios, Cases & Conditions involving UAT, Regression, Integration and System testing."}
+{"text": "Wrote BRD\u2019s for 834 (member Eligibility), Provider files and Claims tracking system, Use-Case Narratives including business process workflow diagrams and Requirements Traceability based on any of the projects need."}
+{"text": "Worked on Business requirement for payer information in geographical area and contact payers to facilitate contracting."}
+{"text": "Documented and gathered Functional specifications for 837 (claims), 278 (Authorizations) and 270/271 (Eligibility and Benefit Response)."}
+{"text": "Conducted Requirements Walk-Thru JAD Sessions and resolved all issues/findings."}
+{"text": "Lead & Facilitated numerous meetings to help answer any question on requirements during Design, Development, Testing and Implementation phase."}
+{"text": "Organized brainstorming and JAD sessions with stake holders, business users, technical teams, testing team to analyze and validate the business requirements, system life cycle and explained the key performance indicators and documented the specifications."}
+{"text": "Created Use Case diagrams by analyzing the business process followed by Activity diagrams using MS-Visio and participate in production Electronic Data Interchange (EDI) Test data."}
+{"text": "Developed use case Designed process flow diagrams using MS-Visio and Business Context Diagram."}
+{"text": ""}
+{"text": "Environment: Agile, UAT, MS Office (MS Word, MS Excel, MS PowerPoint, MS Visio), MMIS, HP ALM, SQL Server."}
+{"text": ""}
+{"text": ""}
+{"text": "Henry Ford Health System, Detroit, MI \t\t\t\t\tAug 2015 \u2013 July 2016"}
+{"text": "Business Analyst"}
+{"text": "HFHS is one of the prominent health care providers, which offers seamless array of preventive care. The purpose of this assignment was to create an integrated solution to deliver quality health care, enhanced process flows, and increased patient flows to the clinic and give excellent experiences in all services provided. The project worked on HIPAA Claims Processing and ICD 10 readiness."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in discussion with SMEs during gap analysis sessions to identify the areas of impact to Gateway, Backend Systems and Frontend Systems."}
+{"text": "Constructed the BRD and FRD for Inbound (837-I, P, D, and 834) and Outbound 835 transactions."}
+{"text": "Worked closely with Trading Partners to ensure that requirements were met."}
+{"text": "Contributed in the writing of Companion Guides for all ANSI X12 transactions."}
+{"text": "Performed impact analysis for conversion of ICD-10."}
+{"text": "Maintained warehouse metadata, naming standards and warehouse standards for future application development."}
+{"text": "Create best-practice requirements deliverables, such as use cases, system process flows and context diagrams."}
+{"text": "Reviewing all codes and appropriately applying them."}
+{"text": "Experienced in SDLC like waterfall and project life cycle like Agile, SCRUM, RUP methodologies."}
+{"text": "Determined technical parameters for EDI by working with the development team for communication, security, and privacy."}
+{"text": "Responsible for integration and of data warehouse and reporting with other systems."}
+{"text": "Created test plans and test cases in ALM Quality Center."}
+{"text": "Performed UAT, regression, integration, system testing, Functional and Non-Functional tests of the application."}
+{"text": "Good understanding of EDI Transactions 270/271, 278, 837I, 837P, 835, 834, 820, 276/277."}
+{"text": "Strong understanding of FACETS and Facets Data Model working on data model and data extracts."}
+{"text": "Performed claims validation of FACETS application as necessary."}
+{"text": "Maintained Traceability matrix and Test Matrix."}
+{"text": "Acknowledged HIPAA rules and regulations during EDI and ensured that the development team kept up with it."}
+{"text": "Used MS Project regularly to monitor activities, schedules and communication during the project."}
+{"text": ""}
+{"text": "Environment: Agile, UAT, MS Office (MS Word, MS Excel, MS PowerPoint, MS Visio), HP ALM Quality Center, SQL Server."}
+{"text": ""}
+{"text": ""}
+{"text": "Civil Service Hospital, Kathmandu, Nepal\t \t\t\t\tJan 2014 \u2013 Jun 2015"}
+{"text": "Business Analyst"}
+{"text": "Civil Service Hospital is an institution which provides medical and surgical treatment and nursing care for the people. The purpose of the project was to develop a system which could connect a group of doctors and give them an environment to interact about the diseases and treatments, receive and offer advice, and to access the database. Additionally, it provides the doctor to securely access the information and print the information as necessary."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participated in development of process workflow diagrams with stakeholders."}
+{"text": "Organized and conducted JAD session with SMEs and end user to identify, understand and document business requirements."}
+{"text": "Worked with development teams to finalize functional requirement and use cases to construct the BRD and FRD."}
+{"text": "Created interface design documents."}
+{"text": "Created Use Cases, Activity Diagrams, and Sequence Diagrams using MS Visio."}
+{"text": "Planned the RUP iteration and documented all process thorough various phases."}
+{"text": "Participated in ICD 9 to ICD 10 codes mapping sessions as well as status meetings and provided comments and suggestions on challenges."}
+{"text": "Used reverse engineering by identifying the behavior process flow and gaps between the current process of the system with the business requirement."}
+{"text": "Assisted team to develop test scenarios and test cases for validation."}
+{"text": "Maintained Traceability matrix and Test Matrix."}
+{"text": "Validated the product and assisted the team to verify the defects."}
+{"text": "Worked closely with development team to perform root cause analysis of issues."}
+{"text": "Functioned as the primary liaison between the business line, operations, and the technical areas throughout the project cycle."}
+{"text": ""}
+{"text": "Environment: RUP, MS Office (MS Word, MS Excel, MS PowerPoint, MS Visio), MS-Project, Windows 2000 server, Clear Case, Clear Quest, SQL Server."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Kathmandu University, Dhulikhel, Nepal \t\t\t\t\tDec 2011 \u2013 Dec 2013"}
+{"text": "Project Analyst"}
+{"text": "As a Project Analyst, I was involved with management of plan, design, testing and implementation of projects from initiation to conclusion. Kathmandu University was handling several research projects during the timeframe where I also aided in budget tracking, along with project evaluation and monitoring, maintaining compliance with public regulations."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Conducted planning for executive level meetings, training sessions, and other complex program events addressing schedule, agenda, venue, attendees, material needs."}
+{"text": "Applied project and resource management methodologies and best practices."}
+{"text": "Determined and gathered requirements to meet project activities."}
+{"text": "Ensured accuracy of all program projections."}
+{"text": "Ensured all program data set up is accurate and aligned with contract requirements throughout all required systems"}
+{"text": "Monitor, manage and maintain day-to-day project activities and resource plans in Project Portfolio Management tool."}
+{"text": "Attend project meeting on an as-needed basis to provide project management with current project financial performance"}
+{"text": "Assist project managers to establish estimate and report forecasts."}
+{"text": "Work with stakeholders to define the scope of project initiatives."}
+{"text": ""}
+{"text": "Environment: MS Office Suite (Word, Excel, PowerPoint, and Outlook), MS Visio."}
+{"text": ""}
+{"text": ""}
+{"text": ""}

@@ -1,0 +1,124 @@
+{"text": "Name: annie annie"}
+{"text": "E-Mail: annie.annie@gmail.com"}
+{"text": "Address: Lahore, Pakistan"}
+{"text": "Github: https://github.com/annie"}
+{"text": "LinkedIn: https://linkedin.com/annie"}
+{"text": "Phone No. 254948175730"}
+{"text": ""}
+{"text": "Summary:"}
+{"text": "Multiple years of IT experience and Analytics experience in data analysis, strategic analysis, Predictive Analytics and Inferential statistics, data mining and data visualization to provide analytical solutions to client's business problems."}
+{"text": "Experience in working as a team to develop and deliver enterprise-wide solutions for complex data challenges."}
+{"text": "Experience in developing and applying methods by collecting, processing and analyzing large volumes of data to build and enhance products, processes and systems."}
+{"text": "Experience with Python, R, Java, Scala has applied to programming access and manipulation of data."}
+{"text": "Experience in machine learning in commercial and finance domain."}
+{"text": "Experienced in Machine Learning techniques like clustering, decision tree learning, artificial neural networks and their real time advantages and drawbacks."}
+{"text": "Expertise in math, statistics and quantitative analysis. Used analytic techniques such as classification, regression, similarity matching, clustering, co-occurrence grouping, profiling like prediction, data reduction, and casual modeling."}
+{"text": "Experience in developing and deploying an automated process."}
+{"text": "Strong knowledge of state-of-art ML algorithms like Bayesian learning, latent/topic models, approximates inference, deep networks, and stochastic processes."}
+{"text": "Experience in deep learning techniques for NLP like test classification, language modeling, question answering."}
+{"text": "Experienced in Machine Learning Classification Algorithms like Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree and Random Forest classification."}
+{"text": "Experience and expertise in machine learning based predictive modeling projects with machine learning models like Gradient Boosting, Collaborative filtering, Bayesian Methods, Random Forest, SVM, Markov Models."}
+{"text": "Experienced in advanced statistical analysis and predictive modeling in structured and unstructured data environment."}
+{"text": "Good knowledge of Linear Algebra, random process and statistical analysis."}
+{"text": "Experience in translating business and product questions into analytics projects."}
+{"text": "Experiences with high velocity data like click streams."}
+{"text": "Good understanding of optimization techniques like first order, second order optimization, gradient descent etc. "}
+{"text": "Hands on experience of Data Science libraries in Python such as Pandas, NumPy, SciPy, neurolab, NLTK. "}
+{"text": "Hands on experience on R packages and libraries like ggplot2, h2o, dplyr, plotly, RMarkdown etc. "}
+{"text": "Experience in various phases of Software Development life cycle (Analysis, Requirements gathering, Designing) with expertise in writing/documenting Technical Design Document (TDD), Functional Specification Document (FSD), Test Plans, GAP Analysis and Source to Target mapping documents. "}
+{"text": "Experience in Deep Learning models using Theano, Tensorflow, scikit.learn packages using Python. "}
+{"text": "Excellent understanding of Hadoop architecture and Map Reduce concepts and HDFS Framework. "}
+{"text": "Strong understanding of project life cycle and SDLC methodologies including RUP, RAD, Waterfall and Agile. "}
+{"text": "Good understanding in ETL, Data warehousing, Data Marts, OLAP and OLTP technologies. "}
+{"text": "Experience working on data visualization tools (Tableau, matplotlib) and graphical analysis techniques like community detection, random walk."}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience"}
+{"text": ""}
+{"text": "AT&T, Atlanta GA\t\t\t\t\t\t\t\t\t              "}
+{"text": "Role: Data Scientist"}
+{"text": "Sep\u2019 2015 to Current"}
+{"text": ""}
+{"text": "Objective: Modelling to determine best customer experience against competitors like Xfinity to target customers for personalized marketing strategies. AT&T supports sales Online (Ecommerce) and other sales channels (Retail stores, POS, OPUS)."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Working as a part of Sales Catalog Data Management Team."}
+{"text": "Project involves integrating Wireline (EDW) and Wireless (eCDW) data."}
+{"text": "Closely work with the IT, Sales and Marketing leads to formulate hypothetical insights, predictive analysis and work through delivering these insights to production."}
+{"text": "Closely work in providing data for the TDATA personalisation engine for better and advanced customer experience while shopping online."}
+{"text": "Personalization for registered users, Returning visitors and Anonymous visitors."}
+{"text": "Worked in gathering the required events (System Events, User Events) for reporting to provide a better application GUI."}
+{"text": "Inflection points tracking, Target Marketing, Customer profiling and Segmentation."}
+{"text": "Worked on model building using machine-learning algorithms like logistic regression, naive bayes, random forest, SVM, SVR."}
+{"text": "Worked on a POC project for NLP (Natural Language processing) with Review Data."}
+{"text": "Propensity to convert modelling using the visit sequence and conversion sequence mapping."}
+{"text": "Zeroth problem solution for Anonymous visitor, returning visitor and registered users"}
+{"text": "Perform text analytics for the CHAT application via review data machine learning technique in python using NLTK to improve better recommendations for the Reps when advising a customer."}
+{"text": "Used UCB & Thomson Sampling Intuition for Multi Bandit Testing and A/B testing to perform ad banner choices and product visual choices to support customer from different geographic locations and off different classes (Student, Employee, IRU\u2019s, CRUS\u2019s)."}
+{"text": "Market basket Analysis using APRIOR for purchase transactions data at store level to recommend customers with the different combinations of the products like better internet speed with the best DIRECT TV packages as a bundle. Custom Dashboards product category wise."}
+{"text": "Sequence mining for the conversion paths for different segments."}
+{"text": "Profiling based on the content access reports, event trigger reports and navigation reports. Profiles are then used for target marketing and segmentation."}
+{"text": "Custom Website strategy for segments."}
+{"text": "Site/Page optimization, Promotional campaigns assessment, Customer segmentation and assessing revenue against targets at regular intervals."}
+{"text": "Developed visualizations using sets, Parameters, Calculated Fields, Dynamic sorting, Filtering, Parameter driven analysis, gathered data from different data marts. "}
+{"text": "Reporting designs based on the business specific problems, Reporting implementation on Tableau to suggest business ways to improve their customer experience both in terms of sales and user interface. "}
+{"text": "Advanced charts, drill downs and intractability are incorporated in the reporting for different stakeholders and integrating the publishing of reports to the clients SharePoint infrastructure."}
+{"text": ""}
+{"text": ""}
+{"text": "State Farm, Bloomington, IL\t\t\t\t\t\t\t\t\t        "}
+{"text": "Role: Data Scientist"}
+{"text": "Jan\u2019 2012 to Aug\u2019 2015"}
+{"text": ""}
+{"text": ""}
+{"text": "Objective: Modelling Individual and Family Insurance rate based on Income, Demography and competitors strategy for Market campaigning."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Performed predictive analysis and developed models to provide insight to business on the rates for the insurance plans based on several parameters (Demography, Competitors market, different Customer classes). "}
+{"text": "Participated in all phases of data mining- data collection, data cleaning, developing models, validation, and visualisation. "}
+{"text": "Performed Gap analysis to detail the performance of the application against the business requirements. "}
+{"text": "Providing Ad hoc analysis for statistical modelling and analytic reports to answer specific business query."}
+{"text": "Captured Modelling requirements from Senior Stakeholders to Bench functional requirements for SAS/ R Python "}
+{"text": "Performed Data Manipulation and Aggregation from Various source including HDFS."}
+{"text": "Creating various B2B Predictive and descriptive analytics using R and Tableau to improve the experience of Small Business Insurance Plans."}
+{"text": "Used pandas, numpy, seaborn, scipy, matplotlib, scikit-learn in Python for developing various machine-learning algorithms. "}
+{"text": "Designed and tested Predictive Algorithms using Historical Data to predict better future prices and promotional campaigns."}
+{"text": "Utilized machine learning algorithms such as Decision Tree, linear regression, multivariate regression, Naive Bayes, Random Forests, K-means, & KNN to understand the sales of various insurance plans and also to get an insight of claims based on different conditions like demography, customer income, natural disasters."}
+{"text": "Parsing data, producing concise conclusions from raw data in a clean, well-structured and easily maintainable format. "}
+{"text": "Responsible for Big data initiatives and engagement including analysis, brainstorming, POC, and architecture. "}
+{"text": "Worked on different data formats from different vendor systems with data formats like JSON, XML."}
+{"text": "Worked on Map Reduce/Spark Python modules for machine learning & predictive analytics in Hadoop on AWS."}
+{"text": "Worked with (Tableau) Report Writers to Test, Validate Data Integrity of Reports "}
+{"text": ""}
+{"text": "Accenture Private limited, Preoria, IL\t\t\t\t         \t\t\t          "}
+{"text": "Role: Modelling Analyst"}
+{"text": "Aug\u2019 10 \u2013 Dec\u2019 2011"}
+{"text": ""}
+{"text": "Objective: Modelling Individual and Family Insurance rate based on Income and Demography for Market campaigning."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Prepared financials reports, analysis of month on month variance and provided reports to management on a weekly, monthly and quarterly basis"}
+{"text": "Scrutiny of General Ledger on monthly basis and do a financial analysis of the same. Provide the information in an appropriate manner to the management"}
+{"text": "Monitored costs &amp; trend analysis and providing updates on variances to respective stakeholders"}
+{"text": "Prepared annual budget and periodic forecast/outlook and Generating Insights"}
+{"text": "Partnered with Leadership to understand the requirement and provide reports, Analyze business units"}
+{"text": "Recommended solutions for areas of concern with financial data."}
+{"text": "Provided ad-hoc reports as per requirement from time to time"}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills"}
+{"text": ""}
+{"text": "Languages\tPython, R, Scala, PIG, MATLAB, Java, C, C++, SQL, UML"}
+{"text": "Data Warehousing Tools\tInformatica, SAP BW/HANA, Datastage"}
+{"text": "Testing Tools\tTDP, IPB Rational Clear Quest, Jira, Rally"}
+{"text": "Big Data Tools\tHadoop Stack, Apache Spark"}
+{"text": "Reporting & Visualization Tableau, Matplotlib, Seaborn, ggplot"}
+{"text": "Databases\t\tOracle, MySQL, NoSql, Couchbase, Cassandra"}
+{"text": "OS\t\t\tUnix, Linux, Windows, Mac"}
+{"text": ""}
+{"text": ""}
+{"text": "Education"}
+{"text": ""}
+{"text": "Masters in Computer Science Engineering at St Cloud State University."}
+{"text": "Bachelors in Computer Science Engineering at OU."}

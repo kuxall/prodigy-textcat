@@ -1,0 +1,269 @@
+{"text": "Name: agnes agnes"}
+{"text": "E-Mail: agnes.agnes@gmail.com"}
+{"text": "Address: Nanning, China"}
+{"text": "Github: https://github.com/agnes"}
+{"text": "LinkedIn: https://linkedin.com/agnes"}
+{"text": "Phone No. 952557978728"}
+{"text": ""}
+{"text": "SUMMARY:"}
+{"text": ""}
+{"text": "10+ years of Experience in System Administration, System Builds, Server Builds, Installs, Upgrades, Patches, Migration, Troubleshooting, Security, Backup, Disaster Recovery, Performance Monitoring and Fine-tuning on UNIX (Red Hat Linux, SUN Solaris & IBM AIX) Systems."}
+{"text": "Experience on Network Administration and Application (Production) Support experience on various OS platforms including Red Hat ENT Linux, SUSE Linux, Sun Solaris & IBM AIX."}
+{"text": "WebSphere MQ Integrator inclusive of installation, configuration and administration."}
+{"text": "Extreme knowledge of monitoring tools for the OS and MQ series objects"}
+{"text": "Experience in Designing & Creating Domains on M3000, M5000 servers created LDoms on T2000, T5220 and T5440 servers."}
+{"text": "Experience in with Virtualization technologies like installing, configuring, VMware vSphere. Creation, management, administration and maintenance of virtual servers and clients."}
+{"text": "Experience in Networking configuration & Security Configuration on ESX Host."}
+{"text": "Experience withx86 / x64Intel, HP, IBM & Dell hardware like rack-mounted servers, tower servers, desktop, laptop and other peripherals."}
+{"text": "Experience in Security Hardening in UNIX, Linux and Windows servers."}
+{"text": "Experience in using various network protocols like HTTP, UDP, POP, FTP, TCP/IP, and SMTP."}
+{"text": "Worked on EMC storage Technologies like SRDF/*/BCV."}
+{"text": "Sound knowledge on VERITAS Cluster Server, VERITAS File System and VERITAS Volume manager. "}
+{"text": "Extensively worked on Solaris 10 containers, Zones for Virtualization."}
+{"text": "Helped to establish standards, policies and procedures for all aspects of UNIX server environment (e.g., configuration, administration, documentation, etc.)"}
+{"text": "Installing, upgrading and configuring SUN Solaris 7, 8, 9 and 10 on Sun Servers Using Jumpstart Servers and Red hat 4.x, 5.x, 6.x on DELL DRAC, VMware using Kick Start and Interactive Installation "}
+{"text": "Involved in migration and consolidation of Unix/Linux Servers in Production data center."}
+{"text": "Planning, documenting, and supporting high availability, data replication, business persistence, failover, and failback using VERITAS Cluster Server 3.x/4.x, sun cluster server in SAN environment."}
+{"text": "Proficient DB administration (Oracle, DB2, Sybase and SQL) knowledge for maintaining, pruning, and performing required DB tasks."}
+{"text": "Experienced in working with Storage Area Network (SAN), TSM, EMC Clarion, Celera, EMC Symmetric DMX, Control Centre and VMware."}
+{"text": "Experience in designing and configuring open source management tools Puppet, Chef and CFEngine."}
+{"text": "Installed, configured and implemented the RAID 0/1/5 volume management using VERITAS Volume manager (3.5/4.x/5.0) and Solstice Disk suite (SVM) on Solaris. Also Experienced in VERITAS file system (3.x, 4.x, 5.0), VERITAS Net Backup (4.x, 5.x, 6.x) for disk management and mirroring tasks."}
+{"text": "Creating and maintaining user accounts, profiles, security, rights, disk space and process monitoring."}
+{"text": "Experience in installing, configuring, supporting and troubleshooting Unix/Linux Networking services and protocols like NIS, NIS+, LDAP, DNS, NFS, DHCP, NAS, FTP, SSH and SAMBA."}
+{"text": "Expert in Installing, configuring and maintaining apache/tomcat, samba & send mail, Web Sphere Application Servers."}
+{"text": "Expertise in implementation and maintenance of DHCP, NFS, NIS, DNS and Apache SMTP."}
+{"text": "Proficient in System Backup and Recovery from tapes using ufsdump, ufsrestore, tar and cpio."}
+{"text": "Well versed in configuring Volume Groups and Logical Volumes, extended logical volumes for the system growth needs using Logical Volume Manager (LVM)."}
+{"text": "Networking and Communication devices, Server Utilities, TCP/IP, FTP. Expert in Data center operations including hardware, software setup monitoring, troubleshooting on a 24 x 7 basis with BMC patrol, Team Quest, Unicenter & Smart trouble ticketing Systems/remedy tickets/kintana tickets etc."}
+{"text": "Installation of WebLogic, upgraded to service pack updates, installed BEA patches, configuring and creation new domain, start and stop WebLogic server."}
+{"text": "Experience in installation and configuration of WebLogic, WebSphere, Apache, JBoss, and I Planet, LDAP, and mail servers."}
+{"text": "Resolving system errors and crashes, huge file sizes, file system full errors and Installing Network Printers and rectifying the Printer problems over the network. "}
+{"text": "Excellent skills in analyzing, designing, implementing and system integration, Knowledge on Switches, Routers, & Firewalls."}
+{"text": "Independent problem solving and a good team player with strong interpersonal and communication skills."}
+{"text": "Experience supporting 24x7 production computing environments. Experience providing on-call and weekend support."}
+{"text": ""}
+{"text": ""}
+{"text": "Academic Qualifications:"}
+{"text": ""}
+{"text": " B.com (Rani Rudrama Devi degree and PG college, Osmania University Hyderabad, India -2004)"}
+{"text": ""}
+{"text": "Certifications:"}
+{"text": "Red Hat Certified System Administrator(RHCSA) for Linux 7 "}
+{"text": "Red Hat Certified Engineer (RHCE) for Linux 7"}
+{"text": "SUN Certified System Administrator for Solaris OS -10 Part1 (310-200)                  "}
+{"text": "SUN Certified System Administrator for Solaris OS-10 Part2 (310-202) "}
+{"text": "HP-UNIX Certified System Administrator"}
+{"text": "Sun Cluster Administration Certified for UNIX Solaris."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": " (Client - Deutsche bank)  March 2016 to Present"}
+{"text": "UNIX/Linux system Admin & Application (Production) Support Lead Role:     "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Plan, design, Implementation, Installation and configuration Operating System Installation and upgrade of Red Hat Linux 5, 6, Solaris a 10,11 & AIX 5.2/5.3 on & HP-Dl585, DELL DRAC and VMware."}
+{"text": "MQ Integrator inclusive of installation, configuration and administration."}
+{"text": "WebSphere inclusive of installation, configuration and administration."}
+{"text": "System software maintenance via updates to packages on Solaris 11"}
+{"text": "Updating a server by connecting to the Support Repository and Upgrade a server by connecting to the repository on Solaris 11."}
+{"text": "Hands on experience in standard network protocols, load balancing, and firewalls in a CISCO network environment."}
+{"text": "Configured Kick Start Server and build servers using kick start server and Jumpstart Solaris servers, custom building with packages, patches, and volume management."}
+{"text": "Solaris Live Upgrade from Solaris 8, 9 and old update from Solaris 10 newer update version across the whole environment."}
+{"text": "Administration of RHEL and Oracle Enterprise Linux 5.4, which includes installation, testing, tuning, upgrading and loading patches, troubleshooting server issues."}
+{"text": "Responsible for configuration of AIX servers, for maximum performance in a production environment, configuring systems with various raid, strip and mirroring configurations."}
+{"text": "Installation and configuration of management tool Puppet & Jenkins across RHEL environment."}
+{"text": "Developed the scripts to push patches, files and maintain configuration drift through the Puppet tool."}
+{"text": "Creating, cloning Linux Virtual Machines, templates using VMware Virtual Client 3.5 and migrating servers between ESX hosts."}
+{"text": "Installing Red-hat Linux using kick start and applying security policies for hardening the server based on the company\u2019s policies."}
+{"text": "Build Yum repository Server for Development team to upload packages"}
+{"text": "Planned, scheduled and Implemented OS patches on both Solaris & Linux boxes as a part of proactive maintenance and Secure Shell (SSH) implementation."}
+{"text": "Worked with team members to solve technical issues on Java Server faces, XML and ZFS JNI project"}
+{"text": "Package installations, patch and other server management using DSM and Opsware."}
+{"text": "WebSphere MQ Integrator inclusive of installation, configuration and administration."}
+{"text": "Setting group policies, adding new OUs, moving servers to the correct OU in AD."}
+{"text": "Managing systems routine backup, scheduling jobs like disabling and enabling cron jobs, enabling system logging, network logging of servers for maintenance, performance tuning, testing. "}
+{"text": "Troubleshooting tickets, which includes storage, network, and system related issues and logging RCA using BMC Remedy."}
+{"text": "Custom building Oracle RAC 11g, ORACLE ASM and preparing servers for database installation, which includes adding kernel parameters, software installation, permissions etc. "}
+{"text": "Formatted raw disks & partitions them using the fdisk utility. Created file system using newfs and mounted it. "}
+{"text": "Installed Web Logic created domains and managed servers on WebLogic ATG environment for Verizon Applications."}
+{"text": "Configuring DNS, DHCP, NIS, NFS in Red Hat Linux 5.0 & other Network Services, Linux kernel, memory upgrades and swaps area."}
+{"text": "Installed LDAP server and configured it to Centreon & Nagios monitoring tool."}
+{"text": "Administration/Configuration of Print Servers/Clients in the Network, planning, configuration and maintenance of connectivity for servers as well TCP/IP configuration."}
+{"text": "Network troubleshooting using \u2018ndd\u2019, 'traceroute', 'netstat', 'ifconfig' and 'snoop'."}
+{"text": "Experience in Developing KORN, BASH, PERL, and Python shell scripts to automate cron jobs and system maintenance.  Scheduled cron jobs for job automation."}
+{"text": "Production support of Apache, Apache HTTPD, JBoss, Tomcat including installation, configuration, management and troubleshooting."}
+{"text": "Utilized Linux Terminal Server for removing fat client management, save on administration Provide users with a more reliable & secure environment."}
+{"text": "Worked in configuring and setup connectivity between web servers, database servers and directory servers as a process server administrator. "}
+{"text": "Set up user and group login ID's, printing parameters, network configuration, password, resolving permissions issues, and user group quota."}
+{"text": "Gathering requirements from customers and business partners and design, implement and provide solutions in building the environment. "}
+{"text": "Attend team meetings, change control meetings to update installation progress and upcoming changes in environment."}
+{"text": "Supported 24/7-production support for mission critical application and servers."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: Red hat Linux 5, 6, SUN Ultra Sparc 5/10 Software: Solaris 7, 8, 9 &10,11 VERITAS NetBackup 5.1HP-DL585,AIX 5.2/5.3, Dell DRAC, Red hat Cluster, VERITAS Cluster Server, Enterprise Security Manager, Opsware, WebLogic 10, JBoss, Oracle 10g/11g RAC."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "TCS (Client \u2013 Foxtel)\t\t\t\t\t\t           March 2015 to FEB 2016                                                                                                                                                                                        LINUX/UNIX system Administrator (Production Support)       "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installation and Administration of Red Hat Enterprise Linux 3, 4, 5 SLSE10 using Kick start\u00a0including performance monitoring, scaling and capacity planning and hardware maintenance of Sun fire servers."}
+{"text": "Installation and Configuration of Red Hat Satellite on Dell PowerEdge 2650. "}
+{"text": "Installation and configuration of CYGWIN on Windows in order to access UNIX system from Windows Operating Systems. "}
+{"text": "Perform regular update to the latest patches for SUN Solaris and Linux machines."}
+{"text": "User and group administration for all the UNIX servers (IBM AIX, HP-UX, RHEL) available in the lab."}
+{"text": "Configuration of Naming Services like DNS, DHCP, NIS, LDAP Novell eDirectory. Implementing Master and Slave servers for NIS, DNS. "}
+{"text": "Expert in Installing, configuring and maintaining apache/tomcat, samba."}
+{"text": "Coordinate with web admin team in installation of BEA WebLogic Server 8.1."}
+{"text": "Creating, Mounting and Troubleshooting NFS File systems on different OS platforms. "}
+{"text": "WebSphere MQ Integrator inclusive of installation, Upgrades configuration and administration."}
+{"text": "Troubleshooting and fixing day-to-day problems related to the servers."}
+{"text": "Upgraded Solaris 9 to Solaris 10 and worked with Solaris zones/containers, Used Solaris Cluster to deploy two-node cluster."}
+{"text": "Building Sun Solaris Servers from scratch with Jumpstart and Flash Archives for upcoming projects. "}
+{"text": "Coordinating with Networking team for the Switches information, Routers and have good exposure on standard network protocols, load balancing, and firewalls in a CISCO network environment."}
+{"text": "Hands on Migration Red Hat Enterprise Linux 4.0 to RHEL 5.0."}
+{"text": "Responsible for Oracle database security and patching, Oracle database capacity analysis and planning."}
+{"text": "Providing 24 x 7 supports to various application level server level & network level Monitoring & troubleshooting of any data center outages."}
+{"text": "Hands on VMware for installing Linux and SuSe Linux and windows on virtual machines. "}
+{"text": "Managing disk storage with VERITAS Volume Manager 3.5/4.1 and Solaris Volume Manager with VERITAS File System (VxFS)."}
+{"text": "Created and Managed Meta devices using Solstice Disk suite and Volume Manager."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: Solaris 8, 9 & 10, HP-UX 11.11, 11.23, Red Hat 5x, E10K, E25K domain servers, Sun Fire V440 v210, v220, v240, Sun Blade 8000 servers, WebSphere 6.1, VCS, VVM, Tivoli, Remedy (Ticket Monitoring Tool)"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "IBM (Clients \u2013 Hartford, Telstra)\t\t\t\t          SEP 2009 TO FEB 2015 "}
+{"text": "LINUX/UNIX system Administrator (Production Support)       "}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installation and Administration and upgrades of Red Hat Enterprise Linux 3, 4, 5 SLSE10 using Kick start\u00a0including performance monitoring, scaling and capacity planning and hardware maintenance of Sun fire servers."}
+{"text": "Installation and Configuration of Red Hat Satellite on Dell PowerEdge 2650. "}
+{"text": "Installation and configuration of CYGWIN on Windows in order to access UNIX system from Windows Operating Systems. "}
+{"text": "Perform regular update to the latest patches for SUN Solaris and Linux machines."}
+{"text": "User and group administration for all the UNIX servers (IBM AIX, HP-UX, RHEL) available in the lab."}
+{"text": "Configuration of Naming Services like DNS, DHCP, NIS, LDAP Novell eDirectory. Implementing Master and Slave servers for NIS, DNS. "}
+{"text": "Expert in Installing, configuring and maintaining apache/tomcat, samba."}
+{"text": "Coordinate with web admin team in installation of BEA WebLogic Server 8.1."}
+{"text": "Creating, Mounting and Troubleshooting NFS File systems on different OS platforms. "}
+{"text": "Troubleshooting and fixing day-to-day problems related to the servers."}
+{"text": "Upgraded Solaris 9 to Solaris 10 and worked with Solaris zones/containers, Used Solaris Cluster to deploy two-node cluster."}
+{"text": "Building Sun Solaris Servers from scratch with Jumpstart and Flash Archives for upcoming projects. "}
+{"text": "Hands on Migration Red Hat Enterprise Linux 4.0 to RHEL 5.0."}
+{"text": "Responsible for Oracle database security and patching, Oracle database capacity analysis and planning."}
+{"text": "Providing 24 x 7 supports to various application level server level & network level Monitoring & troubleshooting of any data center outages."}
+{"text": "Hands on VMware for installing Linux and SuSe Linux and windows on virtual machines. "}
+{"text": "Managing disk storage with VERITAS Volume Manager 3.5/4.1 and Solaris Volume Manager with VERITAS File System (VxFS)."}
+{"text": "Created and Managed Meta devices using Solstice Disk suite and Volume Manager."}
+{"text": ""}
+{"text": "Environment: Solaris 8, 9 & 10 , HP-UX 11.11, 11.23, Red Hat 5x, E10K, E25K domain servers, Sun Fire V440 v210, v220, v240, Sun Blade 8000 servers, WebSphere 6.1, VCS, VVM, Tivoli, Remedy (Ticket Monitoring Tool)"}
+{"text": ""}
+{"text": "HCL (Client \u2013 GEGIS)\t\t\t\t\t                               SEP 2008 TO JUNE 2009"}
+{"text": "UNIX (Red hat/Solaris) System Administrator (Production Support)\t"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Major part of support is dedicated to Production Application Environment."}
+{"text": "Analysis, Troubleshooting and Problem Resolution."}
+{"text": "Provided 24X7 support for large number Production, Development and Test systems."}
+{"text": "Involved in Reviews and Meetings & Teleconferences with clients."}
+{"text": "Data Centers support contains 500 + servers."}
+{"text": "Created, Modified and deleted user accounts using REMEDY AR system tool. "}
+{"text": "Supporting various applications on UNIX environment."}
+{"text": "Managing Task plans and uploading into database"}
+{"text": "Software Deployments on request basis for production environment."}
+{"text": "Building Task Plans for all S/W deployments and review with Application teams."}
+{"text": "Involved in applying patches and Bundles using Tivoli. "}
+{"text": "Backup Monitoring Using Control-M Tool."}
+{"text": "Coordination with offshore team to implement any changes in production Environment."}
+{"text": "Working with H/W vendors to fix all H/W issues and replacement (Vendor Calls Mgt)."}
+{"text": "Installation of SSH and configuration of keys bases authentication."}
+{"text": "Install and configure Jumpstart servers"}
+{"text": "Integrating UNIX Directories and file systems using packages like SAMBA. Setting up printers on UNIX / NT machines to work seamlessly across platforms."}
+{"text": "Assisting Development team to provide the information and troubleshooting."}
+{"text": "Working with Development team to troubleshoot Web logic issues."}
+{"text": "Troubleshooting the problems related to Apache web server."}
+{"text": "Working closely with Vendors on Hardware Problems, software fixes."}
+{"text": "Installed and Configured EMC SAN Power path."}
+{"text": "Expertise in use VMware virtual infrastructure. "}
+{"text": "Co-coordinating with HP-Unix engineers to resolve high priority issues."}
+{"text": "Setup, maintain and management of user accounts and groups according to the security needs and adding the packages and patches when needed."}
+{"text": "Initiating Backups on daily basis and monitoring the scheduled Jobs backups."}
+{"text": "Clarify Ticket based problem management."}
+{"text": ""}
+{"text": "Environment: Red hat 5.3,5.5, Solaris 7, 8, 9,10, , HP-UX 11i, Windows Server 2000 and 2003, Sun Enterprise 10000, 15000, Apache Web Server 1.3.x, 2.x  Oracle 8i,9i2, Perl, KSH, Sun v480, v880, E220, IBM p630, p550,power 4 Dell POWEREDGE 700,2650,6650."}
+{"text": "HCL (Client - JP Morgan Chase)\t\t\t\t\t              JAN 2008 TO AUG 2008"}
+{"text": "UNIX (Red hat/Solaris) System Administrator (Production Support)"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Major part of support is dedicated to Production Application Environment."}
+{"text": "Analysis, Troubleshooting and Problem Resolution."}
+{"text": "Provided 24X7 support for large number Production, Development and Test systems."}
+{"text": "Involved in Reviews and Meetings & Teleconferences with clients."}
+{"text": "Data Centers support contains 500 + servers."}
+{"text": "Created, Modified and deleted user accounts using REMEDY AR system tool. "}
+{"text": "Supporting various applications on UNIX environment."}
+{"text": "Managing Task plans and uploading into database"}
+{"text": "Software Deployments on request basis for production environment."}
+{"text": "Building Task Plans for all S/W deployments and review with Application teams."}
+{"text": "Involved in applying patches and Bundles using Tivoli. "}
+{"text": "Backup Monitoring Using Control-M Tool."}
+{"text": "Coordination with offshore team to implement any changes in production Environment."}
+{"text": "Working with H/W vendors to fix all H/W issues and replacement (Vendor Calls Mgt)."}
+{"text": "Installation of SSH and configuration of keys bases authentication."}
+{"text": "Install and configure Jumpstart servers"}
+{"text": "Integrating UNIX Directories and file systems using packages like SAMBA. Setting up printers on UNIX / NT machines to work seamlessly across platforms."}
+{"text": "Assisting Development team to provide the information and troubleshooting."}
+{"text": "Working with Development team to troubleshoot Web logic issues."}
+{"text": "Troubleshooting the problems related to Apache web server."}
+{"text": "Working closely with Vendors on Hardware Problems, software fixes."}
+{"text": "Installed and Configured EMC SAN Power path."}
+{"text": "Expertise in use VMware virtual infrastructure. "}
+{"text": "Co-coordinating with HP-Unix engineers to resolve high priority issues."}
+{"text": "Setup, maintain and management of user accounts and groups according to the security needs and adding the packages and patches when needed."}
+{"text": "Initiating Backups on daily basis and monitoring the scheduled Jobs backups."}
+{"text": "Clarify Ticket based problem management."}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: Red hat 5.3,5.5, Solaris 7, 8, 9,10, , HP-UX 11i, Windows Server 2000 and 2003, Sun Enterprise 10000, 15000, Apache Web Server 1.3.x, 2.x  Oracle 8i,9i2, Perl, KSH, Sun v480, v880, E220, IBM p630, p550,power 4 Dell POWEREDGE 700,2650,6650."}
+{"text": ""}
+{"text": ""}
+{"text": "WILSHIRE SOFTWARE TECHNOLOGIES \t\t\t\t       JULY 2006 TO OCT 2007"}
+{"text": "System Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Responsible for day-to-day system administration task on SUN SOLARIS 9, RHEL 4/5 and Windows 2X Servers."}
+{"text": "Build the SUN Servers i.e. Sun E4500, Fire V210, Fire V120, Blade 2000, Netra T1 for Solaris operating system and configured the A1000 and D1000 Storage."}
+{"text": "Planning the installation of Solaris 10 on Sun Blade, SUN ultra machines."}
+{"text": "Setting up and configuring Install Server, Configuration Server and Boot Server for Kick Start process & performed Kick start to install OS on Several workstations. "}
+{"text": "Performed setting up Configuration Server and Boot Server for Jumpstart process and using Tape-Recovery for file system recovery."}
+{"text": "Deployed Solaris 8/9 on an Ultra 10 system for NIS, DNS, and DHCP. "}
+{"text": "Provided Solaris administration on Sun Ultra Sparc Enterprise servers, including VERITAS Cluster Server (VCS) and VERITAS Volume Manager."}
+{"text": "Install and configure VERITAS NetBackup versions 5x and 6x client on all server installation and server builds. VERITAS Cluster Server and VERITAS NetBackup maintenance."}
+{"text": "Managing Solaris systems running VERITAS Cluster 3.1 and Set Up maintenance of DNS."}
+{"text": "NFS Management \u2013 Setting up of NFS Server and Environment."}
+{"text": "Installation of Tomcat with JBoss Application & done load balancing with monitoring tools like BMC Patrol and Site scope."}
+{"text": "Efficiently managed Disk and File system through VERITAS Volume Manager (VxVM), Logical Volume Manager (LVM)."}
+{"text": "Multiple installations, configurations, and testing using VMware vCenter Site Recovery Manager."}
+{"text": "Prepared test environments and managed configurations for multiple servers and databases in VMware."}
+{"text": "Administration and configuration of qmail mail server, PDC and FTP Server."}
+{"text": "Set up Quotas for the user accounts & limiting the disk space usage."}
+{"text": "Administration/Configuration of Linux/windows print server/client in network."}
+{"text": "Worked on system performance and tuning: mpstat- for multiprocessor usage, vmstat- for system activity and hardware analysis information. "}
+{"text": "Configured IIS on Windows 2000 and 2003 Server for Intranet and Internet hosting."}
+{"text": "Troubleshooting email helpdesk calls on Qmail mail Server.           "}
+{"text": "Monitoring connectivity off all LAN attached to the divisional named server, including all TCP/IP, Switches, NIS/NIS+, Telnet, FTP connection to over 200 plus workstation throughout the DIVISION using various gateways and Routers."}
+{"text": ""}
+{"text": "Environment: Solaris 9/10, Windows 2000, RHEL 4/5, SUN Enterprise Servers SUN FIRE E4500 and E3500, SUN SPARC / VERITAS Volume Manager 4.x with DLT, Shell scripting, VMware, SENDMAIL Protocol, QMAIL, Tomcat with JBoss, Unix/Windows Workstation."}
+{"text": ""}

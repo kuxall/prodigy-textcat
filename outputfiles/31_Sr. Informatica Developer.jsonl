@@ -1,0 +1,215 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Baoding, China"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 671059857779"}
+{"text": ""}
+{"text": "SUMMARY:"}
+{"text": "7+ years of total experience in Information Technology including Data Warehouse/Data Mart development using ETL/Informatica Power Center. "}
+{"text": "Worked on various domains including auto and health Insurance, Finance, Retail. "}
+{"text": "Good exposure in overall SDLC including requirement gathering, development, testing, debugging, deployment, documentation and production support. "}
+{"text": "Experience with ETL process using Informatica Power Center 9.x/8.x Power Exchange, B2B Data Transformation, Designer (Source Analyzer, Mapping designer, Mapplet Designer, Transformation Developer), Repository Manager, Repository Server, and Workflow Manager & Workflow Monitor. "}
+{"text": "Experience in integration of various data sources with Multiple Relational Databases like Oracle, Netezza, DB2 UDB, Teradata, MS SQL Server and Worked on integrating data from XML files, Mainframes files, flat files like fixed width and delimited. "}
+{"text": "Experience in Object oriented programing using JAVA. "}
+{"text": "Experience in Teradata for developing ETL and ELT architectures. "}
+{"text": "Experience in the successful implementation of ETL solution between an OLTP and OLAP database in support of Decision Support Systems/Business Intelligence with expertise in all phases of SDLC. "}
+{"text": "Excellent expertise with different types of data load strategies and scenarios like Historical dimensions, Surrogate keys, Summary facts etc. "}
+{"text": "Practical understanding of the Data modeling (Dimensional & Relational) concepts like Star-Schema Modeling, Snowflake Schema Modeling, Fact and Dimension tables. "}
+{"text": "Good understanding of views, Synonyms, Indexes, Joins and Sub-Queries. Extensively used Cursors and Ref Cursors. "}
+{"text": "Worked with Informatica Data Quality 9.1 (IDQ) toolkit, Analysis, data cleansing, data matching, data conversion, exception handling, and reporting and monitoring capabilities of IDQ 9.1. "}
+{"text": "Extensively created mapplets, common functions, reusable transformations, look-ups for better usability. "}
+{"text": "Experience in identifying performance bottlenecks and tuning of Sources, Targets, Mappings, Transformations and Sessions for better performance and efficiency. "}
+{"text": "Extensive experience in Tuning and scaling the procedures for better performance by running explain plan and using different approaches like hint and bulk load. "}
+{"text": "Used Power Exchange to integrate the sources like Mainframe MVS, VSAM, GDG, DB2 and XML files. "}
+{"text": "Experienced with Teradata utilities Fast Load, Multi Load, BTEQ scripting, Fast Export, SQL Assistant. "}
+{"text": "Extensively used SQL, T-SQL, PL/SQL in writing Stored Procedures, Functions, Packages and Triggers. "}
+{"text": "Good experience in Data Cleansing, Data profiling and Data Analysis. "}
+{"text": "Experience in using Exception Handling strategies to capture errors and referential integrity constraints of records during loading processes to notify the exception records to the source team. "}
+{"text": "Experience in UNIX shell scripting, Scheduling tool Control M, and Autosys. "}
+{"text": "Delivered all the projects/assignments within specified timelines. "}
+{"text": "Experience in loading data into CRM tools like Microsoft CRM and Sales force using Informatica. "}
+{"text": "Effectively communicate with business, project manager and team members. "}
+{"text": "Experience in Administration tasks including Importing/Exporting mappings, copying folders over the DEV/QA/PROD environments, managing Users, Groups, associated privileges and performing backups of the repository. "}
+{"text": "Expertise in doing Unit Testing, Integration Testing, System Testing and Data Validation for Developed Informatica Mappings. "}
+{"text": "Strong ability to work within a demanding and aggressive project schedules and environments. "}
+{"text": "Excellent analytical, problem solving skills and a motivated team player with excellent inter-personal skills."}
+{"text": ""}
+{"text": "EDUCATION:"}
+{"text": "Bachelor of Technology - India."}
+{"text": ""}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE:"}
+{"text": ""}
+{"text": "T-Mobile - Bellevue, WA                                                                                                           Jan 2016 to Present"}
+{"text": "Sr. Informatica\u00a0Developer"}
+{"text": ""}
+{"text": "Description: T-Mobile USA is a national provider of wireless voice, messaging and data services capable of reaching over 293 million Americans where they live, work and play. The project ventures to enhance the performance and controls of the accounting processes associated with the pre-paid business by enhancing or replacing some of the underlying systems, such as PRS (Prepaid Reporting System), currently used to create the accounting entries.\u00a0This project is focused exclusively on improving the IT ecosystem within the prepaid business, which includes the subscriber types Prepaid, Flex Pay and Wal-Mart Family Mobile. Prepaid subscribers are in scope as well as subscribers that are part of a hybrid account in Samson, and that in/out of scope account type/sub type refers to Postpaid (Samson) accounts only.\u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in the complete Life cycle of the Project."}
+{"text": "Involved in gathering and analyzing the requirements and preparing business rules."}
+{"text": "Designed and developed complex mappings by using Lookup, Expression, Update, Sequence generator, Aggregator, Router, Stored Procedure, etc., transformations to implement complex logics while coding and mapping.\u00a0"}
+{"text": "Worked with Informatica power center Designer, Workflow Manager, Workflow Monitor and Repository Manager.\u00a0"}
+{"text": "Developed and maintained ETL (Extract, Transformation and Loading) mappings to extract the data from multiple source systems like Oracle, SQL server and Flat files and loaded into Oracle.\u00a0"}
+{"text": "Developed Informatica Workflows and sessions associated with the mappings using Workflow Manager.\u00a0"}
+{"text": "Involved in creating new table structures and modifying existing tables and fit into the existing Data Model.\u00a0"}
+{"text": "Extracted data from different databases like Oracle and external source systems like flat files using ETL tool.\u00a0"}
+{"text": "Involved in debugging Informatica mappings, testing of Stored Procedures and Functions, Performance and Unit testing of Informatica Sessions, Batches and Target Data.\u00a0"}
+{"text": "Developed Mapplets, Reusable Transformations, Source and Target definitions, mappings using Informatica 9.1.0.\u00a0"}
+{"text": "Generated queries using SQL to check for consistency of the data in the tables and to update the tables as per the Business requirements.\u00a0"}
+{"text": "Involved in Performance Tuning of mappings in Informatica.\u00a0"}
+{"text": "Good understanding of source to target data mapping and Business rules associated with the ETL processes.\u00a0"}
+{"text": "\u00a0\nEnvironment: Informatica 9.1, Oracle 11g, SQL server 2008 R2, SQL, T-SQL, PL/SQL, Toad 10.6, SQL Loader, Tidal Enterprise Scheduler 5.3.1, Accurev, Unix, Flat files."}
+{"text": ""}
+{"text": ""}
+{"text": "Texas Medicaid and Health Care Partnership , Austin, TX                                              Jan 2015 to Dec 2015"}
+{"text": "Sr. ETL Informatica Developer"}
+{"text": ""}
+{"text": "Description: Texas Medicaid and Health Care Partnership is an innovative leader in the health and well-being industry, Texas Medicaid and Health Care is dedicated to making business decisions that reflect its commitment to improving health and well-being of its members, associates, the communities. During this project I worked closely with the ETL team, customers, business analysts and other colleagues in the IT department to analyze operational data sources, determine data availability, define the data warehouse schema and develop ETL processes for the creation, maintenance, administration and overall support of the data warehouse. "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Worked with Business analysts and the DBA for requirements gathering, business analysis and designing of the data marts. "}
+{"text": "Preparation of technical specification document for the development of Informatica Extraction, Transformation and Loading (ETL) mappings to load data into various tables in Data Marts and defining ETL standards "}
+{"text": "Estimates and planning of development work using Agile Software Development. "}
+{"text": "Good experience on Agile Methodology and the scrum process. "}
+{"text": "Ensured performance metrics are met and tracked "}
+{"text": "Processes to generate Daily, Weekly and Monthly data extracts were developed and the data files were sent across to the downstream applications. "}
+{"text": "Involved in Data modeling review sessions - E/R diagrams, normalization and de-normalization as per business requirements. "}
+{"text": "Comfortable with both technical and functional applications of RDBMS, Data Mapping, Data management and Data transportation. "}
+{"text": "Experience in Performance tuning of Source SQL queries and Teradata Queries. "}
+{"text": "Designed and Developed ETL (Extract, Transformation & Load) strategy to populate the Data Warehouse from the various source systems such as Oracle, Oracle GG, Flat files, XML, My Sql. "}
+{"text": "Sourced transaction data being staged by Golden Gate tool CDC (Change Data Capture) through Informatica Power center and loaded into the target "}
+{"text": "Worked on slowly changing dimension Type1 and Type2. "}
+{"text": "Used the Teradata external loading utilities like MultiLoad, TPUMP, Fast Load and Fast Export to extract from and load effectively into Teradata database "}
+{"text": "Worked on Web Service Call through Informatica by generating and testing the incoming XML using external Freeware called SOAP UI. "}
+{"text": "Configured tasks and workflows using workflow manager. "}
+{"text": "Involved in the creation of Oracle SQL and PL/SQL stored procedures and functions. "}
+{"text": "Involved in fixing invalid Mappings, testing of Stored Procedures and Functions, Unit and Integration Testing of Informatica Sessions, Batches and the Target Data. "}
+{"text": "Tuned the Sessions for better performance by eliminating various performance bottlenecks. "}
+{"text": "Used Session Parameters to increase the efficiency of the sessions in the Workflow Manager. "}
+{"text": "Writing UNIX & Perl script to load data from sources to staging tables, to create indirect file list, generate parameter files for respective paths. "}
+{"text": "Used SVN for version control and Autosys for Job scheduling. "}
+{"text": "Applied Agile methodology throughout the development life cycle of application. "}
+{"text": "Environment: Informatica Power Center 9.6.1/9.5.1, Oracle 11g, Oracle Golden Gate, CDC, PLSQL, Teradata 14/13, Teradata Tools and Utilities, Autosys, My SQL, UNIX, Putty, Perl, MS Visio."}
+{"text": ""}
+{"text": ""}
+{"text": "United Health Group - Trenton, NJ                                                                                    June 2014 to Dec 2014"}
+{"text": "Informatica Developer"}
+{"text": ""}
+{"text": "Description: UHG Group provides consumers directed healthcare products, including medical, pharmacy, dental, behavioral health, group life, long-term care and disability plans, and medical management capabilities."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Designing the source to target mappings that contain the Business rules and data cleansing during the extract, transform and load process. "}
+{"text": "Responsible for converting Functional Requirements into Technical Specifications and production support. "}
+{"text": "Worked on Designer tools like Source Analyzer, Warehouse Designer, Transformation Consultant, Mapplet Designer and Mapping Designer. "}
+{"text": "Worked with Informatica Data Quality (IDQ) toolkit, Analysis, data cleansing, data matching, data conversion, exception handling, and reporting and monitoring capabilities of IDQ. "}
+{"text": "Utilized IDQ for data profiling, standardization and structuring the data. "}
+{"text": "Tuned the informatica mappings for optimal load performance. "}
+{"text": "Used Teradata utilities fast load, multi load, t pump to load the data. "}
+{"text": "Good knowledge on Teradata Manager, TDWM, PMON, DBQL, SQL assistant and BTEQ. "}
+{"text": "Developed Oracle views to identify incremental changes for full extract data sources. "}
+{"text": "Developed the automated and scheduled load processes using Tidal scheduler. Involved in migration of mappings and sessions from development repository to production repository. "}
+{"text": "Responsible for Unit testing and Integration testing of mappings and workflows. "}
+{"text": "Performed data integration from Informatica cloud into SAP & Salesforce cloud. "}
+{"text": "Proficient in developing PL/SQL Stored Procedures, Packages and triggers to implement Business logic. "}
+{"text": "Analysed, documented and maintained Test Results and Test Logs. "}
+{"text": "Exposure on partitioning for loading large volumes of data. "}
+{"text": "Scheduled Informatica workflows using Informatica Scheduler to run at regular intervals. "}
+{"text": "Developed Reports / Dashboards with different Analytics Views (Drill-Down, Pivot Table, Chart, Column Selector, and Tabular with global and local Filters) using OBIEE. "}
+{"text": "Worked on Shell Scripts in order to convert incoming Excel Flat files from xls to csv, which helps importing into Informatica. "}
+{"text": "Wrote Shell Scripting as a part of Ftp\u2019ing the Files to the mainframe region. "}
+{"text": "Actively participating in agile process development style like attending scrum meeting (standup meetings). "}
+{"text": ""}
+{"text": ""}
+{"text": "Environment: Informatica Power Center 9.5/9.1 (Repository Manager, Designer, Workflow Manager, Workflow Monitor), Informatica IDQ, SQL Query Analyzer 8.0, Oracle 10g/11g, SQL Developer, Data Loader, OBIEE, BI Publisher, Erwin, Unix Shell Scripting, putty, FACETS and Business Objects."}
+{"text": ""}
+{"text": ""}
+{"text": "WALMART \u2013 Bentonville, AR                                                                                               Jan 2013 to May 2014"}
+{"text": "ETL Developer"}
+{"text": ""}
+{"text": "Description: Wal-Mart is an American multinational retail corporation that runs chains of discount department stores and warehouse stores, and is the largest retailer in the world.\u00a0"}
+{"text": "The purpose of this project is to deal with analysis reports on Market Trends against its competitors and provided the Space Optimization procedures for Walmart stores across US by building effective tools."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Involved in creating Detail Design Documentation to describe program development, logic, coding, testing, changes and corrections. "}
+{"text": "Extensively involved in writing ETL specifications for development and conversion projects. "}
+{"text": "Involved in requirement definition and analysis in support of Data Warehouse. "}
+{"text": "Designed complex ETL mappings and Oracle SQL scripts. "}
+{"text": "Developed Informatica mappings, transformations, reusable objects by using mapping designer, and transformation developer and mapplet designer in Informatica Power Center. "}
+{"text": "Created Reusable Transformations and Mapplets and used them in mappings. "}
+{"text": "Used Informatica Power Center for extraction, loading and transformation (ETL) of data in the data warehouse. "}
+{"text": "Used Informatica Power Center Workflow manager to create sessions, batches to run with the logic embedded in the mappings. "}
+{"text": "Created complex mappings in Power Center Designer using different types of transformations like Source Qualifier, Expression, Filter, Aggregator, Sequence Generator, Router, Update Strategy, Sorter, Normalizer, Lookup, Joiner and Stored procedure transformations. "}
+{"text": "Defined and worked with mapping parameters and variables. "}
+{"text": "Designed and developed transformation rules (business logic) to generate consolidated (fact/summary) data using Informatica ETL tool. "}
+{"text": "Checked Sessions and error logs to troubleshoot problems and also used debugger for complex problems. "}
+{"text": "Created various UNIX Shell Scripts for scheduling various data cleansing scripts and loading process. Maintained the batch processes using Unix Shell Scripts. "}
+{"text": "Designed and Deployed UNIX Shell Scripts. "}
+{"text": "Experienced in performance tuning in Informatica. "}
+{"text": "Coordinated with testing team to make testing team understand business and transformation rules being used throughout ETL process. "}
+{"text": "Production & On Call Support. "}
+{"text": "Involved in collection layer development. "}
+{"text": "Environment: Informatica 9.5.1/9.1.1, Flat files, Oracle, DB2, Sybase, SQL, PL/SQL, UNIX, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": "Bank of America - Charlotte, NC                                                                                          Aug 2011 to Dec 2012"}
+{"text": "ETL Developer"}
+{"text": ""}
+{"text": "Description: Bank of America is one of the largest financial organizations focusing on consumers and commercial clients. This Data mart is projected to assist Sales and Marketing Department to analyze their sales and also categorize their customers based on significant portfolio services including checking accounts, savings accounts, personal loans and geographical area. Using different ad-hoc analysis, Warehouse is supposed to assist in defining strategy for each customer category. "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Involved in system study, analysis of the requirements and designing of the complete system. "}
+{"text": "Created mapping documents with the required Transformation logic, Sources and Targets for Facts and Dimensions. "}
+{"text": "Responsible for verification of functional specifications and review of deliverables. "}
+{"text": "Designed and Created data cleansing, validation and loading scripts for warehouse using Informatica Power Center 9.1.1/8.6.1. "}
+{"text": "Extensively used Informatica Client Tools Source Analyzer, Warehouse Designer, Transformation Developer, Mapping Designer, Mapplet Designer, and Informatica Repository. "}
+{"text": "Created reusable transformations and mapplets to use in multiple mappings. "}
+{"text": "Used debugger to test the data flow and fix the mappings. "}
+{"text": "Created and monitored workflows and tasks using Informatica Power Center Work flow Manager. "}
+{"text": "Analyzed newly converted data to establish a baseline measurement for data quality in data warehouse. "}
+{"text": "Logical and physical Sybase database design in Erwin for data warehouse used by a securities lending application. "}
+{"text": "Created repository, Groups, Users assigned privileges using repository manager. "}
+{"text": "Developed mappings/Transformation/mapplets by using mapping designer, transformation developer and Mapplet designer in Informatica Power Center. "}
+{"text": "Worked with XML sources to get the data to Oracle to suite our environment. "}
+{"text": "Setting up batches and sessions to schedule the loads at required frequency using Power Center server manager. "}
+{"text": "Involved in Version control of the jobs to keep track of the changes in the Development Environment. "}
+{"text": "Developed Shell scripts to setup runtime environment, and to run stored procedures, packages to populate the data in staging tables. "}
+{"text": "Documented the purpose of mapping so as to facilitate the personnel to understand the process and incorporate the changes as and when necessary. "}
+{"text": "Developed Unit test cases for all the jobs. "}
+{"text": "Provided assistance during user testing. "}
+{"text": "Environment: Informatica Power Center 9.1.1/8.6, Oracle 9i/8i, SQL Server 2005, Sybase, PL/SQL, SQL Loader, Unix Shell Script, Windows."}
+{"text": ""}
+{"text": ""}
+{"text": "Oakwood Healthcare System - Bangalore, India                                                              Apr 2009 to July 2011"}
+{"text": "ETL Developer"}
+{"text": ""}
+{"text": "Description: The Oakwood Healthcare System serves 35 different communities in southeastern Michigan with over 40 primary and secondary care locations. Responsibilities include working with the clinical analytics team on the measurement of provider performance, quality improvement initiatives, and various ad-hoc requests. The reports are created, distributed and published using various Cognos BI tools like ReportNet, Impromptu, Power Play, IWR, and UpFront to the end-users. The application had OLAP features like Drill Down analysis, Multidimensional analysis, Prompts, Exception Highlighting and User Privileges. "}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Used Informatica Power Center for (ETL) extraction, transformation and loading data from heterogeneous source systems into target database. "}
+{"text": "Created mappings using Designer and extracted data from various sources, transformed data according to the requirement. "}
+{"text": "Involved in extracting the data from the Flat Files and Relational databases into staging area. "}
+{"text": "Mappings, Sessions, Workflows from Development to Test and then to UAT environment. "}
+{"text": "Developed Informatica Mappings and Reusable Transformations to facilitate timely Loading of Data of a star schema. "}
+{"text": "Developed the Informatica Mappings by usage of Aggregator, SQL overrides usage in Lookups, source filter usage in Source qualifiers, and data flow management into multiple targets using Router. "}
+{"text": "Created Sessions and extracted data from various sources, transformed data according to the requirement and loading into data warehouse. "}
+{"text": "Used various transformations like Filter, Expression, Sequence Generator, Update Strategy, Joiner, Router and Aggregator to create robust mappings in the Informatica Power Center Designer. "}
+{"text": "Imported various heterogeneous files using Informatica Power Center 8.x Source Analyzer. "}
+{"text": "Developed several reusable transformations and mapplets that were used in other mappings. "}
+{"text": "Prepared Technical Design documents and Test cases. "}
+{"text": "Involved in Unit Testing and Resolution of various Bottlenecks came across. "}
+{"text": "Implemented various Performance Tuning techniques. "}
+{"text": "Used Teradata as a source system "}
+{"text": ""}
+{"text": "Environment: Informatica 8.1.1 Power Center, Teradata, Oracle 11g, Windows NT."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}

@@ -1,0 +1,177 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: S\u00e3o Paulo, Brazil"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 276155230535"}
+{"text": "Professional Summary:"}
+{"text": "Proficient 8 years of Extensive experience with the Microsoft SQL Server in Production, Development and Testing in Clustered and Stand-alone Server Environments."}
+{"text": "Experience in installing MS SQL Server 2005/ 2008/ 2008R2/2012/2014\\2016 and updating with hot fix and service packs."}
+{"text": "Have immense experience in provisioning user access and wrote many stored procedures related to access provisioning. "}
+{"text": "Extensive experience in implementing high availability and Disaster recovery concepts like Log Shipping, Mirroring and Replication (Snap Shot and Transactional)."}
+{"text": "Administered multiple SQL Instances on Cluster environment for Server Consolidation projects built on SAN using RAID levels."}
+{"text": "Implemented (SCOM) System Center Operations Manager to monitor all aspects of SQL Server including."}
+{"text": "Implementing the single Sign on (SSO) enterprise level for internal users. "}
+{"text": "Experience in SQL scripts including SPs, PSQL\u00a0scripting\u00a0and performance tuning."}
+{"text": "Experience working with scheduling and data modeling tools like Erwin, ER/Studio, SAP Power Designer."}
+{"text": "Deployed SSRS reports in share point for web based access for multiple end users."}
+{"text": "Database performance and health areas including database files, long-running jobs, blocking sessions, compliance and many others."}
+{"text": "Extensive experience in implementing high availability solutions on physical and virtual machines."}
+{"text": "Had worked on active directory and also have experience in oracle and DB2 database user access provisioning."}
+{"text": "Supported proprietary software utilizing Oracle, Postgres, and Cognos databases.\u00a0"}
+{"text": "Worked closely with development teams to provide perspective."}
+{"text": "Implemented Side-by-Side Migration and in-place Upgrade of MS SQL Server 2005/2008 R2/2012/2014."}
+{"text": "Experience in using the DMVS, DMFS, SYSTEM VIEWS and in-built Global variables for performance analysis."}
+{"text": "Expert in Data Integrity, Performance Tuning and Query Optimization."}
+{"text": "Expert level skills in creating objects like Tables, Views, Normalization, Indexes, Stored Procedures, Cursors, Triggers and other SQL joins and query writing using T- SQL statements."}
+{"text": "Performed BCP, BULK INSERT, imported and exported data from different Data Sources."}
+{"text": "Experience in Database design, Performance Analysis and Production Support for very large (VLDB) and Complex Databases."}
+{"text": "Experience in Importing/Exporting Data from various data sources like Excel, Oracle and Flat file using ETL utility. Involved in transformation of OLTP data to the Data Warehouse using ETL and SQL commands. "}
+{"text": "Experience in analyzing Locks, Dead Locks and handling the Isolation Levels and Concurrency Effects."}
+{"text": "Extensively used the native tools like index tuning wizard, database tuning advisor, SQL Server Profiler, Performance Monitor, Activity Monitor, and Event viewer for performance analysis."}
+{"text": "Experience in Backing up, restoring the database manually and also by scheduling the jobs and Maintenance Plans."}
+{"text": "Implemented scripts to find out the orphan users in the servers and also successfully migrated logins and users between multiple servers. And also creating the audit reports as per the business requirements."}
+{"text": "Configured SMTP Server for Database Mail setup and received alerts for the Threshold values."}
+{"text": "Experience in Migrating DTS 2000 packages to SSIS packages in 2005 using Migration Wizard."}
+{"text": "Auditing of database for Worked on logins, user permissions and security in SQL server level and fixing orphaned users."}
+{"text": "Experience in SQL Programming, logical and physical data modeling of the database in ERWIN and MSVISIO, Normalization, DE normalization, Database design, Performance analysis  and production support for very large (VLDB) in OLTP,OLAP Database."}
+{"text": "Strong experience in mentoring and working with team, coordinating with developers , good communication skills documentation , supporting architects, decision support meetings and 24/7 on call production support."}
+{"text": ""}
+{"text": "Technical Expertise:"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": "Citizens Bank- Providence, Rhode Island                                                                            March '2017 - Till Date"}
+{"text": "Title: SQL Database Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Installed, configured, administered and secured SQL Server 20012/2014/2016 on production and Non-production in Clustered and Stand -alone Server Environments."}
+{"text": "Implemented Always-ON Availability Groups (AOAG) on SQL Server 2014 SP2."}
+{"text": "Worked in implementing SQL Security and object permissions like maintenance of database creating and users and logins assigning roles to the users and managing user permissions."}
+{"text": "Implemented (SCOM) System Center Operations Manager to monitor all aspects of SQL Server including database performance and health areas including database files, long-running jobs, blocking sessions, compliance and many others."}
+{"text": "Implemented scripts to find out the orphan users in the servers. Successfully migrated logins and users between multiple servers."}
+{"text": "Administration of PostgreSQL multi node clustered and replicated environments\u00a0"}
+{"text": "Generated audit reports as per the business requirements."}
+{"text": "Extensive experience in implementing high availability and Disaster recovery concepts like Log Shipping, Mirroring and Replication (Snap Shot and Transactional)."}
+{"text": "Expert in Data Integrity, Performance Tuning and Query Optimization."}
+{"text": "Loaded multiple NOSQL databases including MongoDB, PostgreSQL, Couchbase, HBase and Cassandra"}
+{"text": "Implemented the restores of SQL Azure databases with a clear understanding of the backup retention periods of the Azure databases as per their service tiers."}
+{"text": "Implemented a SQL purging process for Old claim data as per business requirement."}
+{"text": "Troubleshooting and resolving database integrity issues, performance issues, blocking and deadlocking issues, Connectivity issues and Security issues etc."}
+{"text": "Design and implement data warehouse solutions for SQL Server databases including replication strategy and Active-Active and Active-Passive Clustering."}
+{"text": "Developed and automated daily, weekly and monthly counts of Claims by Scheduling the SQL Job."}
+{"text": "Responsible for ensuring that production SLAs are met, upgrades are delivered without disruption of claims service and monitoring Claims in case of any failures."}
+{"text": "Monitoring the data files, log file space issues, blockings, Tempdb space issues and disk space issues."}
+{"text": "Excellent knowledge in Import / Export using DTS and BCP utility."}
+{"text": "Provided 24/7 support by actively monitoring the job history, alerts."}
+{"text": ""}
+{"text": "Environment: Environment: MS SQL 2008 R2/2012, SSIS, Azure, Power BI, APS, XML, T-SQL, DAX, MS Access 2010, MS Word, VBA (Visual Basic for Applications), Share point, DTS, GITHUB, C# , Microsoft Visio, Crystal Reports, ER Studio, Performance point Server, Team Foundation Server, FTP & SFTP Server. Perl scripting. "}
+{"text": ""}
+{"text": "Vantiv, Cincinnati, OH                                                                                                          March '2016 - Feb \u20182017"}
+{"text": "Title: MS SQL Database Administrator"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Installed, configured, administered and secured SQL Server 20012/2014 on production and Non-production in Clustered and Stand -alone Server Environments."}
+{"text": "Implemented Always-ON Availability Groups (AAG) on SQL Server 2012 SP2."}
+{"text": "Worked in implementing SQL Security and object permissions like maintenance of database creating and users and logins assigning roles to the users and managing user permissions."}
+{"text": "Implemented scripts to find out the orphan users in the servers. Successfully migrated logins and users between multiple servers."}
+{"text": "working with Informatica Power center ETL packages"}
+{"text": "Generated audit reports as per the business requirements"}
+{"text": "Established DR sites using log-shipping and Wrote dynamic stored procedures for moving Databases from production server to DR server."}
+{"text": "Extensive experience in implementing high availability and Disaster recovery concepts like Log Shipping, Mirroring and Replication (Snap Shot and Transactional)."}
+{"text": "Expert in Data Integrity, Performance Tuning and Query Optimization."}
+{"text": "Implemented the restores of SQL Azure databases with a clear understanding of the backup retention periods of the Azure databases as per their service tiers."}
+{"text": "Implemented a SQL purging process for Old claim data as per business requirement."}
+{"text": "Troubleshooting and resolving database integrity issues, performance issues, blocking and deadlocking issues, Connectivity issues and Security issues etc."}
+{"text": "Implemented SQL server security best practices and transparent data encryption (TDE)."}
+{"text": "Developed and automated daily, weekly and monthly counts of Claims by Scheduling the SQL Job."}
+{"text": "Responsible for ensuring that production SLAs are met, upgrades are delivered without disruption of claims service and monitoring Claims in case of any failures."}
+{"text": "Monitoring the data files, log file space issues, blockings, Tempdb space issues and disk space issues."}
+{"text": "Applying data fixes into production as necessary, and triaging data-related tickets raised in production."}
+{"text": "Providing monthly metrics regarding database usage and Contributed to Technical Documentation and Run Book updates."}
+{"text": "Actively participated in gathering user requirements and system specifications."}
+{"text": "Analyzed and designed the objects required for the databases."}
+{"text": "Troubleshot the problems and document them."}
+{"text": "Managed Diskspace, memory and User connections."}
+{"text": "Generated Script files of the databases whenever changes were made to stored procedures or views. "}
+{"text": "Excellent knowledge in Import / Export using DTS and BCP utility."}
+{"text": "Performed query tuning and reduced response time by 60%."}
+{"text": "Provided 24/7 support by actively monitoring the job history, alerts."}
+{"text": "Environment: SQL Server 2014/2012 with Clustering, Windows 2012 Server, , T-SQL, Microsoft Azure, Profiler, SQL Server tuning advisor, Putty, SSRS, TDE(Transparent Data encryption),Always-ON ,Failover Cluster Manager, Configuration Management."}
+{"text": ""}
+{"text": "Allianz Life Insurance, Minneapolis, MN                                                                                Feb '2014 - Feb \u20182016"}
+{"text": "Title: SQL Server Developer/DBA"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Successfully created multiple environments for the application as per the requirement of multiple code streams."}
+{"text": "Created T-SQL scripts for OLTP and ETL application development on sql server and Teradata."}
+{"text": "Used features like Dataset, Data Reader and Data Adapter to develop a Data Access Layer using ADO.NET. "}
+{"text": "Experienced in Warehouse Management System and balance scorecards development with KPI performance metrics using SSRS."}
+{"text": "Involved in the development of Business Logic Layer and Data Access Layer in C#. "}
+{"text": "Design and create the tables, store procedures, triggers, indexes basing on requirements."}
+{"text": "Hands on experience in LINQ (Language Integrated Query) and Entity Frame Work by retrieving data from various data sources."}
+{"text": "Performed migration of data from Teradata Server to SQL Server."}
+{"text": "Pull metric data from various sources to SQL server platform using SSIS/DTS."}
+{"text": "Create the SSRS reports with customized data for different location and period hierarchy."}
+{"text": "Development and production support for various databases, DTS and SSIS packages and cubes (SSAS)."}
+{"text": "Create and alter various applications including stored procedures, views using TSQL."}
+{"text": "Designed physical and logical modeling of databases for data warehouse applications."}
+{"text": "Monitor the Sql server Agent jobs and fix the jobs on failure."}
+{"text": "Developed stored procedures, triggers and functions and added / changed tables for data extraction and transformation, and data loading using TSQL statements."}
+{"text": "Developing the applications and perform tuning using SQL profiler and query execution analysis."}
+{"text": "Performed database transfers and queries tune-up, integrity verification, data cleansing, analysis and interpretation"}
+{"text": "Maintenance of security standards, facilitate requirements and gathering meetings with clients."}
+{"text": "Environment: ASP.NET, C#.NET, ADO.Net, Java script,  XML, .NET Framework , HTML5, CSS3,SQL Server 2005/2008,Reporting Services, Query Analyzer, Excel (pivot tables) SSIS, SSRS,  Teradata, T-SQL, c#, Visual basic, Business Objects, Visual studio2005, Windows 2000/XP.   "}
+{"text": ""}
+{"text": "Food World Group, Bangalore, India                                                                                         Jan'2012 - Jan \u20182014     Title: SQL Server DBA"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Managed and administrated SQL Server 2014/2012/2008R2/2008/2005 on production and non-production servers."}
+{"text": "Installed and configured SQL Server Databases."}
+{"text": "Experience in implementing Always ON Availability Groups in SQL Server 2012."}
+{"text": "Extensive experience in implementing high availability and Disaster recovery concepts like Log Shipping, Mirroring and Replication (Snap Shot and Transactional)."}
+{"text": "Setup bidirectional replication and troubleshoot the related issues."}
+{"text": "Experience working with scheduling and data modeling tools Erwin, ER/Studio."}
+{"text": "Developed a SSIS package to load data from SQL Base to SQL Server 2008 R2."}
+{"text": "Performed Failover drill tests to check the High Availability during disasters."}
+{"text": "Day-to-day activities like taking backups, restoring the databases, custom code deployment."}
+{"text": "Supported technical teams involved with MS SQL issues and operations."}
+{"text": "Implemented and maintained Database Mirroring, Log shipping and Transactional Replication as Disaster Recovery/High Availability solution."}
+{"text": "Managed and administrated SQL Server 2012/2008R2/2008 on production and non-production servers."}
+{"text": "Worked on logins, user permissions and security in SQL server level."}
+{"text": "Monitored SQL Server Databases using DMV\u2019s, DMF\u2019s as wells as monitors tools like Idera Diagnostic Monitor."}
+{"text": "Performed data migration and schema migration between different environments."}
+{"text": "Performed various data transfers between various servers using BCP and Import/Export wizard."}
+{"text": "Implemented Policy Based Management on the servers."}
+{"text": "Handling Memory configurations for SQL Server 2012 and SQL Server 2008 on Windows 2008"}
+{"text": "Used Lite Speed for backups and maintenance jobs which includes updating statistics, database integrity checks."}
+{"text": "Worked in setting up\u00a0the SQL Server configuration settings\u00a0to resolve various resource allocation & memory issues for SQL Server databases and to setup\u00a0ideal memory, min/max server options"}
+{"text": "Developed and created the new database objects including tables,\u00a0views, index, stored procedures, functions, triggers, advanced queries\u00a0and also updated statistics."}
+{"text": "Involved in Database design, Logical and Physical Data modeling using Erwin. Transformed logical model into Physical SQL Server Database. Created SQL tables using scripts and Erwin Forward Engineering Utility."}
+{"text": "Modified Stored Procedures and complex T-SQL queries to improve query execution process"}
+{"text": "Used SQL Diag utility tool for troubleshooting some issues."}
+{"text": "Created Logins, Roles and Proxy accounts with appropriate permissions and maintaining Database Maintenance Plans."}
+{"text": "Environment: SQL Server 2008/2012/2014, Windows Enterprise Server 2008, Microsoft Reporting Service, Excel, Crystal reports, SQL Enterprise Manager ."}
+{"text": ""}
+{"text": "Wizden Solutions Pvt Ltd, India                                                                                                Aug'2009 - Dec '2011"}
+{"text": "Title: SQL Server Developer/DBA"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Conducted Performance tuning/MS SQL server development - SQL Profiler and PerfMon, SQL scripts, stored procedures, triggers, functions and transactions analysis, thorough understanding of indices and statistics (Query Optimizer)"}
+{"text": "Conducted logical and physical database design including data modeling, maintenance, problem diagnosis and resolution"}
+{"text": "Created and developed the stored procedures, triggers to handle complex business rules, history data and audit analysis "}
+{"text": "Conducted database management, performance measurement and performance tuning for new databases and existing databases by using SQL Profiler, SQL Analyzer, and SQL Enterprise Manager"}
+{"text": "Created and administered multiple development, training and production databases"}
+{"text": "Developed and created data dictionary, stored procedures, advanced queries, triggers, views, indices, and functions for databases"}
+{"text": "Maintained databases, performed software installations and upgrades, monitored database performance, performed capacity planning and SQL Server clustering, managed database quality assurance including database consistency check"}
+{"text": "Responsible for creating standards and operating procedures to maintain all databases"}
+{"text": "Worked with development teams in the design of physical databases and in modification"}
+{"text": "Reduced systems downtime risk through automatic offsite backup and recovery over network"}
+{"text": "Responsible for database security of the operational and developmental application system databases"}
+{"text": "Managed MS SQL server (storage, memory, processing) and their dependencies/performance bottlenecks"}
+{"text": "Programmed complex data structures in C and CPP."}
+{"text": ""}
+{"text": "Environment: MS SQL Server 2000 Enterprise Edition, Enterprise manager, MS Access 2000 &Windows NT platform, Reporting Services, DTS, Business Objects 4.0/6.5, Windows Active Directory."}
+{"text": ""}

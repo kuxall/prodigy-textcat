@@ -1,0 +1,167 @@
+{"text": "Name: esther esther"}
+{"text": "E-Mail: esther.esther@gmail.com"}
+{"text": "Address: Shenzhen, China"}
+{"text": "Github: https://github.com/esther"}
+{"text": "LinkedIn: https://linkedin.com/esther"}
+{"text": "Phone No. 817917982190"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "12+ Years of diverse experience in Siebel CRM Applications (8.1/7.8/ 7.7/7.5) with different areas such as Call Center, Sales, Marketing, eCommunication."}
+{"text": "Involved in multiple projects as a Tech Lead and Integration Expert. Lead a team of developers in successfully designing, development, testing and deploying complex real-time as well batch integrations between Siebel and various ERPs, Web applications or Legacy applications. "}
+{"text": "Good handle on Siebel Open UI, EAI - Integration Workflows, Web Services, Integration Objects, SOAP, WSDL."}
+{"text": "Excellent knowledge of Siebel Architecture and Data Model ad proficient with Siebel Tools and Client in configuration and customization of Siebel Objects at multiple levels"}
+{"text": "Good experience on Siebel Scripting (e script ), workflow, workflow policies and User properties,"}
+{"text": "Object Configuration using Siebel Tools to Create, Modify the Configuration of Business Objects, Business Components, Links, Joins, Siebel Workflow, Business Services and Integration Object Creation"}
+{"text": "Bring knowledge of best practices, various design approaches, limitations, and workarounds to the project."}
+{"text": "Experience in working with SDLC approaches like Agile, Scrum, iterative incremental & waterfall."}
+{"text": "Good Knowledge on SQL, Java Script, UNIX commands and Shell Scripting"}
+{"text": "Excellent interpersonal, communication, documentation and presentation skills"}
+{"text": "Strong experience in interacting with business analysts and developers to analyze the user requirements, functional specifications and system specifications."}
+{"text": "Best team player with the ability of taking initiatives and in building /sustaining team spirit."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Master of Computer Applications MCA."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": ""}
+{"text": "Zebra Technologies Inc. has acquired the Enterprise Mobility Business division from Motorola Solutions Inc. This business is now identified as the Enterprise Visibility and Mobility (EVM) Business within Zebra Technologies. Legacy Zebra Technologies Inc. consists of the Printer Business, Mobile Computing and RFID, Aftermarket and Supplies businesses which have been defined as the Asset Identification and Tracking (AIT) Business."}
+{"text": ""}
+{"text": "Services project is for transforming the Repair, contracts, Assets functionality from current legacy CRM system to Siebel Open UI, These requirements enable SIEBEL to track Depot repairs, Create a standardized global repair process within a single service ecosystem, SIEBEL, to provide efficiency, minimize the process variations and improve global reporting."}
+{"text": ""}
+{"text": "Customer and Product Master data gets loaded from ERP system, this data will be used to associate with the Assets, Contracts, Repair requests etc.Orders Gets created in Siebel through various channels like SFDC, Customer Portal, Data Loads from legacy systems,eBonding Hub etc.These Service Orders go through the repair life cycle stages like Order creation, Receiving Units, Repair in progress, repair complete, shipping and Closure Process. Integrated with different systems such as SFDC, ERP,Sanmina,Kewill.Informatica & FMW has been used as middleware"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Understand the business requirements and processes that underpin the technical design of each solution. Provide technical consultancy to functional requirements derived from the business requirements."}
+{"text": "Achieved Business Rule automation using Siebel eScriptingand Workflow Process."}
+{"text": "Designed workflow processes for all inbound and outbound Integrations between External systems"}
+{"text": "to Siebel and vice versa"}
+{"text": "Extensively worked on Web Services to combine component-based development and Internet standard"}
+{"text": "Protocols that include HTTP, XML, Simple Object Access Protocol (SOAP), and Web Services Description"}
+{"text": "Language (WSDL)."}
+{"text": "Created new Materialized views , DB views and EBCs based on the views"}
+{"text": "Design and Build on below Key requirements in the Project"}
+{"text": "SFDC \u2013Siebel for RMA creation, Asset Entitlement Look up"}
+{"text": "B2B Integration for Repair Process"}
+{"text": "Internal Depot Repair Configuration and Scripting"}
+{"text": "Spare Pool , Depot Set Up"}
+{"text": "Integrated with ERP for customer master and Product master set up in siebel"}
+{"text": "Kewill \u2013 Siebel Integration for Internal Depot Repair Shipping"}
+{"text": "Pricing integration"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": ""}
+{"text": "Bose has implemented Siebel as the CRM software to provide application solutions to Americas Sales Organization (Siebel Consumer Goods Sales), Professional Products business (Sales Enterprise Module), Dotcom business unit (Siebel email response management),  Customer Focused Development Team ( Siebel eConsumer Good Call Center). Scope was to deliver multiple 2 major & 3-4 minor releases/year over the project period."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Working with Business Analyst to understand functional requirements and prepare Technical Design documents on all integration enhancements"}
+{"text": "Work with the developers to explain the technical design and get the development done. Help carry out PoCs, resolve bottlenecks, find alternative technical approaches as necessary during the code development."}
+{"text": "Establish following integrations : "}
+{"text": "Siebel -SAP integration using Siebel-BAPI Adaptor to send Quote & Line items to SAP"}
+{"text": "Pricing Integration with SAP using Siebel-BAPI to get the pricing and Tax details for the product line items from SAP."}
+{"text": "Inbound Integration with Batch jobs using EIM, RCR\u2019s WF to get the Order, product  updates from SAP "}
+{"text": "Outbound Web Service Integration to get Customer data from PCD Server by using SOAP, WSDL and HTTP and Sending the response back to PCD."}
+{"text": "Administering and configuring Communication server to enable Email Response Module using the components Communications Inbound processor, inbound receiver, outbound Manager and Email Manager. Setting up automatic creation of Service Request from incoming emails. Automatic assignment of category/subcategory "}
+{"text": "Provide support to users on interface issues, inquires and communication of any interface enhancements in the planned releases"}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "GE Aviation leverages Siebel for selling and servicing the Aircraft Engines globally. Since 2009, IGATE has been providing application functionality releases covering Account, Opportunity, Quotes, Proposal& Pricing. Service functionality includes Service Order Management, Contact Management, Case Management and Service Opportunity management, Entitlement,  Install base and Assets."}
+{"text": ""}
+{"text": "IGATE\u2019s scope of work includes ongoing Enhancement to the application and build/maintain integrations with 16 applications and to data warehouse.\t"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interact with the Solution Architect to get understanding of requirement. Create technical Design document from functional design documents. "}
+{"text": "Provide effort and resource estimates about upcoming requirements to SA during release planning stage "}
+{"text": "Technical owner for Quotes, Order, Agreement , Service Contract , SR and Assets  "}
+{"text": "Designed and developed new simple and complex Products as part of the Aviation Engines. Implemented various constraints based on the Product structure."}
+{"text": "Configured Customizable Products for converting 3rd party products in to Siebel Products"}
+{"text": "Written Product level eScripts for various events"}
+{"text": "Worked on various methods of Remote Complex Object Instance Service to create the Quote with line items"}
+{"text": "Created new Materialized views , DB views and EBCs based on the views"}
+{"text": "Created bulkupload tool in Siebel to create Orders, Assets directly by importing an Excel sheet with the required Product specific data like Attributes and values."}
+{"text": "Designed and build key requirements:"}
+{"text": "Enhance Quote and product configuration functionality to support CSA product line that includes large number of attributes and options."}
+{"text": "Build outbound integration with ICAM to send technical configuration information and receive financial data back into Siebel  "}
+{"text": "Outbound Integration of Siebel Assets module with Web based Install Base (IB) application to send engines sold to customers.  Inbound integration from IB while creating Service Orders "}
+{"text": "Outbound Integration Using Siebel- BAPI Adaptor to send Service Contracts to SAP"}
+{"text": "EA integration to send Service Requests to SAP at an external Partner via MQ Series and webmethods"}
+{"text": "Establish automatic creation of SRs from inbound emails from customers "}
+{"text": "Implemented  systematic approval process for product change request using SRs,  workflows and integration"}
+{"text": "Involved in the peer reviews and code reviews with team members and COE architects"}
+{"text": "Handling the production roll out activities with involving all the required teams. Preparing the release notes and executing the process in steam lined manner"}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Inbound Integration using Inbound Web services for Service Request Module"}
+{"text": "CWC portal Application calls the Siebel Service to create SR "}
+{"text": "Siebel reads the data and manipulate according to the business logic and stores in Siebel"}
+{"text": "EDR is a Legacy system which Siebel receives a EDR type SR\u2019s that have all engine related information"}
+{"text": "Depends on the Priority & Severity of SR it requires approval process"}
+{"text": "Generated Proposal for these Approval process which goes to CWC team "}
+{"text": "Invoked"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Real time Integration with Siebel \u2013SFDC  for Account, Opportunity, Quote & Service Agreements"}
+{"text": "Used Webmethods as the Middleware to send transactions from Siebel"}
+{"text": "Siebel Workflows and XML over HTTP, Webmethods for Outbound"}
+{"text": "Inbound web services to receive the Opportunity & Quote from SFDC using SOAP"}
+{"text": "Created Business Services to call the Workflows in Async Mode"}
+{"text": "Runtime Events to trigger the New, Update and Delete transactions to send those to SFDC"}
+{"text": ""}
+{"text": ""}
+{"text": "Description:"}
+{"text": "CCP-Common Customer Platform performs all automated Workflow and Assignment Functionality related to underwriting and Enrollment Business Process. It also automates  Individual application and enrollment process to improve growth and retention in the Individual segment as well as reduces /eliminates manual handling and processing."}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Gathering requirements, prepared design and development/Enhancements for Release 16"}
+{"text": "Prepared the detailed Technical Design document as per the High level Business scenarios with close interactions with end users"}
+{"text": "Configured Bus Comps, Applets, Views and Screens using Siebel Tools according to the business requirements."}
+{"text": "Created Static, Dynamic Picklists, Joins, Links MVGs & Association Applets"}
+{"text": "Used Siebel e-Script to perform configuration and modifications required to support business requirements in both Server Level & Browser level."}
+{"text": "Created business service to read the Request XML messages and extract individual data elements to insert/update data into Siebel database and Sending back Response to External System"}
+{"text": "Created and tested Inbound and Outbound Workflow processes to automate business rules"}
+{"text": "Configured the MQ Subsystems and Data Handling Subsystems to Receive and Send the Messages from Queue."}
+{"text": "One Time Business Services to load Business Data"}
+{"text": "Configured VBC\u2019s and prepared data mapping to identify external and internal business entities for integration."}
+{"text": "Involved in fixing the Issues of Different Phases in Testing like Unit Testing, Integration Testing, System Testing, UAT Testing"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Deploying the Release in all the Environments which includes copying and installing the build, running DTT (Data Transfer Tool) for copying LOV's and PDQ's to the database, Workflow Deployment and activation. Product Model etc."}
+{"text": "Communicating with Developers/Testers to resolve issues and perform day-to-day operational support functions."}
+{"text": "Executing EIM Jobs like auto alert load files and number loading files"}
+{"text": "Manage and Monitor Server Tasks and Components"}
+{"text": "Extensively Worked on both Server Scripts and Browser Scripts to meet Business Requirement"}
+{"text": "Worked with Siebel Workflow manager and defined the Business Policies and Business processes that are to be activated in the event of Policy condition being met."}
+{"text": "Worked on various aspects of Siebel Application like visibility rules based on positions and responsibilities, Workflows, various Siebel constructs like MVG applets, pick lists, Applets, Views, various Navigation methods"}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Provide second line support for eCo-x Live Issues including handling faults raised by open reach users and carrying out various proactive maintenance activities, to minimize fault levels."}
+{"text": "Creation of Legal Entities, Sub legal entities, billing accounts as part of WES/BES Development."}
+{"text": "Associate Required Products to all new Legal Entities."}
+{"text": "Configuration of all new WES/BES product families on eCo."}
+{"text": "Creation of Assignment rules for All Accounts (Legal Entities) and Associate required positions to each assignment rule."}
+{"text": "Configure user profiles of all OR users to match the positions."}
+{"text": "Created and aligned positions, assigned positions and responsibilities to employees."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Managing Siebel servers monitoring the logs and statistics reports, updating the server software as appropriate, providing backup and disaster recovery, and troubleshooting hardware and software problems in order to provide a reliable Siebel environment for end users.\t"}
+{"text": "Installation and configuration of Siebel Gateway Server, Enterprise Server, Application Server, Database Server, Client and Tools. Siebel Server Services startup/shutdown and general maintenance Production Siebel   Server troubleshooting - log files, configuration files, tools/utilities."}
+{"text": "Application administration including new user creation, assigning roles and responsibilities to users."}
+{"text": "Worked in setting up Local Extracts, Responsibilities, and Positions, LOV\u2019s etc for Development Team"}
+{"text": ""}

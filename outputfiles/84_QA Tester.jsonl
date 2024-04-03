@@ -1,0 +1,172 @@
+{"text": "Name: esther esther"}
+{"text": "E-Mail: esther.esther@gmail.com"}
+{"text": "Address: Yantai, China"}
+{"text": "Github: https://github.com/esther"}
+{"text": "LinkedIn: https://linkedin.com/esther"}
+{"text": "Phone No. 982531158270"}
+{"text": ""}
+{"text": "Professional Summary:"}
+{"text": ""}
+{"text": "Sr.SELENIUM QA Tester with 7 years of experience with good understanding of Quality process methodologies."}
+{"text": "Solid experience in Test Planning, Test development, Execution, Test Automation, Traceability Matrix, Defect & Bug Fix Cycle Management, tests Reporting, Metrics and Dashboard Preparation."}
+{"text": "Proficient in writing Selenium WebDriver automation scripts in JAVA using Maven, Cucumber, and Testing Automation Testing for Web Applications."}
+{"text": "Proficient in Unit testing, Functional testing, User Acceptance Testing, API Testing,Integration testing, System testing, Performance& Load testing, Sanity testing, Exception testing, Compatibility testing & Security testing, White/ Gray/Black-box testing. "}
+{"text": "Experience in working on BDD (Behavior Driven Development), ATDD (Acceptance Test Driven Development), Tools like Cucumber with Gherkin language. Wrote BDD features and scenarios for User Acceptance Testing."}
+{"text": "Experience on Selenium IDE, Selenium WebDriver (Java), Eclipse, BugZilla, Trac and Mantis."}
+{"text": "Proficient in various test management and defect tracking tools such as HP Quality Center, JIRA."}
+{"text": "Good experience in configuring and utilizing testing tools like Quality Center, Team Foundation Server, ALM, Microsoft Test Manager and other requirement specification tools like Tele Logic Doors, Jenkins, JIRA."}
+{"text": "Good Experience in XML, Web services, Soap UI, Site catalyst, HBX, UNIX logs, CRM."}
+{"text": "Worked with project management tools such as JIRA"}
+{"text": "Solid knowledge in project building tool Maven, ANT, working experience in version control tool GIT and SVN."}
+{"text": "Expert skills in SQL and PL/SQL and worked extensively on ORACLE, DB2, SQL Server and MS ACCESS databases."}
+{"text": "Experienced in developing and executing automation Regression testing and System testing using HP UFT/QTP and ALM/Quality Center."}
+{"text": "Proficient in writing cucumber scenarios in GHERKIN format."}
+{"text": "Worked in Multiplatform Environments like Windows, UNIX, Web applications, and GUI based client/server applications."}
+{"text": "Knowledge on Java Script and VB Script."}
+{"text": "Proficient in the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC)."}
+{"text": "Good knowledge on Appium."}
+{"text": "Tested Web Services /XML / SOAP and RESTFul services using Soap UI tool."}
+{"text": "Developed framework using Cucumber, Junit, TestNG, Page Object Model, PageFactory."}
+{"text": "Experience in Web Services testing using SOAP UI."}
+{"text": "Experience in testing methodologies using White box, Gray box, and black box testing techniques manually and by using Automation."}
+{"text": "Expertise in Automation tools like QTP and Selenium WebDriver."}
+{"text": "Experience in MySQL SQL Server 2008, creation of database triggers, stored procedures, functions and packages."}
+{"text": "Involved in verifying the results by using SQL queries and load testing using Load runner."}
+{"text": "Worked on API testing using SoapUI."}
+{"text": "Extensive working knowledge in UNIX/Linux environment to analyze log file & to monitor process."}
+{"text": ""}
+{"text": ""}
+{"text": "Technical Skills:"}
+{"text": ""}
+{"text": "Languages\t: C, C++, HTML,JavaScript,Core Java,VB Script,SQL"}
+{"text": "Automation Testing Tools\t: SeleniumWebDriver, CCS (Code Composer Studio), "}
+{"text": "                                                               Quick Test Pro (QTP) ,SOAPUI"}
+{"text": "Defect Tracking Tools\t: Quality Center,JIRA,CMSynergy"}
+{"text": "Frameworks\t:Junit,TestNG"}
+{"text": "IDE\t: Eclipse,Visual studio,CCS (Code Composer Studio)"}
+{"text": "Build Tool\t:ANT\t"}
+{"text": "Operating Systems\t: Windows,Linux, Unix"}
+{"text": "Databases\t: SQL Server, Oracle"}
+{"text": "Browsers\t: Internet Explorer, Firefox, Chrome, Safari"}
+{"text": "Configuration Management Tools: PVCS, CM Synergy."}
+{"text": ""}
+{"text": "Professional Experience:"}
+{"text": ""}
+{"text": "Client:Cisco, San Jose, CA \t\t\t\t\t                             May 2015\u00a0\u2013 Present\u00a0\u00a0\u00a0"}
+{"text": "Role: Sr. QA Engineer"}
+{"text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0            "}
+{"text": "Roles and Responsibilities: "}
+{"text": "Study and analysis of software, system requirementsandBusiness Requirements Document, created the Test Plan and prepared detailed Test Cases for UAT."}
+{"text": "Involved in identifying an automation tool, requirements gathering, creating the automation strategy, understanding the change request, test case/scripts & test data creation, test execution,peer review and defect tracking."}
+{"text": "Involved in creation of automation framework usingSelenium, Java, Eclipse, Ant andJunit."}
+{"text": "Automated web based application using Selenium with Java andJUnit framework on both Staging and Production environments supporting different browsers."}
+{"text": "Conducted GUI validations on menu bars, toolbars, textboxes, radio buttons, checkboxes, drop down lists, combo boxes, list boxes etc using Selenium."}
+{"text": "Performed the cross browser testing on multiple browsers like Safari, Chrome, IE & Firefox using Selenium across different operating systems like Mac, Windows."}
+{"text": "Used different locators to identify the objects and majorly worked on the Xpath."}
+{"text": "Used SOAPUI tool to test SOAP services &REST API."}
+{"text": "Responsible for Setting up Web Services project using WSDL in SOAPUI and provided setup help to other team members."}
+{"text": "Worked on Integration of Selenium WebDriver with existing API to test Framework."}
+{"text": " Experience with appium tool for automating mobile web applications on iOS and Android platforms on browsers like safari on ios and chrome on Android."}
+{"text": "Created MAT (Maximum Acceptance test), Functional and Regression automation scripts using Selenium."}
+{"text": "Automated localization testing for the application, closer to 100 locales with different flavors of OS and web browsers."}
+{"text": "Designed test scripts using Java and participated in automation code-reviews."}
+{"text": "Used/referenced all the related Java libraries to the scripts to complete the features/functions of the test scripts."}
+{"text": "Performed the Integration testing using selenium by using Java and Auto IT scripts."}
+{"text": "Documented test environment setup procedure with debugging tips and provided trainings to the newbie to ramp up with the automation tasks."}
+{"text": "Involved in mentoring peers in developing their automation skills, issue resolution and conducted training sessions on the automation tools."}
+{"text": "Supervised and coordinated the test activities for a team of 4."}
+{"text": "Executing SQL queries to view successful transaction for data validation."}
+{"text": "Review of the software test cases and test scripts as per the checklists."}
+{"text": ""}
+{"text": "Client: Syniverse Technologies, Tampa, FL\t\t\t                               Apr 2014 \u2013 Apr 2015\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0            "}
+{"text": "Role: Sr. QA Engineer"}
+{"text": "Roles and Responsibilities:"}
+{"text": ""}
+{"text": "Experienced in defining testing methodologies, designing test plans and test cases, verifying and validating web based applications and documentation based on software development standards and effective QA implementation in all phases of Software Development Life Cycle (SDLC)."}
+{"text": "Analyzed Business Requirements Document, created test plan and prepared detailed test cases for new Functionality."}
+{"text": "Used Agile methodology (Scrum) to ensure new features meetscustomer requirements and quality assurance standards."}
+{"text": "Participated in meetings, prepared reports and other supportive documentation."}
+{"text": "Developed manual test scripts for different test scenarios covering all aspects of project functionality using Mercury Quality Centerand JIRA Defect Management."}
+{"text": "Created and executed manual test cases using Quality Center and reviewed test cases developed by other testers."}
+{"text": "Involved in performing GUI, Functional, System and Regressiontesting, performed Root Cause Analysis for all assigned issues for existing functionality such as (Corrupted Data, Code Error)."}
+{"text": "Executed test cases, recorded results and documented defects, questionable functions, as well as inconsistencies in software program functions, outputs, online screens and content."}
+{"text": "In the regression phase, the project was automated using Selenium. I was responsible for developing dynamic framework which could automate all the test cases."}
+{"text": "Hybrid framework with Selenium was developed and generic keywords were implemented."}
+{"text": "Used ANT to build and run the Selenium automation framework. Used framework to send automation reports over email."}
+{"text": "Created and updated test scenarios, test plans, and test cases according to use case and design, participated in system walkthrough and inspection meetings to understand the business rules and system operation flows."}
+{"text": "Executed test cases using both manual processes and automated test tools."}
+{"text": "Wrote SQL Query to extract data from various database tables for testing purpose, validated tests by crosschecking data in backend on SQL server using SQL Queries."}
+{"text": "Identified and documented defects using JIRA to ensure applications functionality."}
+{"text": "Created test plan, designed and executed test cases manually and verified actual results against expected results."}
+{"text": "Identified and tracked defects, generated bug reports and submitted test reports, assisted client implement User Acceptance Test (UAT) including creating test Plan, generating  test data, designing test cases, preparing test environment and executing test etc."}
+{"text": "Worked closely with users and program developers to ensure application development meets the user expectations."}
+{"text": ""}
+{"text": "Client: General Motors, Detroit, MI\t                                                                       Jan 2013 - Mar 2014"}
+{"text": "Role: QA Engineer/PQA (Project Quality Analyst)"}
+{"text": ""}
+{"text": "Roles and Responsibilities:"}
+{"text": ""}
+{"text": "Expertise in Requirement Verification (RV), Source Code Verification Analysis (SCVA), Module Verification & Integration (MVI), Test Procedure and Test Scripts generation with respect to Software requirements of ARDC for B787, Peer review of artifacts."}
+{"text": "Writing test procedures using Frame maker in the form of requirement-based tests to verify the high-level and low-level software requirements."}
+{"text": "Study and analysis of software and system requirements."}
+{"text": "Generating the software test scripts and executing on the Triakis simulator."}
+{"text": "Review of the software test procedures and Test Scripts as per the checklists."}
+{"text": "Identify Test scenarios and generate Test Scripts to test the enhancements."}
+{"text": "Experience in Project Quality activities like Audit Reports, Configuration Management Audit, Project Execution Audit, Delivery Audit, PQA review of artifacts."}
+{"text": "PQA Reviews of deliverable artifacts."}
+{"text": "Conducting software configuration and Project   execution audits at the end of every month to ensure SCM Plan implementation."}
+{"text": "Tracking of Internal audit NC's to closure."}
+{"text": "Escalate the issues which are unresolved."}
+{"text": "Updating PQA Workbook and maintaining the review records in internal CM tool (PVCS)."}
+{"text": ""}
+{"text": "Client: DIRECTV, El Segundo, CA\t\t\t                                         Nov 2011to Dec 2012"}
+{"text": "Role:  QA Engineer"}
+{"text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0            "}
+{"text": "Roles and Responsibilities: "}
+{"text": "Analyzed the requirements and change requests, captured high level test conditions and prepared the test scripts."}
+{"text": "Used Quality Center for the entire Test Management process."}
+{"text": "Performed the UI validations like proper commands and options are in each menu, maximum field lengths, cursor positioned in the first input field and so on."}
+{"text": "Wrote SQL Statements to extract Data from Tables and to verify the output Data of the reports."}
+{"text": "Developed SQL Queries to query the database to test the back end process of the application."}
+{"text": "Generated and exported the reports from database using the reporting tool called Business objects."}
+{"text": "Connected to different RDC\u2019s and validated the Test cases."}
+{"text": "Suggested the improvements in the test model by identifying the redundancies in it, which helped in reducing many test cycles and improve the quality of testing."}
+{"text": "Implemented the best testing techniques like fish bone diagram, Boolean theory and Orthogonal array which helped to capture all the variations during test case creation."}
+{"text": "Preparing daily (creation and maintenance of TCCS) and weekly status reporting for the team."}
+{"text": "Manage Design clarification calls with Design and Build teams."}
+{"text": "Act as the single point of contact between developers and testers for iterations, testing and deployment activities"}
+{"text": "Identified root causes of the issues during challenging timelines which helped to reduce the time taken by the developers to fix the defects."}
+{"text": "Created new SQL queries as per the change requests."}
+{"text": "Involved in mentoring peers in developing their process/product skills."}
+{"text": "Ensure that zero defects slipped during execution."}
+{"text": "Documented the errors using Mercury Quality Center and tracked them to completion by communicating and co-coordinating with the development as well as the support group."}
+{"text": "Reviewed data from Back End to Front End of the application using SQL statements."}
+{"text": "Created Daily Status Reports, Test Incident Reports and Test Summary Report using QC."}
+{"text": "Worked on various Browsers( Internet Explorer, Firefox Browsers) to verify the Compatibility Testing"}
+{"text": "Conducted lot of monkey testing to verify the consistency of the existing system."}
+{"text": ""}
+{"text": "Company: Institute for Electronic Governance, Hyderabad, India\t\tMay 2009 to Sep 2011"}
+{"text": "Role:  QA Engineer"}
+{"text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0            "}
+{"text": "Roles and Responsibilities: "}
+{"text": "Understand the application under the Test."}
+{"text": "Created the Regression and System Testing Scripts by analyzing the change requests."}
+{"text": "Prepared Requirements Traceability Matrix(RTM)."}
+{"text": "Involved in writing the Test Cases."}
+{"text": "Using different browsers in different platform conduct User Acceptance Test(UAT)."}
+{"text": "Implemented standard blue print technique for capturing the conditions thereby reduced the analyzing time and increased the productivity."}
+{"text": "Performed Cross-Browser testing to verify if the application provides accurate information in different (IE, Netscape, Firefox, Safari) browsers."}
+{"text": "Executed the test steps in Quality Center(QC)."}
+{"text": "Used Rational Clear Quest for the defect management."}
+{"text": "Implemented the smarter ways during test data creation and saved the time."}
+{"text": "Also, executed the test scripts manually and tracked the defects in Clear Quest tool."}
+{"text": "Reduced dependency on others by coordinating actively with onsite which lead to successful completion of the project."}
+{"text": "Raise defects with sufficient detail to allow to fixing them to resolve."}
+{"text": "Participated in weekly meetings for work status updating."}
+{"text": "Interacted with client for issue clarification."}
+{"text": "Extensively documented Test Requirements and Test Plan using Quality Center to track the stakeholders requested enhancements and changes."}
+{"text": "Updated the Test Scripts for the minor/major enhancements raised during an iteration."}
+{"text": "Education:"}
+{"text": ""}
+{"text": "Bachelor of Technologyin Computer Science and Information Technology, India ."}
+{"text": ""}

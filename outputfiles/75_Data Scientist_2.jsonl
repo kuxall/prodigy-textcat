@@ -1,0 +1,89 @@
+{"text": "Name: alice alice"}
+{"text": "E-Mail: alice.alice@gmail.com"}
+{"text": "Address: Nantong, China"}
+{"text": "Github: https://github.com/alice"}
+{"text": "LinkedIn: https://linkedin.com/alice"}
+{"text": "Phone No. 934088954603"}
+{"text": "Summary"}
+{"text": ""}
+{"text": "Multiple years of IT experience and Analytics experience in data analysis, strategic analysis, Predictive Analytics and Inferential statistics, data mining and data visualization to provide analytical solutions to client's business problems."}
+{"text": "Strong foundation in Mathematics, Statistics, Machine Learning and Data Mining techniques."}
+{"text": "Proficient in managing entire data science project life cycle and actively involved in all the phases of project life cycle including "}
+{"text": "Data acquisition (sampling methods: SRS/stratified/cluster/systematic/multistage)"}
+{"text": "Power Analysis, Hypothesis testing, effect size"}
+{"text": "EDA (Univariate & Multivariate analysis)"}
+{"text": "Data cleaning "}
+{"text": "Data Imputation (outlier detection via chi sq detection, residual analysis, PCA analysis, multivariate outlier detection)"}
+{"text": "Data Transformation"}
+{"text": "Features scaling"}
+{"text": "Features engineering"}
+{"text": "Statistical modeling both linear and non-linear (logistic, linear, Na\u00efve Bayes, decision trees, Random forest, neural networks, SVM, clustering, KNN)"}
+{"text": "Dimensionality reduction using Principal Component Analysis (PCA) and Factor Analysis, testing and validation using ROC plot, K- fold cross validation, statistical significance testing."}
+{"text": "Data visualization. "}
+{"text": "Worked on Reinforcement Learning Techniques like Multi Armed Bandit (UCB & Thompson Sampling) A/B testing."}
+{"text": "Experience in Data Analysis, obtain insights from data then choose appropriate Machine Learning/Data Mining algorithms (Functional/classification/cluster models etc) using cost functions (gradient/normal and stochastic)"}
+{"text": "Perform model validation (AIC/BIC/APE/MAPE, confusion matrix, ROC curve, ks curve, decile analysis, Gini coefficient)"}
+{"text": "Experience with various application like SAS, SPSS, R(packages- knitr,dplyr, tidyr, SparkR, causallnfer, spacetime), Python (sklearn/ scipy/numpy/panda). "}
+{"text": ""}
+{"text": "`"}
+{"text": "Client: AT&T"}
+{"text": "Job Title: Data Scientist"}
+{"text": "Location:  Atlanta, GA"}
+{"text": "Duration: Sep\u201915 \u2013 Current"}
+{"text": "Objective: Modelling to determine Internet rates and plans against competitors like Xfinity to target customers for personalized marketing strategies.\t"}
+{"text": "Responsibilities:"}
+{"text": "Personalization, Inflection points tracking, Target Marketing, Customer profiling and Segmentation "}
+{"text": "Personalization for registered users, Returning visitors and Anonymous visitors "}
+{"text": "Worked on model building using machine learning algorithms like logistic regression, naive bayes, random forest, SVM, SVR."}
+{"text": "Worked on a POC project for NLP(Natural Language processing) with Review Data."}
+{"text": "Propensity to convert modelling using the visit sequence and conversion sequence mapping "}
+{"text": "Zeroth problem solution for Anonymous visitor, returning visitor and registered users"}
+{"text": "Text analytics on review data machine learning technique in  python using NLTK. "}
+{"text": "Market basket Analysis using APRIOR for purchase transactions data at store level."}
+{"text": "Sequence mining for the conversion paths for different segments "}
+{"text": "Profiling based on the content access reports, event trigger reports and navigation reports. Profiles are then used for target marketing and segmentation "}
+{"text": "Custom Website strategy for segments."}
+{"text": "Site/Page optimization, Promotional campaigns assessment, Customer segmentation and assessing revenue against targets at regular intervals "}
+{"text": "Used UCB & Thomson Sampling Intuition for Multi Bandit Testing and A/B testing to perform ad banner choices and product visual choices optimization."}
+{"text": "Custom Dashboards product category wise. "}
+{"text": "Developed visualizations using sets, Parameters, Calculated Fields, Dynamic sorting, Filtering, Parameter driven analysis, gathered data from different data marts. "}
+{"text": "Reporting designs based on the business specific problems, Reporting implementation on Tableau. "}
+{"text": "Advanced charts, drill downs and intractability are incorporated in the reporting for different stakeholders and integrating the publishing of reports to the clients SharePoint infrastructure."}
+{"text": ""}
+{"text": ""}
+{"text": "Client: State Farm"}
+{"text": "Job Title: Data Scientist"}
+{"text": "Location: Bloomington, IL"}
+{"text": "Duration: Jan\u201912 \u2013Aug\u201915"}
+{"text": "Objective: Modelling Individual and Family Insurance rate based on Income and Demography for Market campaigning."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participated in all phases of data mining- data collection, data cleaning, developing models, validation, visualization and performed Gap analysis. "}
+{"text": "Providing Ad hoc analysis and reports to Executive level management team. "}
+{"text": "Captured Modelling requirements from Senior Stakeholders to Bench functional requirements for SAS/ R Python "}
+{"text": "Performed Data Manipulation and Aggregation from Various source including HDFS."}
+{"text": "Creating various B2B Predictive and descriptive analytics using R and Tableau "}
+{"text": "Used pandas, numpy, seaborn, scipy, matplotlib, scikit-learn in Python for developing various machine learning algorithms. "}
+{"text": "Designed and tested Predictive Algorithms using Historical Data"}
+{"text": "Utilized machine learning algorithms such as Decision Tree, linear regression, multivariate regression, Naive Bayes, Random Forests, K-means, & KNN."}
+{"text": "Parsing data, producing concise conclusions from raw data in a clean, well-structured and easily maintainable format. "}
+{"text": "Responsible for Big data initiatives and engagement including analysis, brainstorming, POC, and architecture. "}
+{"text": "Worked on different data formats such as JSON, XML and performed machine learning algorithms in R "}
+{"text": "Worked on Map Reduce/Spark Python modules for machine learning & predictive analytics in Hadoop on AWS."}
+{"text": "Worked with (Tableau) Report Writers to Test, Validate Data Integrity of Reports "}
+{"text": ""}
+{"text": ""}
+{"text": "Client: Accenture Private limited"}
+{"text": "Job Title: Modeling Analyst"}
+{"text": "Location: Peoria, IL"}
+{"text": "Duration: Aug\u2019 10 \u2013 Dec\u2019 2011"}
+{"text": "Objective: Modelling Individual and Family Insurance rate based on Income and Demography for Market campaigning"}
+{"text": "Responsibilities:"}
+{"text": "Prepared financials reports, analysis of month on month variance and provided reports to management on a weekly, monthly and quarterly basis"}
+{"text": "Scrutiny of General Ledger on monthly basis and do a financial analysis of the same. Provide the information in an appropriate manner to the management"}
+{"text": "Monitored costs &amp; trend analysis and providing updates on variances to respective stakeholders"}
+{"text": "Prepared annual budget and periodic forecast/outlook and Generating Insights"}
+{"text": "Partnered with Leadership to understand the requirement and provide reports, Analyze business units"}
+{"text": "Recommended solutions for areas of concern with financial data."}
+{"text": "Provided ad-hoc reports as per requirement from time to time"}
+{"text": ""}

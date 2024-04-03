@@ -1,0 +1,250 @@
+{"text": "Name: anna anna"}
+{"text": "E-Mail: anna.anna@gmail.com"}
+{"text": "Address: Delhi, India"}
+{"text": "Github: https://github.com/anna"}
+{"text": "LinkedIn: https://linkedin.com/anna"}
+{"text": "Phone No. 834284430376"}
+{"text": ""}
+{"text": "PROFILE SUMMARY"}
+{"text": ""}
+{"text": "Over 8+ years of IT experience with profile of Software Configuration/Build/Release Management/Continuous Integration and expertise on version control tools like Subversion, Clear case administration, Managing build and multiple releases. Also worked on Clear Quest (Bug Tracking Tool) administration and have hands on Build Automation tools like Hudson and Continuum. Over the course of my career, I have gained lot of experience in assessing the environment and recommending the appropriate SCM tool, recommending appropriate labeling / branching / merging / backup strategies and experience in using CVS, Subversion, VTFS, Perforce, GIT and Rational Clear Case on UNIX and Windows environment. Experienced in working on DevOps/Agile operations process and tools area (Unit test automation, Build & Release automation, Environment, Service, Incident and Change Management)."}
+{"text": ""}
+{"text": "Hands on experience using Automation/Build tools like Jenkins,Chef,Puppet, Ansible, Ant, Maven."}
+{"text": "Experience in using Version Control Tools like TFS, Stash, VSS, Sub-Version, Git."}
+{"text": "Experience in using Continuous Integration tools like TFS Team Build, Cruise Control, Build\u00a0Forge, and Jenkins."}
+{"text": "Configured and maintained Jenkins to implement the CI process and integrated the tool with Ant and Maven to schedule the builds."}
+{"text": "Expert knowledge of SCM concepts (branching, merging, integration, versioning, etc.)\u00a0"}
+{"text": "Experience in working on Jenkins, Cruise Control, Team City, Terraform, Bamboo and Hudson for continuous integration and for End to End automation for all Build and Deployments."}
+{"text": "Experienced in using monitoring tools like Nagios and Splunk."}
+{"text": "Experienceconfiguring and managing Chef master server and experience in updating and creating modules and pushing them to Chef clients."}
+{"text": "AutomatedJBoss/Tomcatapplication serverdeploymentsusingChefmanifests.Usedthesemanifeststo replicatevariousenvironments."}
+{"text": "Managed Linux and Windows virtual servers on AWS EC2 using Chef Server. Configured, monitored and distributed multi-platform servers using Chef."}
+{"text": "Transformation of traditional environment to virtual environment with AWS-EC2, S3, CHEF, PUPPET, Dockers, Vagrant and VMware."}
+{"text": "Experienced in\u00a0Virtualization Technologies for Server, DC and VPC environments including: Vmware ESXi 5.x, 6.x Vmware vSphere, Vmware vRealize, Vmware VCenter Configuration Manager (VCM), Microsoft Hyper-V, Citrix, KVM, Cisco UCS, PowerShell, PowerCLI."}
+{"text": "Experienced in Virtualization Technologies for Client and Mobile environments including: Vmware Realize Horizon View, Vmware ThinApp, Microsoft Hyper-V RDP Clients, Citrix XenDesktop / XenApp."}
+{"text": "Experienced in Vmware Management and Automation Tools: Vcenter 6, (VCo) Vcenter Operations Manager, (VRo) VRealize Operations, Vcenter Orchestrator, VRealize Automation, Vmware Configuration Manager."}
+{"text": "Experience configuring and managing Puppet master server and experience in updating and creating modules and pushing them to puppet clients."}
+{"text": "Automate repetitive tasks, deploy critical applications and manage change on several servers using Puppet."}
+{"text": "Worked on puppet manifest files and puppet master to bring the configuration from the actual state to the desired state."}
+{"text": "Developed scripts to automate DevOps functions, i.e., source code checking with continuous integration, automated test tool configuration, application topology configuration, automated deployment and proactive environment monitoring & management, etc."}
+{"text": "Proficient in using all\u00a0amazon\u00a0web services like EC2, EBS,\u00a0IAM, S3, ELB, RDS, VPC, Route 53, Cloud Watch, Cloud Formation etc."}
+{"text": "Experience in Log Insight and Cloud watch services to diagnose problems and configuring alerts.\u00a0"}
+{"text": "Setting up Auto scaling of the instance group using AWS command line tools and AWS cloud environment for Dev/QA environments."}
+{"text": "Troubleshoot and resolve Splunk performance, Log Monitoring issues, Dashboard creation, Data models."}
+{"text": "Installed, tested and deployed monitoring solutions with Splunk services."}
+{"text": "Experience with container based deployments using Docker, working with\u00a0Docker\u00a0images, Dockerhub and\u00a0Docker\u00a0registries."}
+{"text": "Experienced in using Docker and Openshift to manage micro services for development and testing. "}
+{"text": "Experienced in operating the infrastructure and configuration of Red Hat Openshift."}
+{"text": "Experienced in maintaining a repository of micro services through Openshift pods and supported integration of Openshift and Cloudforms."}
+{"text": "Good understanding of Hadoop working and administration."}
+{"text": "Designed and developed distributed private cloud system solution using\u00a0kuberneteson CoreOS."}
+{"text": "Experience in administering and configuring Nexus Repository Manager for Maven builds."}
+{"text": "Responsible for reviewing and providing technical support, documentation of UNIX server builds and disaster recovery operations."}
+{"text": "Designed, developed, implemented, and maintained custom Gradle tasks in Java and\u00a0Groovy."}
+{"text": "Expertise in working with different Bug Tracking Tools like JIRA, Clear Quest and Quality center."}
+{"text": "Experience is using Tomcat, JBOSS, WebLogic and WebSphere Application servers for deployments."}
+{"text": "Working experience of LDAP, NIS, DHCP, TCP/IP NFS & DNS."}
+{"text": "Coordinated with the Offshore and Onshore teams for Production Releases."}
+{"text": "Experienced with Major ITILprocesses, including incident management and change/release cycles and using DevOps principles and tools that can help ITILpractitioners."}
+{"text": "Involved in Unit Test Cases writing and having good knowledge in\u00a0JUnit.\u00a0"}
+{"text": "Extensive experience of designing and developing software applications with Microsoft Visual studio and .NET\u00a0Framework various versions using C#, ASP.NET."}
+{"text": "Experienced in setup and maintained Load Balancers like F5, Netscaler. TCP/IP fundamentals DNS, FTP, LDAP, Remote Access, Security Management, System Troubleshooting skills, and good knowledge in networking concept including Firewalls."}
+{"text": "Efficiently handled periodic exporting of SQL data into Elasticsearch."}
+{"text": "Performed numerous server migrations on both Linux/Unix and Windows servers. Migrations include moving all clients and their data, configuration settings, testing and verifying everything is correct with zero downtime."}
+{"text": "Good understanding of OS upgrades, BIOS upgrades, Hypervisors."}
+{"text": "Expertise in Querying RDBMS such as Oracle, MY SQL and SQL Server."}
+{"text": "Worked with different NoSQL databases like MongoDB and HBase."}
+{"text": "Hands on experience as LAMP stack system administrator."}
+{"text": "Developed CI/CD system with Jenkins on Google's\u00a0Kubernetes\u00a0container environment, utilizing\u00a0kubernetes\u00a0and Docker for the runtime environment for the CI/CD system to build and test and deploy"}
+{"text": "Published build & release for daily in QA environment. Maintained QA and solved issue of QA and maintain DB version according releases. Published code and DB on production and staging as per business requirement"}
+{"text": "Hands on experience using Chocolatey package manager for windows."}
+{"text": "Used Zipkin to track Web requests as they bounced around different servers.\t"}
+{"text": "Hands on experience working with current licensing strategies around Open Source (Apache Foundation, GNU, MIT License)."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "CERTIFICATIONS:"}
+{"text": "1.AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE."}
+{"text": "2.AWS CERTIFIED DEVELOPER ASSOCIATE."}
+{"text": "3.AWS CERTIFIED SYSOPS ADMINISTRATOR."}
+{"text": "4.RED HAT CERTIFIED SYSTEM ADMINISTRATOR."}
+{"text": "5.RED HAT CERTIFIED ENGINEER."}
+{"text": ""}
+{"text": "PROFESSIONAL EXPERIENCE"}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in reorganization of the\u00a0DevOps\u00a0team to scale the organization's application deployment platforms.\u00a0"}
+{"text": "Interact with developers and Enterprise Configuration Management Team for changes to best practices and tools to eliminate non-efficient practices and bottlenecks.\u00a0"}
+{"text": "Coordinated with Release Management regarding appropriate system releases among other development platforms.\u00a0"}
+{"text": "Responsible for applying the Corporation's Software Configuration Management processes to projects, setting up and maintaining TFS/GIT/GitHub infrastructure and supporting a continuous delivery model by automating software build and package migration processes.\u00a0"}
+{"text": "Created and maintained continuous integration (CI) using tools Jenkins/Maven over differentenvironments to facilitate an agile development process which is automated and repeatable enabling teams to safely deploy code many times a day while ensuring operational best practices are supported."}
+{"text": "Design and document CI/CD tools configuration management. "}
+{"text": "Integrated Team city and Octopus to current TFS environment."}
+{"text": "Integrated Team city with TFS instance for CI and Octopus Deploy for CD."}
+{"text": "Worked on TFS rally connector to synchronize user stories and tasks to directional."}
+{"text": "Worked with Dev teams on TFS performance monitoring in new TFS 2013 environment."}
+{"text": "Migration of share point from WSS 3.0 to TFS 2013 and integrating it with TFS."}
+{"text": "Responsible for orchestrating CI/CD processes by responding to Git triggers, human input, and dependency chains and environment setup. "}
+{"text": "Build and Deployment of CI/CD Pipelines."}
+{"text": "Used chef for server provisioning and infrastructure automation in a SAAS environment. "}
+{"text": "Integration of Automated Build with Deployment Pipeline. Currently installed Chef Server and clients to pick up the Build from Jenkins repository and deploy in target environments (Integration, QA, and Production)."}
+{"text": "Implemented scheduled downtime for non-prod servers for optimizing AWS pricing."}
+{"text": "Configured AWS Identity and Access Management (IAM) users and groups for improved login authentication.\u00a0"}
+{"text": "Configuration of Notification and Monitoring Alerts for\u00a0IAM\u00a0Solutions."}
+{"text": "Created proper documentation for new server setups and existing servers."}
+{"text": "Worked on Cloud automation using AWS Cloud Formation templates."}
+{"text": "Hands on experience collecting data on EC2 instances including: CPU utilization, disk read and write operations, and number of bytes received and sent over the network using Cloud Watch monitoring."}
+{"text": "Experienced in setting up Cloud Watch events like Amazon EC2 instance state-change events, Auto Scaling lifecycle events, and instance launch and terminate notifications, Scheduled events, AWS API call and console sign-in events reported by AWS Cloud Trail."}
+{"text": "Implemented Chef Recipes for Deployment on build for internal Data Centre Servers. Also re-used and modified same Chef Recipes to create a Deployment directly into Amazon EC2 instances. "}
+{"text": "Used Nagios log server for network device log collection, network device log visualization, Nagios Network analyzer for net flow collection and analysis of IP transactions."}
+{"text": "Evaluating testing of Chef Recipes \u2013 Concept of Test Driven Development for Infrastructure as a Code."}
+{"text": "Automate Continuous Build and Deploy Scripts for Hudson/Jenkins Continuous Integration tool."}
+{"text": "Automated the cloud deployments using chef and AWS Cloud Formation Templates."}
+{"text": "Implemented rapid-provisioning and life-cycle management for Ubuntu Linux using Amazon EC2, Chef, and custom Ruby/Bash scripts."}
+{"text": "Implemented Chef Cookbooks for OS component configuration to keep AWS server\u2019s template minimal. "}
+{"text": "Written Chef Cookbooks for various DB configurations to modularize and optimize the product configuration."}
+{"text": "Supporting Chef Environment with 2000+ servers and involved in developing manifests."}
+{"text": "Implemented and building tools such as Ant/Maven to automateand enhancethe overalloperational environment."}
+{"text": "Automated build and the deployment process. Worked with the testing teams to automate test cases as part of the post deployment action and did\u00a0Cucumber\u00a0setup for testing automation."}
+{"text": "Installed and configured latest version of Docker Datacenter including universal control plane (UCP) and docker trusted registry (DTR) on a cluster of hosts."}
+{"text": "Setting up new environments in Pivotal cloud foundry for newly on-boarded applications and provide continuous integration solutions."}
+{"text": "Used\u00a0kubernetes\u00a0to deploy scale, load balance, scale and manage docker containers with multiple namespaced."}
+{"text": "Managed and performed the environment related configuration changes as a part of deployment."}
+{"text": "Installed and configured code rules, keys of\u00a0Sonar\u00a0for code analysis and created of\u00a0Sonar\u00a0Qube dashboards for different team members based on their roles to monitor the progress of project source code."}
+{"text": "Merged release branches to the trunk after the production release and resolved the conflicts rose during the merge in GIT."}
+{"text": "Performed tasks on\u00a0F5\u00a0load\u00a0balancer\u00a0like ordering new certs, installing and renewing SSL certificates, bouncing servers with performance issues after taking them out of the server pools, ID maintenance, User, Group management for all the UNIX servers\u00a0"}
+{"text": "Created the branches in GIT to implement the parallel development process."}
+{"text": "Coordinated Release effort amongst various teams (Dev, QA, DBA and Business Analysis) in geographically separated environment."}
+{"text": "Developed, documented, and automated reusable build and release processes for Visual Studio Team Services (VSTS) and TFS applications using Serena, Ant, Maven, and DOS batch scripts."}
+{"text": "Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution."}
+{"text": "Associated in implementing SonarQube code quality analysis tool for the code."}
+{"text": "Performed defect tracking and Management in JIRA. Generated automated daily reports using JIRA API."}
+{"text": "Environment:Java/J2EE, jQuery, Cucumber, Tomcat, Jenkins, Python, PowerShell, Ruby, F5 load Balancer, Chef, JIRA, Maven, Artifactory, Git, Linux, Docker, AWS, Weblogic."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Administration of Sun Servers (SPARC and x86) running Solaris 9, 10 and Dell, HP Servers running SUSE, Red hat EL 3, 4.x, 5 which included jumpstarting, performing live upgrades of Solaris operating systems and Kick starting Red hat EL 3, 4.x, 5"}
+{"text": "Creation of VMs for SUSE, Solaris x86 and Red hat Linux on VMWare ESX 3.5 and administering them with VI Client."}
+{"text": "Created detailed documentation of complex build and release process, post release activities process, JIRA   workflow and Release notes."}
+{"text": "Implemented best practices of agile methodology to speed up the delivery process efficiently."}
+{"text": "Worked with SVN to manage source code repositories and performed branching, merging, and tagging depending on requirement."}
+{"text": "Performed SVN to GIT migration and Implemented & maintained the branching and build/release strategies utilizing GIT. "}
+{"text": "Performed all necessary day-to-day GIT support for different projects."}
+{"text": "Configured Ansible to manage AWS environments and automate the build process for core AMIs used by all application deployments including Auto scaling, and Cloud formation scripts."}
+{"text": "Involved in writing Ansible playbooks for setup and configuration of tools including Jenkins and artifactory on remote servers using REST API protocol."}
+{"text": "Worked on Open source automation tools (Gherkin,\u00a0Capybara, Ruby, Cucumber)"}
+{"text": "Administered Jenkins for Continuous Integration and deployment into Tomcat/Web Sphere Application Servers. Integrated builds with Code Quality Tools like Cobertura, PMD and Findbugs."}
+{"text": "Migrated a number of in house shell scripts that supported deployment and configuration of multiple applications to UDeploy (Urban code) to reduce the administrative overhead of QA and production releases. This also included implementing team security, common processes and approvals."}
+{"text": "Configured Centralized log collection using Fluentd, Logstash, Elasticsearch and Kibana(ELK) stack for parsing common web server, app server logs, Syslog for intrusion detection. "}
+{"text": "Introduced effective ways of communication and stream-lined use of JIRA, Confluence and to maximize productivity and bring discipline between Dev-QA communication gaps."}
+{"text": "Attended daily stand up meetings, bug-scrub meetings, Sprint planning meetings and Weekly release health check-up meetings as best practices of agile environment."}
+{"text": "Imported and managed multiple corporate applications into\u00a0Bitbucket\u00a0management repo"}
+{"text": "Maintain\u00a0GIT, Bitbucket repository, handling branching, Merging, tagging and release activities."}
+{"text": "Worked with Ant/ Maven to Build artifacts and deploy."}
+{"text": "Creating scripts to create new tables, views, queries for new enhancement in the application using Aginity Workbench for Redshift."}
+{"text": "Used Terraform to handle all the setup of underlying infrastructure resources and services required for automation tools to effectively do their jobs."}
+{"text": "Involved in Terraform integrations, focusing on Go, distributed systems, and infrastructure automation tooling."}
+{"text": "Hands on experience on\u00a0Terraform\u00a0a tool for building, changing, and versioning infrastructure safely and efficiently.\u00a0"}
+{"text": "Worked with\u00a0Terraform\u00a0key features such as Infrastructure as code, Execution plans, Resource Graphs, Change Automation.\u00a0"}
+{"text": "Used DTT scripts on Linux environment to run the queries and load the data to Redshift using Amazon Web Services (AWS)"}
+{"text": "Work closely with developers, QA teams, Product owners and other stakeholders to deploy efficiently on various sandbox instances."}
+{"text": "Managed Network monitoring Tools like Opennms and Wireshark to monitor Server Performance"}
+{"text": "Worked together with developers to fine-tune process for newly introduced Atlassian tools in organization like JIRA, confluence, Stash-Git repository, Source tree."}
+{"text": "Configured RDS instances using Cloud formations and\u00a0Terraform."}
+{"text": "Merged Develop branches to Master Branch after successfully completing pull request in stash."}
+{"text": "Extensive experience in JIRA for creating bugs tickets, storyboarding, pulling reports from dashboard, creating and planning sprints."}
+{"text": "Managed administrative tasks, roles and permission and site maintenance through Demand ware Exchange."}
+{"text": "Executed various scripts to automate build and release process."}
+{"text": "Assisted QA team to monitor post deployment activities and encouraged reporting and feedback process."}
+{"text": "Communicated failed builds and error logs to QA and Developers to debug and troubleshoot problem areas."}
+{"text": ""}
+{"text": "Environment:\u00a0C, C++, Casandra, Linux Servers (Centos, Ubuntu), Solaris 10, Redhat Linux(6.2,5.6,5.5), Oracle10g, 11.2.1,11.2.2, Jboss, Apache, Sun M5000, Sun M3000, Sun M4000, Sun T5120, MySQL, PostgreSQL, ELK, Apache, Nginx, FTP, Windows\u00a0Server 2003, HTML, HTML5, CSS3, Terraform, JavaScript, PHP, uDeploy, Bootstrap, Code igniter, Open Cart, Adobe Photoshop, Adobe Fireworks, Adobe Dreamweaver, Sublime Text."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": ""}
+{"text": "Redefined processes and implemented tools for software builds, patch creation, source control, and release tracking and reporting, on UNIX platform. "}
+{"text": "Responsible for Development -Testing, Staging, Pre-Production and Production Builds and Releases."}
+{"text": "Configuring and maintaining the code in Subversion and ClearCase. "}
+{"text": "Developed build and deployment scripts using ANT and MAVEN as build tools in Jenkins to move from one environment to other environments. "}
+{"text": "Maintained two Jenkins servers and one Bamboo server to deploy into production and nonproduction environments. "}
+{"text": "Integrated Maven with Subversion to manage and deploy project related tags. "}
+{"text": "Created analytical matrices reports, dash boards for release services based on JIRA tickets. "}
+{"text": "Finally reach continuous delivery and Build clouds with Open stack and AWS. "}
+{"text": "Managing Virtual machine using VMware, AWS"}
+{"text": "Team role included working in VMware Orchestrator, VMware\u00a0vRealize\u00a0Automation centre 6.0 (vRA) catalog management creating cloud server provisioning entitlements, creating and defining business groups, creating catalog items, creating services for the catalog items, creating Windows 2008/2012) and Linux (Red Hat6) blueprints."}
+{"text": "Responsibilities include designing and developing new back-end services, maintaining and expanding our AWS infrastructure, and providing mentorship to others on my team."}
+{"text": "Supported 1500+ AWS Cloud instance\u2019s and used AWS command line Interface to manage and configure various AWS products. Wrote automation scripts in Ruby and bash."}
+{"text": "Working closely with the setting up of the Configuration Management Tools Puppet and automation of the infrastructure with Chef that included migrating from the current infrastructure workflow to the new workflow. "}
+{"text": "Fisheye used to extract the information from repository and Crucible used to code review. "}
+{"text": "Integration of Build Forge with Blade Logic and raising a build request through ClearQuest. "}
+{"text": "Deployed Enterprise Application Archive (EAR), Web Application Archive (WAR), JSP's, and Servlets in staging and production. "}
+{"text": "Designed roles and groups for users and resources using AWS Identity Access Management (IAM) and also managed network security using Security Groups, and IAM."}
+{"text": "Builds and deploys J2EE application in WebSphere 6.1and 7.1 using python scripts. "}
+{"text": "Created and maintained PERL scripts for automation of build and release process."}
+{"text": "Documentation of detailed build configuration, Build procedures and change history for releases."}
+{"text": "Coordinated application release with developer, DBA, QA and project management teams. "}
+{"text": "Prepared Migration logs for every release and maintained the data accuracy and identifying the testing Environment and confirmed the Current Code Level and Planned Release schedules.  "}
+{"text": ""}
+{"text": "Environment: Linux Servers (Centos, Debian, Ubuntu), Casandra, Subversion(SVN), Clear Case, Ant, Maven, Gradle, Puppet, Chef, Bamboo, JIRA, Fisheye, Crucible, ClearQuest, Build Forge, PERL, vRealize Suite, AWS Cloud Formation, Python, ERP, WebSphere."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Developed build and deployment processes for Pre-production environments."}
+{"text": "Used Subversion as source code repositories."}
+{"text": "Managed SVN repositories for branching, merging, and tagging."}
+{"text": "Developed Shell/Perl Scripts for automation purpose."}
+{"text": "Resolved merging issues during rebasing and re-integrating branches by conducting meetings with Development Team Leads."}
+{"text": "Responsible for designing and deploying best SCM processes and procedures."}
+{"text": "Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution."}
+{"text": "Designed a CM solution that used ClearCase UCM integrated with Rational ClearQuest."}
+{"text": "Perform administration of users, supported team for parallel development. Wrote Shell/Perl/Ant files to automate certain processes for the smooth process of use of\u00a0build\u00a0tools like\u00a0Build\u00a0Forge.\u00a0"}
+{"text": "Involved in writing parent pom files to establish the code quality tools integration."}
+{"text": "Installing, configuring and administering Jenkins CI tool on Linux machines."}
+{"text": "Implemented the setup for Master slave architecture to improve the Performance of Jenkins."}
+{"text": "Used Jenkins, Build forge for Continuous Integration and deployment into Tomcat Application Server."}
+{"text": "Installed and Configured the Nexus repository manager for sharing the artifacts within the company."}
+{"text": "Supported and developed tools for integration, automated testing and release management."}
+{"text": "Verified if the methods used to create and recreate software builds are consistent and repeatable."}
+{"text": "Involved in Research of the project application architecture to support/resolve build, compile, and test issues/problems."}
+{"text": "Releasing code to testing regions or staging areas according to the schedule published."}
+{"text": "Used Jira as ticket tracking and work flow tool."}
+{"text": "Environment:C, C++, SVN, Shell/Perl Scripts, SCM, Jenkins, Build Forge, Maven and ANT, Tomcat, Jira."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Supported Clients Environment, and systems\u00a0troubleshooting that involving RHEL and SUSE server's in a large scale environment."}
+{"text": "Performing software installations and upgrades to Red Hat\u00a0Linux\u00a04.x, 5.x, 6.x and maintaining them in accordance with established policies, procedures and service level agreements.\u00a0"}
+{"text": "Creating and maintaining User accounts, profiles, security, rights, disk space and process monitoring.\u00a0"}
+{"text": "Performance Management & Tuning of RHEL"}
+{"text": "Package management using RPM and YUM in Red Hat Linux."}
+{"text": "Installed and configured SAMBA server for windows and\u00a0Linux\u00a0connectivity.\u00a0"}
+{"text": "Coordinated with security team to deploy of patches and packages to RHEL and Solaris servers."}
+{"text": "Setup and Configuring Kickstart Server for RedHat EL (RHEL) and auto install with SUSE Linux Enterprise Server (SLES) / Open SUSE and automated the installation of the servers at a largescale infrastructure environment."}
+{"text": "Installed, configured, and login 1,500 servers."}
+{"text": "Worked on networking protocols TCP/IP, SCP, SFTP, HTTP, NFS, GPFDIST, GPHDFS, etc."}
+{"text": "Hands on experience in installing and maintaining of Splunk on servers."}
+{"text": "Upgraded manufacturer recommended firmware for BIOS during annual kernel patching schedule"}
+{"text": "Experienced working on virtualization using VMware ESX"}
+{"text": "Implemented and configured Backup policies and Storage Units."}
+{"text": "Worked on Change Management and Disaster Recovery management\u00a0"}
+{"text": "Monitoring\u00a0system\u00a0resources, logs, disk usage, scheduling backups and restore.\u00a0"}
+{"text": "Configuring SUDO and granting root permission to users for performing certain activities.\u00a0"}
+{"text": "File\u00a0system\u00a0tuning, growing, and shrinking with Veritas File\u00a0system\u00a03.5/4. x.\u00a0"}
+{"text": "Worked on network connectivity, SAN storage, creating LVM and taking TSM backup.\u00a0"}
+{"text": "Installed Deployment &\u00a0system\u00a0configuration Automation JIRA, HPSA and Puppet server.\u00a0"}
+{"text": "Modifying user's password policies, group policy, UID and GID assignment policies.\u00a0"}
+{"text": "Monitored the performance of the\u00a0system\u00a0using top, sar, ps, prstat, vmstat, netstat, iostat, and cpuinfo to check the CPU utilization, bottlenecks of I/O devices, memory usage and network traffic.\u00a0"}
+{"text": "Troubleshoot network connectivity used ping, netstat, ifconfig, and trace route commands. Login to the remote\u00a0system\u00a0using sudo, putty, and telnet. Transfer files across the\u00a0systems\u00a0on the network.Linux\u00a0technical support and prepared technical documentation for check in verification.\u00a0"}
+{"text": "Regular backing up of critical data and restoring backed up data. Worked in solving tickets issued on day to day activities and problems related to development and test servers.\u00a0"}
+{"text": "Installed, configured and supported Apache, JBoss, Oracle 10g, and Clear case. Configuration of virtual hosts, plugins and SSL certificates on web servers and domains and deployments on application servers."}
+{"text": "Configuration of name services which includes DNS using Bind (Split DNS, ACLs), Sun Java System Directory Server and NIS."}
+{"text": "Environment: RHEL, SUSE Linux, Apache, JBoss, VMware, Java, Red Hat Linux4,5, x6 VMware ESX 3.5/4.1, VCenter 5.1, ESXi 5.1, Windows Server 2008 R2, sun Solaris 8,9,10, Solaris Volume Manager, WebLogic, Samba, Oracle 9i/10g SAP,7200.1.0.1.1050., VMAX. "}
+{"text": "\u00a0\u00a0\u00a0\u00a0\u00a0"}
+{"text": "\u00a0"}

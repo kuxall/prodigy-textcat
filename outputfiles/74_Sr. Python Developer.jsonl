@@ -1,0 +1,192 @@
+{"text": "Name: ruth ruth"}
+{"text": "E-Mail: ruth.ruth@gmail.com"}
+{"text": "Address: Shangqiu, China"}
+{"text": "Github: https://github.com/ruth"}
+{"text": "LinkedIn: https://linkedin.com/ruth"}
+{"text": "Phone No. 450063788595"}
+{"text": "Above 8+ years of IT experience in all phases of Software Development Life Cycle (SDLC) such as Planning, Analysis, Design, Implementation, Testing and Maintenance of Web Based, Client-Server in domains like Banking, HealthCare, Telecom etc"}
+{"text": "Proficient coder in multiple languages and environments including Python, Django, C, C++ and SQL."}
+{"text": "Experienced in developing web-based applications using Python, Django, UI/UX, PHP, C++, XML, CSS 5, HTML, DHTML, JavaScript, Jdk1.7, jquery, Angular.JS."}
+{"text": "Experience in version control systems using CVS, SVN and Git/Github and issue tracking tools like Jira and BugZilla."}
+{"text": "Experienced in working with various Python IDE's using PyCharm, Spyder, PyStudio, PyScripter, and PyDev"}
+{"text": "Understanding of Python best Practices (PEP-8)."}
+{"text": "Expertise in handling web applications - UI security, logging, backend services."}
+{"text": "Hands on working with Python latest versions 3.4.3 and 2.7.10,SVN, Git, JIRA, Bugzilla, Axosoft, Amazon EC2/S3."}
+{"text": "Proficient in SQLite, MySQL and Postgre SQL databases with Python."}
+{"text": "Experienced in developing Web Services with Python programming language."}
+{"text": "Familiar with JSON based REST Web services and Amazon Web Services (AWS)."}
+{"text": "Experienced in writing SQL Queries, Stored procedures, functions, packages, tables, views"}
+{"text": "Strong understanding of UNIX and Linux environments and commands."}
+{"text": "Strengths include ability to prioritize responsibilities, manage multiple projects in parallel, Ability to interact effectively with all levels of management and developers."}
+{"text": "Well versed with Agile with SCRUM, Waterfall Model and Test-driven development methodologies."}
+{"text": "Experience in building frameworks and automating complex workflows using Python for Test Automation"}
+{"text": "Experienced in handling projects for entire software life cycle and provided first, second and third level support. Handled late night calls and deployed production hot fixes."}
+{"text": "Experience in implementing with server side technologies with restful API and MVC design patterns with node JS and Django framework."}
+{"text": "Good experience on using Mercurial, Git (GERITT review) and CVS for configuration management."}
+{"text": "Implemented continuous integration using Jenkins"}
+{"text": "Excellent verbal and written skills, especially with regards to presenting findings to both technical and nontechnical audiences."}
+{"text": "Good experience in JAVA and OOPS concepts."}
+{"text": "Experience in writing test scripts, test cases, test specifications and test coverage."}
+{"text": "Hands on experience in using NOSQL libraries like MongoDB, Cassandra, Redis and relational databases like Oracle, SQLite, PostgreSQL and MYSQL databases."}
+{"text": "Knowledge of the Software Development Life Cycle (SDLC), Agile and Waterfall Methodologies."}
+{"text": "Experience with Python development under Linux OS (Debian, Ubuntu, SUSE Linux, RedHat Linux, Fedora)"}
+{"text": "Built and deployed production sites using apache."}
+{"text": "Adept in providing analytical support to key business applications/ solutions."}
+{"text": "Experience with Jsp Servlets, Web Services (SOAP, REST) and Tomcat."}
+{"text": "Excellent debugging, problem solving, optimization and testing skills."}
+{"text": "Expertise in writing Stored Procedures, Cursors, Functions and performed data analysis using PL/SQL"}
+{"text": ""}
+{"text": "Willing to relocate: Anywhere"}
+{"text": ""}
+{"text": "TECHNICAL SKILLS"}
+{"text": ""}
+{"text": ""}
+{"text": "WORK EXPERIENCE"}
+{"text": ""}
+{"text": "Senior Python Developer"}
+{"text": "Touchstone - Mason, OH\tJuly 2015 to Present"}
+{"text": ""}
+{"text": "This project mainly involved in developing the web application using python 2.7 version and Django framework in frontend application. Connected the application to AWS using amazon beanstalk using Django framework to run the application on server."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Analyzed & gathered business requirements specifications by interacting with client & understanding business requirement specification documents."}
+{"text": "Developed the presentation layer using HTML, CSS, JavaScript, JQuery and AJAX."}
+{"text": "Used JQuery libraries for all client side JavaScript manipulations."}
+{"text": "Utilized Python libraries wxPython, numPY, Twisted and matPlotLib."}
+{"text": "Implemented SQL Alchemy which is a python library for complete access over SQL."}
+{"text": "Worked on ElementTree XML API in python to parse XML documents and load the data in database."}
+{"text": "Skilled in collections and used for manipulating and looping through different user defined objects."}
+{"text": "Developed views and templates with Python and Django's view controller and templating language to created user-friendly website interface."}
+{"text": "Used Django configuration to manage URLs and application parameters."}
+{"text": "Created entire application using Python, Django, MySQL and Linux."}
+{"text": "Installed, configured, and managed the AWS server."}
+{"text": "Used Amazon Elastic Beanstalk with Amazon EC2 to deploy project into AWS."}
+{"text": "Entailed setting up Saltstack to run AWS."}
+{"text": "AWS data pipeline for Data Extraction, Transformation and Loading from the homogeneous or heterogeneous data sources."}
+{"text": "Accessed database objects using Django Database APIs."}
+{"text": "Worked on python based test frameworks and test driven development with automation tools."}
+{"text": "Experience in continuous integration and automation using Jerkins."}
+{"text": "Strong experience working with real time streaming application and batch style large scale distributed computing applications using tools like Spark Streaming."}
+{"text": "Implemented advanced procedures like text analytics and processing using the in-memory computing capabilities like Apache Spark written in Scala."}
+{"text": "Deployed the project into Heroku using GIT version control system."}
+{"text": "Responsible for debugging and troubleshooting the web application."}
+{"text": "Took part in the entire project's lifecycle which includes Design, Development and Deploying, Testing, Implementation and support."}
+{"text": "Used Design patterns efficiently to improve the code reusability."}
+{"text": "Coordinated with the offshore development team and assisted them when required."}
+{"text": ""}
+{"text": "Environment: Python 2.7, Django 1.6, CSS, HTML, JavaScript, JQuery, AJAX, MYSQL, Linux, Heroku, GIT.va, JQuery, MySQL, Oracle 11.2, Linux, Django, Eclipse, Shell Scripting, HTML5/CSS. Red hat Linux, Apache."}
+{"text": ""}
+{"text": ""}
+{"text": "Sr. Python Developer"}
+{"text": "Fidelity Investments\u00a0- Raleigh, NC\t April 2014 to June 2015"}
+{"text": ""}
+{"text": "Responsibilities"}
+{"text": "Write python script to fix the bug using Cisco bug signature tool Diagnostic Signature."}
+{"text": "Improved script performance with respect to database inserts for millions of records"}
+{"text": "Used threading module to download data for multiple clients in parallel"}
+{"text": "Developed daemon programs."}
+{"text": "Gathered all requirements for developing and analyzing requirement of projects."}
+{"text": "Developed Merge jobs in Python to extract and load data into MySQL database."}
+{"text": "Successfully migrated the Django database from SQLite to MySQL to PostgreSQL with complete data integrity."}
+{"text": "Dynamic implementation of SQL server work on website using SQL developer tool."}
+{"text": "Designed front end using UI, HTML, Bootstrap, Node JS, underscore JS, Angular JS CSS, and JavaScript."}
+{"text": "Involved in the Complete Software development life cycle (SDLC) to develop the application."}
+{"text": "Followed AGILE development methodology to develop the application."}
+{"text": "Used and customized apache server to for checking our developed project."}
+{"text": "Used several python libraries like wxPython, numPY and matPlotLib."}
+{"text": "Was involved in environment, code installation as well as the SVN implementation."}
+{"text": "Build all database mapping classes using Django models and Apache Cassandra."}
+{"text": "Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval."}
+{"text": ""}
+{"text": "Environment: Python 3.3, PyQT, PyQuery, MVW, HTML5, CSS3, DOM, Angular.js, Shell Scripting, JSON, Rest, Apache Web Server, Django, SQL, UNIX, Windows, PostgreSQL, and python libraries such as Numpy, sqlalchemy, Django Tastypie"}
+{"text": ""}
+{"text": ""}
+{"text": "Senior Python Developer"}
+{"text": "Express Scripts - Edison, NJ\t January 2013 to March 2014"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Closely involved in performance evaluation and User Acceptance Test."}
+{"text": "Developed a portal to manage and entities in a content management system using Flask."}
+{"text": "Designed the database schema for the content management system."}
+{"text": "Wrote programs for performance calculations using Numpy and sqlalchemy."}
+{"text": "Worked on CSV files while trying to get input from the MySQL database."}
+{"text": "Wrote python scripts to parse XML documents and load the data in database."}
+{"text": "Worked in stages such as analysis and design, development, testing and debugging."}
+{"text": "Organized data exchange and integration with customers and third-party systems using CSV, XLS, XML, DBF, JSON, REST, SOAP."}
+{"text": ""}
+{"text": "Environment: Python 2.7, Windows, MySQL, flask and python libraries such as Numpy, sqlalchemy, MysqlDB."}
+{"text": ""}
+{"text": ""}
+{"text": "Python Developer"}
+{"text": "Fidelity Investments - Raleigh, NC\t October 2011 to December 2012"}
+{"text": ""}
+{"text": "Description: Fidelity Investments is an American multinational financial services corporation. It is the second largest mutual fund and financial services group in the world. Fidelity Investments manages a large family of mutual funds, provides fund distribution and investment advice services, as well as providing discount brokerage services, retirement services, wealth management, securities execution and clearance, life insurance and a number of other services."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Interacted with the client end-users during requirements gathering sessions."}
+{"text": "Developed views and templates with Python and Django's view controller and templating language to create a user-friendly website interface."}
+{"text": "Developed dynamic web pages using Python, Django Frameworks."}
+{"text": "Designed and Developed User Interface using front-end technologies like HTML, CSS, JavaScript, JQuery, AngularJS, Bootstrap and JSON."}
+{"text": "Worked on Django API's for accessing the database."}
+{"text": "Supported Apache Server on Linux Platform."}
+{"text": "Generated Python Django forms to record data of online users and used PyTest for writing test cases."}
+{"text": "Created specific images using Python Imaging Library for the custom images used for each book"}
+{"text": "Implemented Business logic, worked on data exchange, processed XML and HTML using Python 2.7 and its familiar framework Django."}
+{"text": "Model View Control architecture is implemented using Django Framework to develop web applications."}
+{"text": "Developed Views and Templates with Python and using Django's view controller and template language, Website interface is created."}
+{"text": "Used IBM DB2 SQL stored procedures and UNIX Shell Scripts for importing/exporting Data and Conversions."}
+{"text": "Created Django dashboard with custom look and feel for end user after a careful study of Django admin site and dashboard."}
+{"text": "Worked on Jenkins continuous integration tool for deployment of project."}
+{"text": "Deployed the project into Jenkins using GIT version control system."}
+{"text": "Created Git repository and added to GitHub project."}
+{"text": "Developed Application to access JSON and XML from Restful Web Service from consumer side using JavaScript and Angular.JS."}
+{"text": "Actively worked as a part of team with managers and other staff to meet the goals of the project in the stipulated time."}
+{"text": "Implemented automate scripts to back up the old records using MongoDB export command and transfer these backup files into backup machine using Ftplib."}
+{"text": "Ensured high quality data collection and maintaining the integrity of the data."}
+{"text": "Developed object-oriented programming to enhance company product management."}
+{"text": ""}
+{"text": "Environment: Python2.7, Django, HTML5/CSS, XML, Angular.JS, MySQL, JQuery, JavaScript, JSON, Ajax"}
+{"text": ""}
+{"text": "Python Developer"}
+{"text": "Cloud Sherpas - Atlanta, GA \t February 2010 to September 2011"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Participated in the complete SDLC process and used PHP to develop website functionality."}
+{"text": "Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript."}
+{"text": "Developed entire frontend and backend modules using Python on Django Web Framework."}
+{"text": "Designed and developed data management system using MySQL. Built application logic using Python 2.7."}
+{"text": "Used Django APIs for database access."}
+{"text": "Used Python to extract weekly hotel availability information from XML files."}
+{"text": "Participated in requirement gathering and worked closely with the architect in designing and modelling."}
+{"text": "Worked on development of SQL and stored procedures on MYSQL."}
+{"text": "Developed shopping cart for Library and integrated web services to access the payment (E-commerce)."}
+{"text": "Designed and developed a horizontally scalable APIs using Python Flask."}
+{"text": "Designed Cassandra schema for the APIs."}
+{"text": ""}
+{"text": "Environment: Python 2.6/2.7, JavaScript, Django Framework 1.3, CSS, SQL, MySQL, LAMP, JQuery, Adobe Dreamweaver, Apache web server."}
+{"text": ""}
+{"text": ""}
+{"text": "Java/J2EE Developer"}
+{"text": "Reliance Communications Ltd - Mumbai, Maharashtra \t September 2008 to January 2010"}
+{"text": ""}
+{"text": "Description: Reliance Communications Ltd. is an Indian Internet access and telecommunications company headquartered in Navi Mumbai, India. It provides CDMA, GSM mobile services, fixed line broadband and voice services, DTH depending upon the areas of operation. Reliance Communications is the fourth largest telecom operator in India with 109.90 million subscribers as of June 2015."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in developing, testing and implementation of the system using Struts, JSF, and Hibernate."}
+{"text": "Involved in entire life cycle development of the application."}
+{"text": "Involved in the development of business module applications using J2EE technologies like Servlets, Struts, JDBC and ODBC."}
+{"text": "Reviewing and analyzing data model for developing the Presentation layer and Value Objects."}
+{"text": "Used HTML, CSS, XHTML and DHTML in view pages for front-end."}
+{"text": "Extensively involved in developing Web interface using JSP, JSP Standard Tag Libraries (JSTL) using Struts Framework."}
+{"text": "Developing, modifying, fixing, reviewing, testing and migrating the Java, JSP, XML, Servlet, SQLs, JSF, Spring and hibernate programs"}
+{"text": "Used Struts & JavaScript for client-side validation."}
+{"text": "Automated the HTML and JSP pages indexing process of search module using Apache Ant tool and singleton design pattern."}
+{"text": "Involved in web designing using HTML 4/5, XHTML, CSS 2/3, JQuery, JavaScript extensively used Table less Design in CSS for positioning."}
+{"text": "Adopted J2EE best practices using J2EE design patterns for designing and developing the application components."}
+{"text": "Developed JavaScript files for user input validation and client side revenue calculations."}
+{"text": ""}
+{"text": ""}
+{"text": "EDUCATION"}
+{"text": ""}
+{"text": "Bachelor of Computer Science in Education"}
+{"text": "Acharya Nagarjuna University"}

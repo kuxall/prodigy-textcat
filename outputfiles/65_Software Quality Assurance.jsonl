@@ -1,0 +1,148 @@
+{"text": "Name: hazel hazel"}
+{"text": "E-Mail: hazel.hazel@gmail.com"}
+{"text": "Address: Nanjing, China"}
+{"text": "Github: https://github.com/hazel"}
+{"text": "LinkedIn: https://linkedin.com/hazel"}
+{"text": "Phone No. 461392705208"}
+{"text": ""}
+{"text": "CAREER SUMMARY:"}
+{"text": "6+years of professional experience in the IT industry with focus on Software Quality Assurance, Considered as a highly motivated individual with the ability to make informed decision based on analytical skills. Successfully completed various projects with emphasis on providing quality and accurate results"}
+{"text": " "}
+{"text": "PROFESSIONAL SUMMARY"}
+{"text": "Six plus years of diversified experience in Quality Assurance and Software testing in Healthcare/Insurance Services, Information Technology, etc."}
+{"text": "Strong knowledge in Software Development Life Cycle (SDLC). Experienced in full life cycle of system development"}
+{"text": "Extensive experience in QA Methodologies, preparing Test Plans, writing Test Cases and executing them; performed Defect Reporting and Tracking throughout the entire defect life cycle of various Web Based applications."}
+{"text": "Good knowledge of ICD-9/ICD-10 and HIPAA 4010/5010 Transaction Requirements."}
+{"text": "Worked on\u00a0Agile/ SCRUM technology and participated in demos at various sprints."}
+{"text": "Involved in Black Box, Positive, Negative, Data-driven, System Integration, System, Regression, End to End, Functional, Smoke/Sanity, Static, Interface, SIT and UAT Testing."}
+{"text": "Extensive experience in testing\u00a0applications including in\u00a0Provider, Group, subscriber/Family, membership and billing."}
+{"text": "Good experience working with Provider Portal and FACETS-PROVIDER MODULE."}
+{"text": "Excellent Working Knowledge of\u00a0HIPPA,\u00a0Claims Processing, FACETS."}
+{"text": "Involved and maintained the Test Matrix and Requirements Traceability Matrix."}
+{"text": "Experience working with Member and Provider portal projects, including gathering requirement for member benefits and provider contracts. "}
+{"text": "Experienced in Backend Testing using SQL Queries."}
+{"text": "Experienced in Unit, Integration, System, Positive and Negative, Configuration, Volume, Black Box, and Functional testing."}
+{"text": "Experience designing test assignments and generating various test status reports through Quality Center."}
+{"text": "Actively involved in Usability and User Acceptance testing."}
+{"text": "Effective Time Management Skills and consistent ability to meet client deadline"}
+{"text": "Good team player and ability to work independently along with strong problem solving, learning and communication skills."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS:"}
+{"text": ""}
+{"text": ""}
+{"text": "WORK EXPERIENCE"}
+{"text": ""}
+{"text": "Well Care Health Plans Inc., Tampa, FL  \t\t         \t\t\t\tDec \u201813 \u2013 Present"}
+{"text": "Senior QA Analyst "}
+{"text": "Well Care Health Plan is one of the most reputed organizations in the health care industry which provides Medicare and Medicaid managed care health plans for 2.2 million members. Well Care partners with over 91,000 physicians and employs over 3,500 associates across the states. I was involved on the upgrading the Clinical Care Advance (CCA) project from phase 1 to Phase 2 for the web portal along with the TriZetto's Team. My recent other projects are FAP GEO CODE, Georgia Portal Auth., Producer Web Portal, ICD 10 compliance surrounding apps remediation for Web, Web Premium Payments, Care Gaps etc. and other major critical releases for Web. Designed and executed test plans and test cases and generated test scripts and test scenarios using Quality Center. "}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Prepared test cases, according to the business specification and wrote scripts according to the test case."}
+{"text": "Analyzed requirements and design/tech-specs for testability."}
+{"text": "Coordinated feedback from testability reviews to PM from the QA team."}
+{"text": "Successfully completed testing Claims Pay Hold functionality on its scheduled time.   "}
+{"text": "The project has subscriber Payment Data extract and Eligibility Data extract. Validation completed for both extracts.  "}
+{"text": "Worked on a commission adjustment extension of Facets Core Apps and tested successfully on time."}
+{"text": "Assisted UAT Business Leads with set up in tools and tool training as needed."}
+{"text": "Performed Functional, Regression, System and User Acceptance Testing (UAT) in Web and Mainframe application."}
+{"text": "Senior QA supporting large scale implementation of Trizetto FACETS."}
+{"text": "Test data de-identification effort, successfully de-identifying FACETS database and synchronizing interfacing systems."}
+{"text": "Worked on Members, Providers, Claims, Configuration and Payment Modules of FACETS."}
+{"text": "Analyzed the FACETS Requirements/BRD\u2019s/Gap analysis, then prepared test scenarios and test cases."}
+{"text": "Conducted Validations for different FACETS modules Providers, Claims and Membership "}
+{"text": "Member and Provider Conversion, Created Keyword and EDI File and Modify the Member Data as per the Business Requirement Document and as per the test case."}
+{"text": "Prepared Test Cases based on business requirements and business rules for HIPPA EDI Transaction 834, 276/277, 270/271, 278 and 837/835. "}
+{"text": "System Integration testing for Facets core modules with external systems. "}
+{"text": "Created and maintained SQL Scripts to perform back-end testing on the oracle database."}
+{"text": "Developed and executed test cases test Scenarios and followed-up defects using Quality center."}
+{"text": "ICD 9- ICD 10 conversion analysis \u2013Worked in the analysis of the ICD 9 - ICD10 codes."}
+{"text": "Uploaded the diagnosis codes, procedure codes to the related tables in test environment to verify the changes related to ICD9 - ICD10 changes"}
+{"text": "Tracked defects using Quality center."}
+{"text": "Arranged weekly team meeting to assign testing tasks and acquisition of status reports from individual team members."}
+{"text": "Conducted Bug review meeting to discuss resolution of issues."}
+{"text": ""}
+{"text": "Environment: Facets 5.01, Batch Servers, JIRA, TOAD for Oracle, MS Word, MS Project, MS Excel, Reporting Portal, SQL, Quality Center. "}
+{"text": ""}
+{"text": "Cigna Healthcare, Raleigh, NC\t\t\t\t\t\t   \t   Mar \u201812 \u2013 Nov \u201813 "}
+{"text": "QA Analyst"}
+{"text": ""}
+{"text": "Cigna Healthcare is a global health services organization. Its insurance subsidiaries are major providers of medical, dental, disability, life and accident insurance and related products and services."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for testing the Navigation Flow, Functionality Testing, System Testing and User Acceptance Testing."}
+{"text": "Prepare Test Data, Test scenarios, Test Scripts and executed Test Cases from ALM/Quality Center."}
+{"text": "Performed Back-end testing on the application by writing complex SQL queries."}
+{"text": "Involved in reviewing complex SQL queries, views, functions and stored procedures and spotting issues before/during code migration."}
+{"text": "Worked with providers and Medicare or Medicaid entities to validate EDI transaction sets or Internet web portals.  "}
+{"text": "Involved in coordinating with SMEs to discuss different scenarios at the time of scripting Test Cases."}
+{"text": "Have good exposure to modern Agile Methodologies such as SCRUM and TDD."}
+{"text": "Participating/Facilitating Defect Triage meetings with developers and SMEs."}
+{"text": "Creating several Test Cases and Test Conditions for testing various Claims, Enrollment, Billing and Provider reports. "}
+{"text": "Worked on EDI X12 transaction set 837 I/P/D, 276/277 feeds to allow for change in the claim number."}
+{"text": "Involved in End to End testing of FACETS Billing, Claim Processing and Subscriber/Member module."}
+{"text": "Conducting Validations for different FACETS modules like Providers, Claims and Enrollment.\u00a0 "}
+{"text": "Analyzing and making specific recommendations on improvements that can be integrated into business processes."}
+{"text": "Also worked on 837 and 835 projects, including syntax and business rules for X12 HIPAA 4010 and 5010 validation for loops, segments, elements, qualifiers and code sets. "}
+{"text": "Participating in reviews throughout the development lifecycle."}
+{"text": "Facilitating User Acceptance Testing by providing the necessary support to the business users."}
+{"text": "Extensively performing manual testing and defect reporting using HP Quality Center/ALM."}
+{"text": "Performing\u00a0manual testing,\u00a0considering the base line of developed test plan and test cases considering both positive and negative scenarios."}
+{"text": "Test scenario identification and alignment of service oriented architecture implemented within the organization."}
+{"text": "Creating different pricing rules and verified whether the adjudication system is using the rules while adjudicating the Claims."}
+{"text": "Tested the ability to accept and send 834 electronic transactions and validate completed transactions."}
+{"text": "Tested the ability to store Identification number received from the Exchange and create a unique identifier for members received through the Exchange."}
+{"text": "Responsible for testing of different Benefit terms and contract terms, according to Configuration library."}
+{"text": "Development of SQL queries as per the request of the business team in SQL server."}
+{"text": "Extensively involved in managing defects using Quality Center and interacted with the DEV team in resolving critical and high defects."}
+{"text": "Extensively involved in UAT support for their execution and Defect Triage."}
+{"text": ""}
+{"text": "Environment: ALM/Quality Center, QTP, FACETS 4.81, Trizetto MDE, Tidal, SQL Server, SQL Server Reporting Tool, TOAD, MS-Office, MS SharePoint."}
+{"text": ""}
+{"text": "Med Point, Woodland Hills, CA\t\t\t\t\t\t\tNov '10 \u2013 Feb \u201812"}
+{"text": "QA Analyst"}
+{"text": ""}
+{"text": "Project was about developing a secured web portal to enable the authorized clients to have quick access to patient's electronic health records. The project also involved implementation of Claims processing module, which involved Receipt and Verification of Claim Forms (837) and Claims Attachments (275), Claims Enquiry and Response (276/277), Adjudication, Healthcare Claim Payment/Advice (835) as per HIPAA guidelines."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Work closely with the SCRUM team to create test scripts and test cases to ensure coverage of all areas of the product/feature(s)"}
+{"text": "Developed Test Plans, Test Cases to test the Screens and workflows for Quality Assurance."}
+{"text": "Involved in automating the test scripts using Testing Anywhere tool"}
+{"text": "Work in Agile, scrum, and sprint environment in order to change the requirements and features set."}
+{"text": "Prepared the Business Requirement documents (BRD), Functional requirement documents (FRD), Use case narrative for transaction sets 837, Inbound-Professional, institutional, dental claims, 835 Outbound transactions, 270/271Eligibility Request and Response, 277CA (Health Care Claim Acknowledgement) as per the requirements. "}
+{"text": "Supported the client with project planning, defining the project scope, analyzing requirements, prioritizing, design, testing, system documentation and user training documentation through the entire Software Development Life Cycle (SDLC) "}
+{"text": "Prepared project plan based on requirements given by Health Business group. "}
+{"text": "Worked with HIPAA compliant EDI ANSI X12 837 transactions mapping for both professional claims and institutional claims. "}
+{"text": "Developed test cases, creating test scripts, analyzing bugs, and assisted with Quality assurance and development teams in defect management and User Acceptance Testing (UAT) "}
+{"text": "Assisted with Testing and Certification of EDI transactions as per HIPAA guidelines to help ensure transactions are compliant with standards, and requirements."}
+{"text": ""}
+{"text": "Environment:  MS Visio, Quality Center, MS SQL Server, MS Office (Word, Excel, PowerPoint)"}
+{"text": ""}
+{"text": "Cardinal Healthcare - Dublin, OH                                      \t\t\t\tDec \u201808 \u2013 Oct \u201810"}
+{"text": "QA Analyst"}
+{"text": ""}
+{"text": "Cardinal Health Specialty Solutions (CHSS) provides strategic consulting, healthcare analytics and promotional services to the specialty pharmaceutical and biotech industries. Cardinal innovative technology and healthcare analytics are designed to maximize the commercialization plans. It support customers by providing the Consulting, Healthcare analytics, Promotional campaigns and programs, Meeting planning logistics."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for creating complete test cases, test plans, test data, and reporting status ensuring accurate coverage of requirements and business processes. "}
+{"text": "Analyzing requirements and creating and executing test cases "}
+{"text": "Performing manual testing by performing the operations mentioned in the design steps. Compared the expected results with the actual outcome and recorded the results. "}
+{"text": "Modifying and creating SQL Queries and stored procedures for quality assurance and analysis. "}
+{"text": "Performing backend testing of the DB by writing SQL queries to test the integrity of the application and Oracle databases. "}
+{"text": "Wrote and modified SQL validation scripts, and writing scripts in SQL to validate the outputs. "}
+{"text": "Formulating the QA plan for black box testing of the application including Functional, Regression, Integration, Systems and User Acceptance Testing. "}
+{"text": "Performing database testing to verify backend database transactions. "}
+{"text": "Coordinating user acceptance testing activities for business groups and IT. "}
+{"text": "Involving in communication between UAT team members, business leaders, and IT. "}
+{"text": "Participates in application release planning and status sessions. "}
+{"text": "Created, maintained and updated regression suites upon receiving new build. "}
+{"text": "Modifying and executing test scripts for web based environment-using Quality Center. "}
+{"text": "Creating traceability relationship between requirements in the same module and between different modules. "}
+{"text": "Extensively used Quality Center for documenting, organizing and tracking requirements. "}
+{"text": "Involved in the retest the existing test cases with the different kind of source systems for different periods of data. "}
+{"text": "Preparing documentation for some of the recurring defects and resolutions and business comments"}
+{"text": ""}
+{"text": "Environment: HP Quality Center, Oracle, QTP, SQL, PL/SQL, DB2, SQL*Plus, UNIX, shell scripting."}
+{"text": ""}
+{"text": "Education: Bachelor\u2019s in Business Administration"}
+{"text": ""}

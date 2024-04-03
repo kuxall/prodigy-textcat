@@ -1,0 +1,188 @@
+{"text": "Name: clara clara"}
+{"text": "E-Mail: clara.clara@gmail.com"}
+{"text": "Address: Bogot\u00e1, Colombia"}
+{"text": "Github: https://github.com/clara"}
+{"text": "LinkedIn: https://linkedin.com/clara"}
+{"text": "Phone No. 824554399147"}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "7+years of IT industry experience as a System Engineer, DevOps\u00a0and Production Support of various applications on Red Hat Enterprise Linux,Ubuntu, Debian,Sun\u00a0Solaris\u00a0and\u00a0Windows environment."}
+{"text": "Experience in installation and management of different serviceslike DNS, Apache, LDAP, SAMBA, HTTPD, VSFTP, SMTP, SQUID, and Active Directory."}
+{"text": "Experience in installing, configuration, support, upgrading and patching Linux servers using Red hat Satellite Server and also worked on registering different client servers and involved in building channels and pushing the packages to master Red hat Satellite Server"}
+{"text": "Strong experience with XML, SQL, PERL and shell scripting."}
+{"text": "Excellent knowledge of distributed computing relational databases and network programming."}
+{"text": "Superior background in object oriented development including PERL and C++."}
+{"text": "Profound understanding of networking and LINUX/UNIX."}
+{"text": "Experience in Installing, configuring and maintainingNagios,Zabbix, Chef and SaltStack."}
+{"text": "Setup/configure Servers with Windows Servers with Active Directory, VMware on Server, SANs on LAN"}
+{"text": "Extensively worked on Hudson/Jenkins, Docker, Team City for continuous integration and for End-to-End automation for all build and deployments. "}
+{"text": "Proficient in Chef Recipes to automate our build/deployment process and do an overall process improvement to any manual processes."}
+{"text": "Experience in  Chef spec for Unit testing, Serverspec and Inspec for integration testing of cookbooks."}
+{"text": "Expertise in different versions of Cloudstack,Openstack, AWS, VMware and other private clouds."}
+{"text": "Experience in Installation of VMware ESX server and creation of\u00a0VMs and install different guest OS."}
+{"text": "Uniquely positioned to address the evolutionary changes occurring today in the Internet\u2019s infrastructure including DNS security extensions (DNSSEC), IPv6, and International Domain Names (IDNs)."}
+{"text": "Expertise to handle tasks in Red Hat Linux includes upgrading RPMS using YUM,kernel, HBAdriver, configure SAN Disks, Multipathing,LVM, HDFS file system."}
+{"text": "Well experienced in hands on, Kickstart (PXE) and Jumpstart installation of various fully and mostly POSIX compliant systems like Solaris 9 &10, Red Hat 4,5 &6, CentOS 5 &6 and open SUSE 11 & 12."}
+{"text": "Experience working with DHCP/LDAP/NIS/NFS services."}
+{"text": "Experience with building and maintaining different clusters like Red-Hat, Hadoop, AMQP."}
+{"text": "High level experience with PERL scripting."}
+{"text": "Support enterprise Storage Area Networks (SAN), and Tape Backup/Restore technology in a mission critical environment."}
+{"text": "Strong experience in configuring Firewall and security using SSL, IPchains, IPtables."}
+{"text": "Hands on experience on Splunk performing operations like upgrading,configuring, converting raw data tosplunk data and using applications to perform splunk searches."}
+{"text": "Experience in using various network protocols like HTTP, UDP, POP, FTP, TCP/IP, and SMTP."}
+{"text": "Software package deployment, disaster recovery/contingency of business management."}
+{"text": "Excellent skills in problem solving, analysis, communication and documentation."}
+{"text": "Outstanding decision-making and problem-solving skill."}
+{"text": "24/7 support for issues arising in production for mission critical and enterprise level applications."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Bachelor of Technology in Information Technology (IT)."}
+{"text": ""}
+{"text": ""}
+{"text": "References are furnished upon request."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installed, configured RHEL, Ubuntu, Debian Linux and Windows on AWS cloud based instances."}
+{"text": "Database Administration on Various platforms like Linux and Windows server."}
+{"text": "Utilized AWS to set up Virtual Private Clouds(VPC) for various environments like Management, Production and Testing."}
+{"text": "Updated the AMI with the latest patches."}
+{"text": "Utilized different Services provided by AWS like S3, IAM, ELB, VPC and different type of storage service provided like EBS, EFS for better performance and scalability in the project."}
+{"text": "Server Hardware support like Dell Power Edge, HpProliant."}
+{"text": "Performed all Linux operating system, disk management, patch management, package management on Linux instances in AWS"}
+{"text": "Utilized AWS Elastic Load Balancer(ELB), which performed a balance across instances in various availability zones."}
+{"text": "Adding Disks like EBS and mounting it them onto existing instance and configuring File system on that."}
+{"text": "Designed, configured and deployed AWS services for different applications including EC2, Route53, Redshift, RDS, Cloud Formation, Cloud Watch, and IAMobtaining high-availability and auto-scaling."}
+{"text": "Configuring Security Groups for various instances which act as the firewall that controls the traffic for that specific instances."}
+{"text": "Created Chef Cluster with high availability. Created various cookbooks and recipes in chef to automate various applications."}
+{"text": "Created and Maintained Chef Recipes and cookbooks to simplify and expedite deployment of applications and mitigate user error."}
+{"text": "Created and Mointor policies using Chef."}
+{"text": "Responsible for building up the clusters and marinating them like HDFS, Red-Hat Linux, AMQP."}
+{"text": "Experience in creating and using scripts and applications using the AWS CLI tools and/or SDK."}
+{"text": "Configuring and monitoring Disk mirroring, striping using LVM."}
+{"text": "Configuration, maintenance, and troubleshooting SAN, Active Directory Domain, Exchange 2010, MS Dynamics, and SQL Servers "}
+{"text": "Maintained Linux management tools (Satellite, SUSE Manager, Spacewalk, Foreman, etc)."}
+{"text": "Provided support on applications like Splunk and Web-Methods and major Cloud applications like Cloudstack,VSphere."}
+{"text": "Provided support on Linux provisioning (kickstart, autoyast, Vmware templating)."}
+{"text": "Responsible for creating secure and complex IAM policies for delegated administration within AWS. "}
+{"text": "DNS, Apache, LDAP, SAMBA, HTTPD, VSFTP, SMTP,NFS configuration & administration."}
+{"text": "Creating Splunk data from raw data and monitoring them."}
+{"text": "Performing Forwarders configuration on Splunk, installing and using of applications on Splunk, performing Splunk searches."}
+{"text": "Expertise in scripting for automation, and monitoring using Shell, PHP, Python &Perl,Bash scripts."}
+{"text": "Monitoring the hosts and networks using Chef,Zabbixand Other Tools"}
+{"text": "Monitoring & troubleshooting with performance related issues"}
+{"text": "Managing all rebooting & part replacement activities."}
+{"text": "LDAPand RAIDAdministration."}
+{"text": "Ticket assessment on daily basis."}
+{"text": "Swap space management."}
+{"text": "Job Scheduling and Automating process using CRON & AT."}
+{"text": ""}
+{"text": "Environment: Red-Hat 6.x, 7.x, Ubuntu 14.x, 15.x,Debian 7, Windows 2008, 2012,Solaris 9, 10, Amazon Web Services(AWS), Chef, Puppet, Oracle 11.2.0.2, 11.2.0.4,Enterprise and Standard editions,SAN (FlexpodNetapp), Splunk 6.x, Tomcat 6, 7, VMware ESX 5.x, 6.x, vSphere 5.x, Shell Programming."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Installed and configured RHEL 6, Windows, CentOS 6 servers on private cloud OpenStack."}
+{"text": "Deployed OpenStack in a multi-node architecture manually."}
+{"text": "Automation of deployment of OpenStackservices using shell scripts."}
+{"text": "Using of Storage capabilities of OpenStack like Swift and Cinder backed by multiple NAS storage."}
+{"text": "Involved in Analysis, design and coding in J2EE Environment."}
+{"text": "Prepared Technical Specifications based on the functional requirements."}
+{"text": "Storing data onto AWS-S3 for better performance and scalability."}
+{"text": "Experience Building Servers using HPSA and involved in configuration management using Ansible."}
+{"text": "Creating and maintaining required network structure through Zabbix. "}
+{"text": "Used Spring DI/ORM/JDBC modules."}
+{"text": "Designed the front-end for using JSP, AJAX, HTML, JavaScript, CSS and customized JSP Tag Libraries. Also did server side logic development. Developed Action classes, Action Forms and Servlets."}
+{"text": "Updated CSS layout to reflect the new changes as per the addition of new components."}
+{"text": "Expertise in scripting for automation, and monitoring using Shell, PHP, Python &Perl."}
+{"text": "Used Hibernate with JPA for attaining Object Relational Mapping."}
+{"text": "Users, Group administration using Centrify and file system as per the Business requirements"}
+{"text": "Experienced in installing and implementing the Active directories, DNS servers,creating the groups and organizational units for the enterprise."}
+{"text": "Well Experienced with designing, installing and implementing VMware ESX servers,vCenter server and setting up of VMware Features like vMotion, HA, DRS. "}
+{"text": "Experienced in configuring the remote VM servers and adding additional VM hosts."}
+{"text": "Creating and deploying of Virtual Machines from Templates, creating Snapshots andClones of Virtual Machines for future Deployments. "}
+{"text": "Creating and configuring vNetwork Standard Switch (vSwitch), VM Kernel Ports, VM ports, service console and NIC teaming. "}
+{"text": "standard switches to vNetwork Distributed switches. Implementing and supporting Centrify Direct Control for user authentication and Samba support. "}
+{"text": "Administered user accounts in both Linux, which also included Centrify remote authentication through Active Directory."}
+{"text": "Implemented various design patterns like Factory and Singleton."}
+{"text": "Generated Web service client code and end points using Axis."}
+{"text": "Configuration, maintenance, and troubleshooting SAN, Active Directory Domain, Exchange 2010, MS Dynamics, and SQL Servers "}
+{"text": "Involved in Unit, Integration and System Test and maintain application."}
+{"text": "Job operated within a very agile environment, with daily scrum meetings; stand up meetings, burn-down charts, presentations and review."}
+{"text": "Experience in bug and defect tracking using tools like JIRA, Clear Quest, RQM & Quality Center."}
+{"text": "Experienced in Defect Management using JIRA, Bugzilla/ Mantis."}
+{"text": "Performed Agile testing using scrum practices, to keep the customer involved."}
+{"text": "Writing JUnit test cases and testing the modules in development and QA environment."}
+{"text": ""}
+{"text": "Environment:Red-Hat Enterprise Linux 5.x, 6.x, Debian 6 , 7, Solaris 9,OpenStack 8.x,Windows 2008, 2012, Solaris 9, 10, SAN (FlexpodNetapp), NAS, VeritasNetBackup, Nagios 3.5, Shell programming, JIRA,IBM WebSphere, VMware ESX 4.x, vSphere 4.x, 5.x."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Expertise in creating VM Templates, cloning and managing Snapshots."}
+{"text": "Configure dynamic and static network settings for IPv4 and filter packets, Review file system management concepts, removable media and configure NFS shares with AutoFS."}
+{"text": "Performed system performance monitoring, created alerts and benchmarking for performance analysis on all application & production servers."}
+{"text": "Responsible for design and implementation of enterprise level DNS, DHCP, and IPAM solutions for companies of all sizes, including multinational Fortune 500s"}
+{"text": "Experience configuring Open LDAP and setting up clients for Open LDAP."}
+{"text": "Involved in decommission of the servers which reached end of life and performed SAN migrations using LVM and EMC tools."}
+{"text": "Experience in writing basic Shell scripts using bash, Perl,Python for process automation of databases, applications, backup and scheduling."}
+{"text": "Upgraded and made consistent DNS and DHCP software throughout the network"}
+{"text": "Wrote Ansible configurations for deploying, configuring, and managing collected for metric collection and monitoring."}
+{"text": "Developed multiple shell scripts for system monitoring and converting raw data into Splunk format."}
+{"text": "Upgraded Splunk application from 5.0.7 to 6.1 and also have expertise in configuring Forwarders on Splunk."}
+{"text": "Involved in configuring network bonding and troubleshooting networking issues"}
+{"text": "Worked on generating and consolidating weekly Tripwire Reports."}
+{"text": "Working in war-room, providing continuous technical support throughout release and production period."}
+{"text": "Expertise in handling crisis during heavy load on servers and maintaining zero downtimes.  "}
+{"text": "Monitored server and application performance & tuning via various stat commands (top, sar, iostat, VMstat, netstat, mpstat, prstat, nfsstat, prtconf, prtdiag, iostat, top, printmgr, hpimliview, dmidecode, smcetc) and tuned I/O, memory etc for SUN Solaris and RHEL Servers."}
+{"text": ""}
+{"text": "Environment:Red-Hat Enterprise Linux 5.x, 6.x, Ubuntu 12.x,  Cloud Stack, Solaris 8, 9,SAN, NAS, NIS, EMC, Windows 2008, 2012, VMware ESX, JBoss, Splunk, IBM TSM Tivoli Storage Manager 5.3.4, IBM Tape Library 3584 with LTO 3580 tape drives."}
+{"text": ""}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Involved in various phases of Software Development Life Cycle (SDLC) as requirement gathering, modeling, analysis, architecture design and development."}
+{"text": "Build servers, configured, installed tools, installed patches and transitioned servers to production support running Linux (Redhat, SUSE and Ubuntu) on HP & Dell X86 HW."}
+{"text": "Experience Building Servers using HPSA and involved in configuration management using Puppet."}
+{"text": "Regular Admin Tasks include building Linux servers for Production, Development and Test Environments and supported the ones under production."}
+{"text": "Expertise in Shell, PHP, Python &Perl,Bash scripts."}
+{"text": "Managed all the labs and very familiar with all the server related hardware."}
+{"text": "Experience all the network configuration on the servers."}
+{"text": "24x7 on call support for production environment."}
+{"text": "Installed and upgraded SUSE 11.3 on various servers."}
+{"text": "Managed and built VMs and expert in VMware."}
+{"text": "Performed various file system changes to accommodate upgrades in applications, services and databases."}
+{"text": "Worked in Mission Critical Production environment that deals with OS level issues through the Enterprise."}
+{"text": "As a system administrator in a large team is responsible for maintaining a linux operating systems like Suse 10/11."}
+{"text": "Successfully upgraded SUSE 10 to 11 on Oracle production standby servers."}
+{"text": "Monitoring the hosts and networks using NAGIOS, Zabbix,VMstat, MPstatand Other Tools"}
+{"text": "LDAP configuration and management."}
+{"text": "Worked on Amazon Web Services - AWS (Cloud Computing)."}
+{"text": "Good knowledge in structuring the documentation for Architectural Design and Build Plan Documents."}
+{"text": ""}
+{"text": "Environment: Red-Hat Enterprise Linux 5.x, Debian 6,  SUSE 10.x, 11.x, SAN, NFS, NIS, Windows 2003, 2008, VMware ESX, VERITAS Volume Manager,Zabbix 1.6, 1.8, VCS, VERITASNet-backup, AWS, Nagios, Puppet, HPSA Kickstart."}
+{"text": ""}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Understanding open source frameworks along with debugging by Jadclipse tool."}
+{"text": "Understanding, Analysis of Business/Technical Requirements of the BRMS (Business Rules Management System."}
+{"text": "Learnt GWT, Worked on development and enhancements of the modules."}
+{"text": "Involved in preparation of FSD and HLD for the BRMS."}
+{"text": "Customizing the UI to give the look and feel based on the client requirements and code standards."}
+{"text": "Developing the Rules Request modules involved usage of advanced GWT and AJAX calls. Integrated the module to the existing project and delivered a clean, standard and efficient working model."}
+{"text": "Worked on resolving the defects (including P1 and P2)."}
+{"text": "Helped in implementing the enhancements which came in the UAT phase which includes proper shaping of the Global Area assets, providing a provision for the JAR files upload in the BRMS module, customizing the user permission and role based SSO (Single Sign On) authentication."}
+{"text": "Performing Requirement Traceability Matrix using Quality Center tool."}
+{"text": "Unit testing for the modules were customized."}
+{"text": "Provided warranty support for the BRMS for the span of 3 months."}
+{"text": ""}
+{"text": "Environment:Red-Hat Enterprise Linux 3.x, 4.x, Solaris 8, 9, SUSE 9.x, 10.x, AIX, SAN, NFS, NIS, Windows NT, 2003, VERITAS Volume Manager, VCS, VERITAS Net-backup, DELL Power edge 2850, 2950, IBM DB2, Oracle 9i, Samba, HACMP."}

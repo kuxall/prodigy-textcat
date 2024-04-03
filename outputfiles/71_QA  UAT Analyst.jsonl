@@ -1,0 +1,170 @@
+{"text": "Name: helen helen"}
+{"text": "E-Mail: helen.helen@gmail.com"}
+{"text": "Address: Hong Kong, Hong Kong"}
+{"text": "Github: https://github.com/helen"}
+{"text": "LinkedIn: https://linkedin.com/helen"}
+{"text": "Phone No. 759174727129"}
+{"text": ""}
+{"text": "CAREER SUMMARY"}
+{"text": ""}
+{"text": "With 6+ Years of IT Experienced in Prepared documentation such as business requirements and functional specifications based on business needs and used the information to develop detailed comprehensive test strategies to verify system changes to meet the needs of the client."}
+{"text": "Strong diversified knowledge in Healthcare businesses."}
+{"text": "Experienced in developing Test Plans and Test Cases for different types of software testing."}
+{"text": "Extensive knowledge of SDLC (Software Development Life Cycle) methodologies."}
+{"text": "Experienced in Software Development Life Cycle (SDLC) and Project Life Cycle specialized in Healthcare domain with prime focus on Claims adjudication, billing, provider, eligibility and prior authorization for Medicare, Medicaid and Blue Programs."}
+{"text": "Good experience working on Claim TestPro of Facets"}
+{"text": "Experience in API testing (Application Programming Interface Testing) and Service Oriented Architectures Testing (SOA)\u00a0"}
+{"text": "Experienced in various types of testing including Sanity Testing, Smoke Testing, Functionality Testing, Performance Testing, Volume Testing, Unit Testing, Integrated Testing, System Testing, Positive and Negative Testing, Security Testing and Regression Testing of, Web Based and Client-Server applications "}
+{"text": "Good experience working with Claims\u00a0Processing, Subscriber/Member enrollment, Billing and Provider applications in\u00a0FACETS."}
+{"text": "Performed Back End Testing by executing SQL queries."}
+{"text": "Experience in working with different modules of Quality Center such as Requirements, BPT, Test Plan, Test Lab and Defects."}
+{"text": "Involved in maintaining Test Matrix and Traceability Matrix and performed Gap Analysis"}
+{"text": "Performed User Acceptance Testing (UAT)."}
+{"text": "Participated in design walkthroughs and verified QC Test Scripts and results."}
+{"text": "Tracked and reported on test execution."}
+{"text": "Good Documentation and Process Management skills with an ability to effectively understand the business requirements to develop a quality product. "}
+{"text": "Extensive experience with SOA testing using XML, SOAP, WSDL, WADL, and (RESTful). "}
+{"text": "Assisted the Project Manager Plan, Coordinate, and Monitor project levels of performance and activities to ensure project completion. "}
+{"text": "Excellent project planning, design and management skills."}
+{"text": "Excellent analytical, problem solving, presentation, and interpersonal skills."}
+{"text": ""}
+{"text": "TECHNICAL SKILLS "}
+{"text": "PROFESSIONAL EXPERIENCE "}
+{"text": ""}
+{"text": "CareFirst, Owing Mills MD\t\t\t\t\t\t\t\tOct 14 \u2013 Present\u00a0                                            "}
+{"text": "QA / UAT Analyst"}
+{"text": ""}
+{"text": "CareFirst, Inc. is the not-for-profit, non-stock, parent company of CareFirst of Maryland, Inc. and Group Hospitalization and Medical Services, Inc., affiliates that do business as CareFirst BlueCross BlueShield.\u00a0CareFirst, Inc. is governed by a Board of Directors and special statutes regulating its business in Maryland, the District of Columbia,\u00a0and Northern Virginia. "}
+{"text": "Worked on Claims management system - HIPPA compliant all payorclaims management system with a very intuitive GUI. It supports the receipt of claims status from payers in text reports, U277 (Unsolicited 277) and S277 formats."}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Responsible for testing the Navigation Flow, Functionality Testing, System Testing and User Acceptance Testing."}
+{"text": "Interacted with business analysts to gather the requirements for business and performance testing."}
+{"text": "Executing SQL Queries\u00a0 for the reports before mass and after mass reports to check for Claims routing"}
+{"text": "Have good exposure to modern Agile methodologies such as SCRUM and TDD."}
+{"text": "Prepared Test Data and executed Test Cases from Quality Center."}
+{"text": "Prepared test data and helped load test data into the test database environment."}
+{"text": "Principles in an agile or test driven methodology environment."}
+{"text": "Involved in the full HIPAA compliance lifecycle from GAP analysis, mapping, implementation, and testing for processing of MedicaidClaims. Worked on EDI transactions: 270, 271, 834, 835, and 837 (P.I.D) to identify key data set elements for designated record set"}
+{"text": "Performed SoapUI Validation in the response XML file using different assertion conditions Contains, Xpathetc\u00a0"}
+{"text": "Performed UAT Testing against User Requirements and coordinated with BA, Developers, and SMEs and actively involved in Production phase testing."}
+{"text": "Formulated detailed Test Plan, Test Cases and Testing Procedures, which included Test Cases/Scripts, Performed configuration/ compatibility and user interface testing manually."}
+{"text": "Creating relevant UAT artifacts including test plans, test scenarios and test cases to be executed during UAT."}
+{"text": "Involved in reviewing complex SQL queries, views, functions and stored procedures and spotting issues "}
+{"text": "Performed functional testing of the web services (SOAP) using the\u00a0Soap UI."}
+{"text": "Performed EDI Transactions in HIPAA Validation"}
+{"text": "Created and maintained SQL Scripts to perform back-end testing on the oracle database. "}
+{"text": "Reviewed extensive SQL Queries with complex multi-table joins and nested queries."}
+{"text": "Involved in reviewing complex SQL queries, views, functions and stored procedures and spotting issues before/during code migration."}
+{"text": "Created Host Claims in Medical Claim Processing (camps) and Hospital Claim"}
+{"text": "Performed Regression testing on Claims Processing using QTP"}
+{"text": "Performed backend testing for data validation using SQL Queries."}
+{"text": "Used Claim Test Pro to perform a claims payment system upgrade to a newer release"}
+{"text": "Performed wide range of Claims testing scenarios in order to insure proper configuration and Claims payments"}
+{"text": "Worked intensively with Medicare &Medicaidclaims processing for 5010 X12 transactions"}
+{"text": "Performed rigorous manual testing such Functional Testing, Smoke testing, Integration testing, UAT  Testing, Backend Testing, Regression Testing, End to End Testing and System Testing"}
+{"text": "Used Claim Test Pro for processing claims.\u00a0"}
+{"text": "Worked on Claim Test Pro of Facets for project tracking and for reporting progress.\u00a0"}
+{"text": "Performed Manual Testing in Claims and Billing modules on Data Warehouse and executing scripts"}
+{"text": "Reviewed extensive SQL Queries with complex multi-table joins and nested queries."}
+{"text": "Used Claim Test Pro to prepare the test data for testing purpose "}
+{"text": "Extensively performed manual testing and defect reporting using Quality Center."}
+{"text": "Reported issues in claim testing to the analyst "}
+{"text": "Assisted in developing test plans for testing the functionality, GUI, and security."}
+{"text": "Performed\u00a0manual testing,\u00a0considering the base line of developed test plan and test cases considering both positive and negative scenarios"}
+{"text": "Understand and develop Web Services test strategy for different services as part of SOA "}
+{"text": "Test scenario identification and alignment to service oriented architecture implemented within organization "}
+{"text": "Created different pricing rules and verified whether the adjudication system is using the rules while adjudicating the Claims"}
+{"text": ""}
+{"text": "Environments: Java, J2EE, HTML, Rational Requisite Pro, UAT, Claims Test Pro, Oracle, MS SQL Server, HTML, XML, DB2, MS Share Point, QTP, Quality Center"}
+{"text": ""}
+{"text": "Molina HealthCare Inc., Boise, ID\t\t\t\t\t\t\tAug 12 \u2013 Aug 14"}
+{"text": "QA Analyst\t\t\t\t\t\t\t\t\t"}
+{"text": ""}
+{"text": "Molina Healthcare has grown into one of the leaders in providing quality healthcare for financially vulnerable individuals and families. Currently, Molina Healthcare arranges for the delivery of healthcare services or offers health information management solutions for nearly 4.3 million individuals and families who receive their care through Medicaid, Medicare and other government funded programs in 16 states"}
+{"text": "Project:Worked asa QA Analyst for QNXT Application"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": ""}
+{"text": "Reviewed MITA Business process documents, Functional and Technical Specification. "}
+{"text": "Documented the test case corresponding to the business rules. "}
+{"text": "Involved in writing and executing the test cases in the Quality Center. "}
+{"text": "Extensively involved in System testing, Functional, Integrating Testing, Manual Testing, UAT testing and DR Environment testing. "}
+{"text": "Extensively involved in Member, Provider and claims testing in QNXT application "}
+{"text": "Validating the 4010 and 5010 EDI 834.837 I, 837 P, and 835 data in the QNXT Application. "}
+{"text": "Creating test files for both 4010 and 5010 EDI 834,837 Institutional, 837 Professional claims X12 files as per the business scenarios. "}
+{"text": "Performed End to End testing for the member, provider and claims modules as per the MITA business process. "}
+{"text": "Involved in UAT testing for migrating the data."}
+{"text": "Successfully implemented the End2End testing and UAT (User acceptance testing)"}
+{"text": "Developed the Test Plan, Test Cases and Test Scenarios, based on business requirements and technical specifications. Collaborated with the QA team to ensure adequate testing of software by conducting UAT."}
+{"text": "Extensively involved in testing the Web Based Application for provider, member, claims and reports. "}
+{"text": "Involved in testing the Workflow application for provider and member modules. "}
+{"text": "Involved in validating the remittance advice reports. "}
+{"text": "Performed Web Services testing using SOAP UI.Responsible for new product configuration, metadata and content load using SQL scripting. "}
+{"text": "Tested the enhanced QNXT, evaluating claims adjudication needs and creating HIPAA-compliant business rule configurations."}
+{"text": "Performed end to end testing for the 4010 and 5010 EDI 834.837 I,837 P, \\and 835 files and validated as per the business scenarios. "}
+{"text": "Performed testing for Medicare, Medicaid and X-Over claims for Medicaid Management Information System (MMIS) "}
+{"text": "Extensively performed Web Services\u00a0testing for REST, SOAP, and WSDL. "}
+{"text": "Extensively involved in testing the Provider and Member interfaces files "}
+{"text": "Extensively involved in doing Conversion and parallel testing for Provider, Claims and Member modules. "}
+{"text": "Involved in testing the Provider, Member, Claims module letters. "}
+{"text": "Extensively involved in writing the SQL queries to verify the data in the QNXT and online portal databases. "}
+{"text": "Assisted UAT testers by providing data for their test scenarios by writing SQL queries against QNXT data base"}
+{"text": "Reported the defects using the Clear quest and Quality Center defect tracking tool and send email notification to the developers. "}
+{"text": "Involved in QA Daily status meetings to resolve the issues and had good coordination with Other Teams. "}
+{"text": "Extensively involved in validating the actual results and reporting the incidents to the Team Lead."}
+{"text": ""}
+{"text": "Environment: QNXT, Microsoft Excel, UAT, Quality Center, QTP, MS Office, Oracle, MS SQL Server, etc. "}
+{"text": ""}
+{"text": "AMN Healthcare, Quincy, MA\t\t\t\t\t\t\t\tMay 11-June 12"}
+{"text": "QA Analyst\t\t"}
+{"text": ""}
+{"text": "The system provides self-service options allowing the clients (Physicians, Payers, Pharmacies, and Medical laboratories) to manage many Payer transactions in real time. The system is composed of five modules that help the client Check Patient Eligibility, Submit new Claims and Retrieve Reports, Check Claims status, Make Referrals Requests, and Make Referral Inquiries.\u00a0"}
+{"text": ""}
+{"text": "Responsibilities:"}
+{"text": "Reviewed Business Requirement Documents and Technical Specifications. "}
+{"text": "Involved in Functional and UAT Test plan and Test cases for manual and automated testing from the business requirements to match the project's initiatives. "}
+{"text": "Understood and reviewed Gap analysis of EDI 4010 to 5010 format to perform functional testing of conversion from 4010 to 5010 format as per the implementation guide "}
+{"text": "Used Claim Test Pro to create comprehensive set of test suites across various claims processing scenarios"}
+{"text": "Leverage Claim Test Pro to enable testing multitude of provider reimbursement scenarios"}
+{"text": "Created and executed Automated Test Cases from Quality Center "}
+{"text": "Tested EDI formats for the healthcare benefit eligibility inquire/response (270/271), health care claim payment (835) and health care claim (837) for structure and content. "}
+{"text": "Created test cases and verified, analyzed and documented the test results against the expected results prepared as per the user requirement. "}
+{"text": "Worked intensively with Medicare &Medicaidclaims processing for 5010 X12 transactions. "}
+{"text": "Executing test cases, identified products issues, wrote detailed bug reports and participated in bug review during the product development stages. "}
+{"text": "Maintained the test logs, test reports, test issues, defect tracking using Quality Center. "}
+{"text": "Created and reviewed data flow diagrams/ activity diagrams displaying all major actors in the claim management system regarding HIPAA, EDI provider claim transactions, and clarified all system use cases / activity diagrams regarding claim submission and providers to come up with Test plans. "}
+{"text": "Developed a UAT (User acceptance Testing) plan to guide a select group of key end-users in testing the user interface and functionality of the application. "}
+{"text": "Actively involved in User Acceptance Testing."}
+{"text": ""}
+{"text": "Environment: Quality Center, Facets System,MSSQL Server, Java, J2EE, Service Oriented Architectures (SOA), MS SQL Server"}
+{"text": ""}
+{"text": "Geisinger Health System, Danville, PA\t\t\t\t\t\t\tJun 09 \u2013 Apr 11"}
+{"text": "SQA Tester"}
+{"text": ""}
+{"text": "Geisinger Health Systems, a physician-led healthcare provider in the northeastern and central Pennsylvania region, wanted to develop a clinical data repository (CDR) system to allow the researchers of its Weis Research Center to perform data mining for internal research purposes. The project also involved in designing a streamlined process for Claims Processing and Payments."}
+{"text": ""}
+{"text": "Responsibilities: "}
+{"text": "Participated in setting up testing environment."}
+{"text": "Involved in reviewing and enhancing the codes for applications."}
+{"text": "Involved in decision making to launch new builds."}
+{"text": "Prepared Test Plans and Test Cases based on the functional requirements and HIPAA regulations."}
+{"text": "Wrote test cases for Endorsements, Cancellations and Reinstatements."}
+{"text": "Participated in the management of testing project with the help of Win Runner."}
+{"text": "Performed Manual Testing to check the usability of the application."}
+{"text": "Executed Configuration Testing to check if the application was compatible in different environment for each module of the application."}
+{"text": "Performed GUI regression testing using Win Runner."}
+{"text": "Set claim processing data for different FACETS Module. "}
+{"text": "Tested HIPAA regulations in FACETS HIPAA privacy module. "}
+{"text": "Performed Data Driven Testing using Win Runner by inserting different values manually."}
+{"text": "Worked with Functions and Library Files in Win Runner."}
+{"text": "Conducted Back-End Testing manually for the purpose of Database Integrity."}
+{"text": "Defect tracking and bug reporting using Quality Center."}
+{"text": "Conducted result analysis and interacted with developers to resolve bugs."}
+{"text": "Interacted with developers, business analysts and discussed technical problems and reported bugs."}
+{"text": "Met with the developers and technical content writers on a daily basis to update the test documents"}
+{"text": ""}
+{"text": "Environment:Windows, Oracle, UNIX, Quality Center, FACTES, HIPAA regulations."}
+{"text": ""}
+{"text": "Education: Masters in Management; Healthcare."}
+{"text": ""}
